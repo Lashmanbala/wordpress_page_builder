@@ -1,20 +1,9 @@
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
-SCOPES = ["https://www.googleapis.com/auth/documents.readonly"]
-
-creds = service_account.Credentials.from_service_account_file(
-            "/home/bala/wp_page_builder/doc-reader.json", scopes=SCOPES
-        )
-
-service = build("docs", "v1", credentials=creds)
-
-DOCUMENT_ID = "1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo"
-
-doc = service.documents().get(documentId=DOCUMENT_ID, includeTabsContent=True).execute()
 
 # HELPER FUNCTION: Convert Paragraphs to HTML
-def get_text_with_formatting_html(paragraph):
+def text_to_html(paragraph):
     text_parts = []
     for element in paragraph.get("elements", []):
         if "textRun" in element:
@@ -36,50 +25,60 @@ def get_text_with_formatting_html(paragraph):
     return "".join(text_parts).strip()
 
 
-# Loop through all tabs
-for tab in doc.get("tabs", []):
-    tab_title = tab["tabProperties"]["title"]
-    print(f"\n=== {tab_title} ===\n")
+def read_all_tabs(doc_id, google_credentisals_file):
+    SCOPES = ["https://www.googleapis.com/auth/documents.readonly"]
 
-    tab_content = tab["documentTab"]["body"]["content"]
-    html_lines = []
+    creds = service_account.Credentials.from_service_account_file(google_credentisals_file, scopes=SCOPES)
 
-    for content in tab_content:
-        if "paragraph" not in content:
-            continue
-        paragraph = content["paragraph"]
-        text = get_text_with_formatting_html(paragraph)
-        if not text:
-            continue
+    service = build("docs", "v1", credentials=creds)
 
-        # Headings
-        style = paragraph.get("paragraphStyle", {}).get("namedStyleType", "")
-        if style.startswith("HEADING_"):
-            level = int(style.split("_")[1])
-            html_lines.append(f"<h{level}>{text}</h{level}>")
-            continue
+    doc = service.documents().get(documentId=doc_id, includeTabsContent=True).execute()
 
-        # Bullets / Numbered Lists
-        if "bullet" in paragraph:
-            html_lines.append(f"<li>{text}</li>")
-            continue
+    # Loop through all tabs
+    for tab in doc.get("tabs", []):
+        tab_title = tab["tabProperties"]["title"]
+        print(f"\n=== {tab_title} ===\n")
 
-        # Normal paragraph
-        html_lines.append(f"<p>{text}</p>")
+        tab_content = tab["documentTab"]["body"]["content"]
+        html_lines = []
 
-    # Combine list items into <ul> if needed
-    html_output = []
-    inside_list = False
-    for line in html_lines:
-        if line.startswith("<li>") and not inside_list:
-            html_output.append("<ul>")
-            inside_list = True
-        elif not line.startswith("<li>") and inside_list:
+        for content in tab_content:
+            if "paragraph" not in content:
+                continue
+            paragraph = content["paragraph"]
+            text = text_to_html(paragraph)
+            if not text:
+                continue
+
+            # Headings
+            style = paragraph.get("paragraphStyle", {}).get("namedStyleType", "")
+            if style.startswith("HEADING_"):
+                level = int(style.split("_")[1])
+                html_lines.append(f"<h{level}>{text}</h{level}>")
+                continue
+
+            # Bullets / Numbered Lists
+            if "bullet" in paragraph:
+                html_lines.append(f"<li>{text}</li>")
+                continue
+
+            # Normal paragraph
+            html_lines.append(f"<p>{text}</p>")
+
+        # Combine list items into <ul> if needed
+        html_output = []
+        inside_list = False
+        for line in html_lines:
+            if line.startswith("<li>") and not inside_list:
+                html_output.append("<ul>")
+                inside_list = True
+            elif not line.startswith("<li>") and inside_list:
+                html_output.append("</ul>")
+                inside_list = False
+            html_output.append(line)
+        if inside_list:
             html_output.append("</ul>")
-            inside_list = False
-        html_output.append(line)
-    if inside_list:
-        html_output.append("</ul>")
 
-    html_content = "\n".join(html_output)
-    print(html_content)
+        html_content = "\n".join(html_output)
+        
+        return html_content
