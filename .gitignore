@@ -1,0 +1,4 @@
+/__pycache__
+/wp_venv
+.env
+doc-reader.json
