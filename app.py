@@ -5,16 +5,18 @@ import os
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from read import read_tab
+from post import post_to_wp
 
-# load_dotenv()  # loads .env into environment
+load_dotenv()  # loads .env into environment
 
-# USERNAME = os.getenv("USERNAME")
-# APP_PASSWORD = os.getenv("APP_PASSWORD")
-# WP_URL = "http://my-site.local/wp-json/wp/v2/pages"
+USERNAME = os.getenv("USERNAME")
+APP_PASSWORD = os.getenv("APP_PASSWORD")
+WP_URL = os.getenv("WP_URL")
+
+doc_id = os.getenv("doc_id")
 
 
 
-doc_id = "1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo"
 google_credentisals_file = "doc-reader.json"
 
 SCOPES = ["https://www.googleapis.com/auth/documents.readonly"]
@@ -25,9 +27,38 @@ service = build("docs", "v1", credentials=creds)
 
 doc = service.documents().get(documentId=doc_id, includeTabsContent=True).execute()
 
+# Featured_img_url = 'http://my-site.local/wp-content/uploads/2025/09/Loclite-cover-image-300x111-1.png'
+featured_img_url = 'https://www.loclite.co.uk/wp-content/uploads/2025/09/Loclite-cover-image-1.png'
+social_image = 'https://www.loclite.co.uk/wp-content/uploads/2025/09/LOClite-744x238-yellow.png'
+
 # Loop through all tabs
 for tab in doc.get("tabs", []):
-    tab_title = tab["tabProperties"]["title"]
+    city_name = tab["tabProperties"]["title"]
     tab_content = tab["documentTab"]["body"]["content"]
-    html_content = read_tab()
-    print(html_content)
+    html_content = read_tab(tab_content)
+    # print(city_name)
+    # print(html_content)
+
+    page_title_format = os.getenv("page_title_format")
+    key_phrase_format = os.getenv("key_phrase_format")
+    description_format = os.getenv("description_format")
+
+    page_title = page_title_format.format(city_name=city_name)
+    key_phrase = key_phrase_format.format(city_name=city_name)
+    description = description_format.format(city_name=city_name)
+
+    response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, WP_URL, USERNAME, APP_PASSWORD)
+
+    page_URL = response.json()["link"]
+
+    if response.status_code == 201:
+        print("✅ Page created successfully!")
+        print("Page URL:", page_URL)
+
+# city_name = "Test City"
+# page_title = page_title.format(city_name=city_name)
+# key_phrase = key_phrase.format(city_name=city_name)
+# description = description.format(city_name=city_name)
+# print(page_title)
+# print(key_phrase)
+# print(description)
