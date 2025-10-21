@@ -6,26 +6,35 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from read import read_tab
 from post import post_to_wp
+from write_url import write_url_sheet
 
 load_dotenv()  # loads .env into environment
 
-USERNAME = os.getenv("USERNAME")
-APP_PASSWORD = os.getenv("APP_PASSWORD")
+USERNAME = os.getenv("WP_USERNAME")
+APP_PASSWORD = os.getenv("WP_APP_PASSWORD")
 WP_URL = os.getenv("WP_URL")
 
 doc_id = os.getenv("doc_id")
-
-
-
 google_credentisals_file = "doc-reader.json"
 
-SCOPES = ["https://www.googleapis.com/auth/documents.readonly"]
+SCOPES = ["https://www.googleapis.com/auth/documents.readonly", "https://www.googleapis.com/auth/spreadsheets"]
 
 creds = service_account.Credentials.from_service_account_file(google_credentisals_file, scopes=SCOPES)
 
-service = build("docs", "v1", credentials=creds)
+doc_service = build("docs", "v1", credentials=creds)
 
-doc = service.documents().get(documentId=doc_id, includeTabsContent=True).execute()
+doc = doc_service.documents().get(documentId=doc_id, includeTabsContent=True).execute()
+
+sheet_service = build("sheets", "v4", credentials=creds)
+spreadsheetId = os.getenv("SPREADSHEET_ID")
+sheet_name = os.getenv("SHEET_NAME")   
+
+sheet = sheet_service.spreadsheets().values().get(
+                        spreadsheetId=spreadsheetId,
+                        range=f"{sheet_name}!A2:A"  # Column A
+                    ).execute()
+
+cities = sheet.get("values", [])
 
 # Featured_img_url = 'http://my-site.local/wp-content/uploads/2025/09/Loclite-cover-image-300x111-1.png'
 featured_img_url = 'https://www.loclite.co.uk/wp-content/uploads/2025/09/Loclite-cover-image-1.png'
@@ -49,16 +58,13 @@ for tab in doc.get("tabs", []):
 
     response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, WP_URL, USERNAME, APP_PASSWORD)
 
-    page_URL = response.json()["link"]
+    page_url = response.json()["link"]
 
     if response.status_code == 201:
         print("✅ Page created successfully!")
-        print("Page URL:", page_URL)
+        print("Page URL:", page_url)
 
-# city_name = "Test City"
-# page_title = page_title.format(city_name=city_name)
-# key_phrase = key_phrase.format(city_name=city_name)
-# description = description.format(city_name=city_name)
-# print(page_title)
-# print(key_phrase)
-# print(description)
+        write_res = write_url_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities)
+        print(write_res)
+
+        
