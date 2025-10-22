@@ -9,13 +9,19 @@ def post_to_wp(html_content, featured_img_url, page_title, key_phrase, descripti
     soup = BeautifulSoup(html_content, "html.parser")
     first_p = soup.find("p").get_text(" ", strip=True)
 
-    additional_description = first_p[:85]
+    # additional_description = first_p[:85]
+
+    additional_description = first_p[:100]
+    
+    last_space = additional_description.rfind(" ")  # Find the last space before the cutoff
+
+    if last_space != -1:
+        additional_description = additional_description[:last_space]
 
     full_description = f"{description} {additional_description}"
 
     # Prepend featured image to content
     page_content = f'<img src="{featured_img_url}" alt="Featured Image" style="width:100%; height:auto;"/>\n' + html_content
-    # page_content = html_content
 
     page_data = {
         "title": page_title,
