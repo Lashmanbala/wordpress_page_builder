@@ -34,7 +34,10 @@ sheet = sheet_service.spreadsheets().values().get(
                         range=f"{sheet_name}!A2:A"  # Column A
                     ).execute()
 
-cities = sheet.get("values", [])
+cities = sheet.get("values", [])   # it gives list of lists
+
+flat_cities_list = [cell for row in cities for cell in row]
+# print(flat_cities_list)
 
 PROGRESS_FILE = "progress.json"
 
@@ -50,6 +53,7 @@ if doc_id not in progress:
 
 processed_count = 0
 skipped_count = 0
+wrong_city_name_count = 0
 
 tabs = doc.get("tabs", [])
 total_tab_count = len(tabs)
@@ -62,6 +66,11 @@ for tab in tabs:
     if city_name in progress[doc_id]:
         logger.info(f"⏩ Skipping already processed tab: {city_name}")
         skipped_count += 1
+        continue
+
+    if city_name not in flat_cities_list:
+        logger.info(f"⚠️ City '{city_name}' not found in sheet. Skipping tab.")
+        wrong_city_name_count += 1
         continue
     
     logger.info(f"Reading {city_name} tab content...")
@@ -81,7 +90,7 @@ for tab in tabs:
     if response.status_code == 201:
         page_url = response.json()["link"]
         logger.info(f"✅ Page created successfully for {city_name}!")
-        logger.info("Page URL:", page_url)
+        logger.info(f"Page URL: {page_url}")
 
         write_res = write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities)
         logger.info(write_res)
@@ -95,15 +104,23 @@ for tab in tabs:
             json.dump(progress, f, indent=4)
     else:
         logger.info(f"❌ Failed to create page for {city_name}. {response.status_code} - {response.text}")
-        logger.info("Response:", response.text)
+        logger.info(f"Response: {response.text}")
 
 # ✅ Summary after processing document
-logger.info(f"📊 Summary for Document: {doc_id}")
+logger.info(f"📊 ==== Summary for Document: {doc_id} ====")
 logger.info(f"✅ Processed new tabs: {processed_count}")
 logger.info(f"⏩ Skipped already processed: {skipped_count}")
+logger.info(f"⏩ Tabs with wrong city names: {wrong_city_name_count}")
 
-if processed_count == total_tab_count:
+if (processed_count == total_tab_count and wrong_city_name_count == 0) or (processed_count + skipped_count == total_tab_count and wrong_city_name_count == 0 and processed_count > 0):
     logger.info(f"✅ All the {total_tab_count} tabs of the document {doc_id} processed successfully.")
 
-if skipped_count > 0 and processed_count == 0:
+elif skipped_count == total_tab_count:
     logger.info(f"ℹ️ All tabs already processed for this document {doc_id}.")
+
+elif wrong_city_name_count > 0:
+    logger.info(f"⚠️ {wrong_city_name_count} city names in the document {doc_id} mis-matched with the sheet cities.")
+
+else:
+    logger.info(f"⚠️ Document {doc_id} processing completed with mixed results. Something wrong with processing this doc. Check manually.")
+
