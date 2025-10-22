@@ -58,13 +58,13 @@ logger.info(f"📄 Document ID: {doc_id} has {total_tab_count} tabs to process."
 # Loop through all tabs
 for tab in tabs:
     city_name = tab["tabProperties"]["title"]
-    logger.info(f"Reading {city_name} tab content...")
 
     if city_name in progress[doc_id]:
         logger.info(f"⏩ Skipping already processed tab: {city_name}")
         skipped_count += 1
         continue
-
+    
+    logger.info(f"Reading {city_name} tab content...")
     tab_content = tab["documentTab"]["body"]["content"]
     html_content = read_tab(tab_content)
 
@@ -98,7 +98,7 @@ for tab in tabs:
         logger.info("Response:", response.text)
 
 # ✅ Summary after processing document
-logger.info("📊 Summary for Document:", doc_id)
+logger.info(f"📊 Summary for Document: {doc_id}")
 logger.info(f"✅ Processed new tabs: {processed_count}")
 logger.info(f"⏩ Skipped already processed: {skipped_count}")
 
