@@ -6,6 +6,7 @@ from read import read_tab
 from post import post_to_wp
 from write_url import write_url_to_sheet
 import json
+from logging_config import logger
 
 load_dotenv()  # loads .env into environment
 
@@ -52,14 +53,15 @@ skipped_count = 0
 
 tabs = doc.get("tabs", [])
 total_tab_count = len(tabs)
-print(f"📄 Document ID: {doc_id} has {total_tab_count} tabs to process.")
+logger.info(f"📄 Document ID: {doc_id} has {total_tab_count} tabs to process.")
 
 # Loop through all tabs
 for tab in tabs:
     city_name = tab["tabProperties"]["title"]
+    logger.info(f"Reading {city_name} tab content...")
 
     if city_name in progress[doc_id]:
-        print(f"⏩ Skipping already processed tab: {city_name}")
+        logger.info(f"⏩ Skipping already processed tab: {city_name}")
         skipped_count += 1
         continue
 
@@ -78,13 +80,13 @@ for tab in tabs:
 
     if response.status_code == 201:
         page_url = response.json()["link"]
-        print(f"✅ Page created successfully for {city_name}!")
-        print("Page URL:", page_url)
+        logger.info(f"✅ Page created successfully for {city_name}!")
+        logger.info("Page URL:", page_url)
 
         write_res = write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities)
-        print(write_res)
+        logger.info(write_res)
 
-        # ✅ Update progress
+        # Update progress
         progress[doc_id].append(city_name)
         processed_count += 1
 
@@ -92,17 +94,16 @@ for tab in tabs:
         with open(PROGRESS_FILE, "w") as f:
             json.dump(progress, f, indent=4)
     else:
-        print(f"❌ Failed to create page for {city_name}. {response.status_code} - {response.text}")
-        print("Response:", response.text)
+        logger.info(f"❌ Failed to create page for {city_name}. {response.status_code} - {response.text}")
+        logger.info("Response:", response.text)
 
 # ✅ Summary after processing document
-print("📊 Summary for Document:", doc_id)
-print(f"✅ Processed new tabs: {processed_count}")
-print(f"⏩ Skipped already processed: {skipped_count}")
-# print(f"📘 Total processed tabs: {len(progress[doc_id])}")
+logger.info("📊 Summary for Document:", doc_id)
+logger.info(f"✅ Processed new tabs: {processed_count}")
+logger.info(f"⏩ Skipped already processed: {skipped_count}")
 
 if processed_count == total_tab_count:
-    print(f"✅ All the {total_tab_count} tabs of the document {doc_id} processed successfully.")
+    logger.info(f"✅ All the {total_tab_count} tabs of the document {doc_id} processed successfully.")
 
 if skipped_count > 0 and processed_count == 0:
-    print(f"ℹ️ All tabs already processed for this document {doc_id}.")
+    logger.info(f"ℹ️ All tabs already processed for this document {doc_id}.")
