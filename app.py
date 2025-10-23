@@ -19,6 +19,7 @@ social_image = os.getenv("SOCIAL_IMAGE_URL")
 doc_id = os.getenv("DOC_ID")
 spreadsheetId = os.getenv("SPREADSHEET_ID")
 sheet_name = os.getenv("SHEET_NAME")  
+valid_urls = os.getenv("VALID_URLS").split(", ")   # returns a list
 
 google_credentisals_file = "doc-reader.json"
 
@@ -54,6 +55,7 @@ if doc_id not in progress:
 processed_count = 0
 skipped_count = 0
 wrong_city_name_count = 0
+wrong_internal_link_content_count = 0
 
 tabs = doc.get("tabs", [])
 total_tab_count = len(tabs)
@@ -72,20 +74,25 @@ for tab in tabs:
         logger.info(f"⚠️ City '{city_name}' not found in sheet. Skipping tab.")
         wrong_city_name_count += 1
         continue
+    try:
+        logger.info(f"Reading {city_name} tab content...")
+        tab_content = tab["documentTab"]["body"]["content"]
+        html_content = read_tab(tab_content, valid_urls)
+
+        page_title_format = os.getenv("page_title_format")
+        key_phrase_format = os.getenv("key_phrase_format")
+        description_format = os.getenv("description_format")
+
+        page_title = page_title_format.format(city_name=city_name)
+        key_phrase = key_phrase_format.format(city_name=city_name)
+        description = description_format.format(city_name=city_name)
+
+        response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
     
-    logger.info(f"Reading {city_name} tab content...")
-    tab_content = tab["documentTab"]["body"]["content"]
-    html_content = read_tab(tab_content)
-
-    page_title_format = os.getenv("page_title_format")
-    key_phrase_format = os.getenv("key_phrase_format")
-    description_format = os.getenv("description_format")
-
-    page_title = page_title_format.format(city_name=city_name)
-    key_phrase = key_phrase_format.format(city_name=city_name)
-    description = description_format.format(city_name=city_name)
-
-    response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
+    except ValueError as ve:
+        logger.warning(f"🚫 Skipping tab '{city_name}' due to invalid internal link: {ve}. Check all the internal links.")
+        wrong_internal_link_content_count += 1
+        continue
 
     if response.status_code == 201:
         page_url = response.json()["link"]
@@ -106,21 +113,26 @@ for tab in tabs:
         logger.info(f"❌ Failed to create page for {city_name}. {response.status_code} - {response.text}")
         logger.info(f"Response: {response.text}")
 
-# ✅ Summary after processing document
-logger.info(f"📊 ==== Summary for Document: {doc_id} ====")
+# Summary after processing document
+logger.info(f"📊 ======= Summary for Document: {doc_id} =======")
 logger.info(f"✅ Processed new tabs: {processed_count}")
 logger.info(f"⏩ Skipped already processed: {skipped_count}")
 logger.info(f"⏩ Tabs with wrong city names: {wrong_city_name_count}")
+if wrong_internal_link_content_count > 0:
+    logger.warning(f"⚠️ Tabs with wrong internal links: {wrong_internal_link_content_count}")
 
-if (processed_count == total_tab_count and wrong_city_name_count == 0) or (processed_count + skipped_count == total_tab_count and wrong_city_name_count == 0 and processed_count > 0):
+if (processed_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0) or (processed_count + skipped_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0 and processed_count > 0):
     logger.info(f"✅ All the {total_tab_count} tabs of the document {doc_id} processed successfully.")
 
 elif skipped_count == total_tab_count:
     logger.info(f"ℹ️ All tabs already processed for this document {doc_id}.")
 
 elif wrong_city_name_count > 0:
-    logger.info(f"⚠️ {wrong_city_name_count} city names in the document {doc_id} mis-matched with the sheet cities.")
+    logger.warning(f"⚠️ {wrong_city_name_count} city names in the tabs of the document {doc_id} mis-matched with the sheet cities.")
+
+elif wrong_internal_link_content_count > 0:
+    logger.warning(f"⚠️ {wrong_internal_link_content_count} tabs in the document {doc_id} have wrong internal links in the content.")
 
 else:
-    logger.info(f"⚠️ Document {doc_id} processing completed with mixed results. Something wrong with processing this doc. Check manually.")
+    logger.warning(f"⚠️ Document {doc_id} processing completed with mixed results. Something wrong with processing this doc. Check manually.")
 

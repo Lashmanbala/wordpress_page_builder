@@ -674,3 +674,441 @@ Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-scottish-borders/
 2025-10-22 13:08:43,759 - INFO - ✅ Processed new tabs: 0
 2025-10-22 13:08:43,759 - INFO - ⏩ Skipped already processed: 4
 2025-10-22 13:08:43,759 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-10-22 14:38:48,183 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 14:38:48,858 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 14:38:48,858 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 14:38:48,858 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 14:38:48,859 - INFO - ⚠️ City 'Test Valleyy' not found in sheet. Skipping tab.
+2025-10-22 14:38:48,859 - INFO - 📊 Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo
+2025-10-22 14:38:48,859 - INFO - ✅ Processed new tabs: 0
+2025-10-22 14:38:48,859 - INFO - ⏩ Skipped already processed: 3
+2025-10-22 14:38:48,859 - INFO - ⏩ Tabs with wrong city names: 1
+2025-10-22 14:38:48,859 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-10-22 15:14:27,718 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 15:14:27,739 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 15:14:27,740 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 15:14:27,740 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 15:14:27,740 - INFO - ⚠️ City 'Test Valleyy' not found in sheet. Skipping tab.
+2025-10-22 15:14:27,740 - INFO - 📊 Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo
+2025-10-22 15:14:27,741 - INFO - ✅ Processed new tabs: 0
+2025-10-22 15:14:27,742 - INFO - ⏩ Skipped already processed: 3
+2025-10-22 15:14:27,742 - INFO - ⏩ Tabs with wrong city names: 1
+2025-10-22 15:14:27,742 - INFO - ⚠️ 1 city names in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo mis-matched with the sheet cities.
+2025-10-22 15:22:06,609 - INFO - 📄 Document ID: 17lEf0F5tkDTXuvt8ZUn0DW53qSdKxl2hXXd0RprQ6-4 has 98 tabs to process.
+2025-10-22 15:22:06,609 - INFO - ⏩ Skipping already processed tab: Dundee
+2025-10-22 15:22:06,610 - INFO - ⏩ Skipping already processed tab: Basingstoke & Deane
+2025-10-22 15:22:06,610 - INFO - ⏩ Skipping already processed tab: Harrogate
+2025-10-22 15:22:06,610 - INFO - ⏩ Skipping already processed tab: Dumfries & Galloway
+2025-10-22 15:22:06,610 - INFO - ⏩ Skipping already processed tab: Middlesbrough
+2025-10-22 15:22:06,611 - INFO - ⏩ Skipping already processed tab: Flintshire
+2025-10-22 15:22:06,611 - INFO - ⏩ Skipping already processed tab: The Wrekin
+2025-10-22 15:22:06,612 - INFO - ⏩ Skipping already processed tab: Newbury
+2025-10-22 15:22:06,612 - INFO - ⏩ Skipping already processed tab: Falkirk
+2025-10-22 15:22:06,612 - INFO - ⏩ Skipping already processed tab: Wokingham
+2025-10-22 15:22:06,612 - INFO - ⏩ Skipping already processed tab: Windsor & Maidenhead
+2025-10-22 15:22:06,612 - INFO - ⏩ Skipping already processed tab: Maidstone
+2025-10-22 15:22:06,613 - INFO - ⏩ Skipping already processed tab: Redcar & Cleveland
+2025-10-22 15:22:06,613 - INFO - ⏩ Skipping already processed tab: Poole
+2025-10-22 15:22:06,613 - INFO - ⏩ Skipping already processed tab: Wealden
+2025-10-22 15:22:06,613 - INFO - ⏩ Skipping already processed tab: Arun
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Bedford
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Lancaster
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Newport
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Canterbury
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Dacorum
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Cherwell
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Perth & Kinross
+2025-10-22 15:22:06,614 - INFO - ⏩ Skipping already processed tab: Thurrock
+2025-10-22 15:22:06,615 - INFO - ⏩ Skipping already processed tab: Tendring
+2025-10-22 15:22:06,615 - INFO - ⏩ Skipping already processed tab: Kings Lynn & West Norfolk
+2025-10-22 15:22:06,615 - INFO - ⏩ Skipping already processed tab: St Albans
+2025-10-22 15:22:06,616 - INFO - ⏩ Skipping already processed tab: Bridgend
+2025-10-22 15:22:06,616 - INFO - ⏩ Skipping already processed tab: Braintree
+2025-10-22 15:22:06,616 - INFO - ⏩ Skipping already processed tab: Thanet
+2025-10-22 15:22:06,616 - INFO - ⏩ Skipping already processed tab: Isle of Wight
+2025-10-22 15:22:06,616 - INFO - ⏩ Skipping already processed tab: Mid Sussex
+2025-10-22 15:22:06,616 - INFO - ⏩ Skipping already processed tab: Guildford
+2025-10-22 15:22:06,616 - INFO - ⏩ Skipping already processed tab: Elmbridge
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: Stafford
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: Powys
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: Torbay
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: Wrexham Maelor
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: East Lindsey
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: Halton
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: Warwick
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: North Wiltshire
+2025-10-22 15:22:06,617 - INFO - ⏩ Skipping already processed tab: South Kesteven
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Epping Forest
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Vale of Glamorgan
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Reigate & Banstead
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Chester
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Mid Bedfordshire
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Suffolk Coastal
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Horsham
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Nuneaton & Bedworth
+2025-10-22 15:22:06,618 - INFO - ⏩ Skipping already processed tab: Gwynedd
+2025-10-22 15:22:06,619 - INFO - ⏩ Skipping already processed tab: Swale
+2025-10-22 15:22:06,619 - INFO - ⏩ Skipping already processed tab: Havant & Waterloo
+2025-10-22 15:22:06,619 - INFO - ⏩ Skipping already processed tab: Teignbridge
+2025-10-22 15:22:06,619 - INFO - ⏩ Skipping already processed tab: Amber Valley
+2025-10-22 15:22:06,620 - INFO - ⏩ Skipping already processed tab: North Hertfordshire
+2025-10-22 15:22:06,620 - INFO - ⏩ Skipping already processed tab: Waverley
+2025-10-22 15:22:06,620 - INFO - ⏩ Skipping already processed tab: Broadland
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Crewe & Nantwich
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Breckland
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Pembrokeshire
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Vale of White Horse
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Salisbury
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Gedling
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Eastleigh
+2025-10-22 15:22:06,621 - INFO - ⏩ Skipping already processed tab: Broxtowe
+2025-10-22 15:22:06,622 - INFO - ⏩ Skipping already processed tab: Stratford-on-Avon
+2025-10-22 15:22:06,622 - INFO - ⏩ Skipping already processed tab: South Bedfordshire
+2025-10-22 15:22:06,622 - INFO - ⏩ Skipping already processed tab: Angus
+2025-10-22 15:22:06,622 - INFO - ⏩ Skipping already processed tab: East Hampshire
+2025-10-22 15:22:06,622 - INFO - ⏩ Skipping already processed tab: East Dunbartonshire
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Conway
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Sevenoaks
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Slough
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Bracknell Forest
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: West Lancashire
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: West Wiltshire
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Ashfield
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Lisburn
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Scarborough
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Stroud
+2025-10-22 15:22:06,623 - INFO - ⏩ Skipping already processed tab: Wychavon
+2025-10-22 15:22:06,624 - INFO - ⏩ Skipping already processed tab: Waveney
+2025-10-22 15:22:06,624 - INFO - ⏩ Skipping already processed tab: Exeter
+2025-10-22 15:22:06,624 - INFO - ⏩ Skipping already processed tab: Dover
+2025-10-22 15:22:06,624 - INFO - ⏩ Skipping already processed tab: Test Valley
+2025-10-22 15:22:06,624 - INFO - ⏩ Skipping already processed tab: Erewash
+2025-10-22 15:22:06,624 - INFO - ⏩ Skipping already processed tab: Cheltenham
+2025-10-22 15:22:06,625 - INFO - ⏩ Skipping already processed tab: Bassetlaw
+2025-10-22 15:22:06,625 - INFO - ⏩ Skipping already processed tab: Scottish Borders
+2025-10-22 15:22:06,625 - INFO - Reading Basildon tab content...
+2025-10-22 15:22:09,083 - INFO - ✅ Page created successfully for Basildon!
+2025-10-22 15:22:09,811 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:22:09,832 - INFO - Reading Glasgow tab content...
+2025-10-22 15:22:10,867 - INFO - ✅ Page created successfully for Glasgow!
+2025-10-22 15:22:11,656 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:22:11,708 - INFO - Reading Knowsley tab content...
+2025-10-22 15:22:12,732 - INFO - ✅ Page created successfully for Knowsley!
+2025-10-22 15:22:14,103 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:22:14,105 - INFO - Reading Rotherham tab content...
+2025-10-22 15:22:14,798 - INFO - ✅ Page created successfully for Rotherham!
+2025-10-22 15:22:15,722 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:22:15,728 - INFO - Reading Sunderland tab content...
+2025-10-22 15:22:17,225 - INFO - ✅ Page created successfully for Sunderland!
+2025-10-22 15:22:18,054 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:22:18,056 - INFO - Reading Thamesdown tab content...
+2025-10-22 15:22:19,524 - INFO - ✅ Page created successfully for Thamesdown!
+2025-10-22 15:22:20,346 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:22:20,348 - INFO - Reading Vale Royal tab content...
+2025-10-22 15:22:20,877 - INFO - ✅ Page created successfully for Vale Royal!
+2025-10-22 15:22:22,172 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:22:22,173 - INFO - 📊 ==== Summary for Document: 17lEf0F5tkDTXuvt8ZUn0DW53qSdKxl2hXXd0RprQ6-4 ====
+2025-10-22 15:22:22,173 - INFO - ✅ Processed new tabs: 7
+2025-10-22 15:22:22,173 - INFO - ⏩ Skipped already processed: 91
+2025-10-22 15:22:22,173 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 15:47:02,559 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 15:47:02,560 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 15:47:02,560 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 15:47:02,560 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 15:47:02,561 - INFO - ⚠️ City 'Test Valleyz' not found in sheet. Skipping tab.
+2025-10-22 15:47:02,561 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 15:47:02,561 - INFO - ✅ Processed new tabs: 0
+2025-10-22 15:47:02,561 - INFO - ⏩ Skipped already processed: 3
+2025-10-22 15:47:02,561 - INFO - ⏩ Tabs with wrong city names: 1
+2025-10-22 15:47:02,561 - INFO - ⚠️ 1 city names in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo mis-matched with the sheet cities.
+2025-10-22 15:49:31,244 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 15:49:31,245 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 15:49:31,245 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 15:49:31,245 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 15:49:31,245 - INFO - Reading Test Valleyz tab content...
+2025-10-22 15:49:34,406 - INFO - ✅ Page created successfully for Test Valleyz!
+2025-10-22 15:49:34,407 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-test-valleyz/
+2025-10-22 15:49:34,952 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 15:49:34,954 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 15:49:34,954 - INFO - ✅ Processed new tabs: 1
+2025-10-22 15:49:34,954 - INFO - ⏩ Skipped already processed: 3
+2025-10-22 15:49:34,954 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 15:49:34,954 - INFO - ✅ All the 4 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-22 15:50:55,259 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 15:50:55,260 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 15:50:55,260 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 15:50:55,261 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 15:50:55,261 - INFO - ⏩ Skipping already processed tab: Test Valleyz
+2025-10-22 15:50:55,261 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 15:50:55,261 - INFO - ✅ Processed new tabs: 0
+2025-10-22 15:50:55,261 - INFO - ⏩ Skipped already processed: 4
+2025-10-22 15:50:55,262 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 15:50:55,262 - INFO - ✅ All the 4 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-22 15:51:51,404 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 15:51:51,404 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 15:51:51,404 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 15:51:51,404 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 15:51:51,404 - INFO - ⏩ Skipping already processed tab: Test Valleyz
+2025-10-22 15:51:51,404 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 15:51:51,405 - INFO - ✅ Processed new tabs: 0
+2025-10-22 15:51:51,405 - INFO - ⏩ Skipped already processed: 4
+2025-10-22 15:51:51,405 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 15:51:51,405 - INFO - ✅ All the 4 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-22 15:56:27,923 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 15:56:27,924 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 15:56:27,924 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 15:56:27,925 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 15:56:27,925 - INFO - ⏩ Skipping already processed tab: Test Valleyz
+2025-10-22 15:56:27,925 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 15:56:27,926 - INFO - ✅ Processed new tabs: 0
+2025-10-22 15:56:27,926 - INFO - ⏩ Skipped already processed: 4
+2025-10-22 15:56:27,926 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 15:56:27,926 - INFO - ✅ All the 4 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-22 16:00:34,143 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 16:00:34,144 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 16:00:34,145 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 16:00:34,145 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 16:00:34,145 - INFO - ⏩ Skipping already processed tab: Test Valleyz
+2025-10-22 16:00:34,146 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 16:00:34,146 - INFO - ✅ Processed new tabs: 0
+2025-10-22 16:00:34,146 - INFO - ⏩ Skipped already processed: 4
+2025-10-22 16:00:34,146 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 16:00:34,146 - INFO - ✅ All the 4 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-22 16:02:15,388 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 16:02:15,389 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 16:02:15,392 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 16:02:15,392 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 16:02:15,393 - INFO - ⏩ Skipping already processed tab: Test Valleyz
+2025-10-22 16:02:15,394 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 16:02:15,394 - INFO - ✅ Processed new tabs: 0
+2025-10-22 16:02:15,395 - INFO - ⏩ Skipped already processed: 4
+2025-10-22 16:02:15,396 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 16:02:15,396 - INFO - ✅ All the 4 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-22 16:02:15,397 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-10-22 16:06:26,526 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-22 16:06:26,527 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-22 16:06:26,528 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-22 16:06:26,528 - INFO - ⏩ Skipping already processed tab: London
+2025-10-22 16:06:26,529 - INFO - ⏩ Skipping already processed tab: Test Valleyz
+2025-10-22 16:06:26,529 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-22 16:06:26,529 - INFO - ✅ Processed new tabs: 0
+2025-10-22 16:06:26,529 - INFO - ⏩ Skipped already processed: 4
+2025-10-22 16:06:26,530 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 16:06:26,530 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-10-22 16:14:07,821 - INFO - 📄 Document ID: 17lEf0F5tkDTXuvt8ZUn0DW53qSdKxl2hXXd0RprQ6-4 has 99 tabs to process.
+2025-10-22 16:14:07,821 - INFO - ⏩ Skipping already processed tab: Dundee
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: Basingstoke & Deane
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: Harrogate
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: Dumfries & Galloway
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: Middlesbrough
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: Flintshire
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: The Wrekin
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: Newbury
+2025-10-22 16:14:07,822 - INFO - ⏩ Skipping already processed tab: Falkirk
+2025-10-22 16:14:07,823 - INFO - ⏩ Skipping already processed tab: Wokingham
+2025-10-22 16:14:07,823 - INFO - ⏩ Skipping already processed tab: Windsor & Maidenhead
+2025-10-22 16:14:07,823 - INFO - ⏩ Skipping already processed tab: Maidstone
+2025-10-22 16:14:07,823 - INFO - ⏩ Skipping already processed tab: Redcar & Cleveland
+2025-10-22 16:14:07,823 - INFO - ⏩ Skipping already processed tab: Poole
+2025-10-22 16:14:07,823 - INFO - ⏩ Skipping already processed tab: Wealden
+2025-10-22 16:14:07,824 - INFO - ⏩ Skipping already processed tab: Arun
+2025-10-22 16:14:07,824 - INFO - ⏩ Skipping already processed tab: Bedford
+2025-10-22 16:14:07,824 - INFO - ⏩ Skipping already processed tab: Lancaster
+2025-10-22 16:14:07,824 - INFO - ⏩ Skipping already processed tab: Newport
+2025-10-22 16:14:07,824 - INFO - ⏩ Skipping already processed tab: Canterbury
+2025-10-22 16:14:07,824 - INFO - ⏩ Skipping already processed tab: Dacorum
+2025-10-22 16:14:07,824 - INFO - ⏩ Skipping already processed tab: Cherwell
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Perth & Kinross
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Thurrock
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Tendring
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Kings Lynn & West Norfolk
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: St Albans
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Bridgend
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Braintree
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Thanet
+2025-10-22 16:14:07,825 - INFO - ⏩ Skipping already processed tab: Isle of Wight
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Mid Sussex
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Guildford
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Elmbridge
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Stafford
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Powys
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Torbay
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Wrexham Maelor
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: East Lindsey
+2025-10-22 16:14:07,826 - INFO - ⏩ Skipping already processed tab: Halton
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: Warwick
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: North Wiltshire
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: South Kesteven
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: Epping Forest
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: Vale of Glamorgan
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: Reigate & Banstead
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: Chester
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: Mid Bedfordshire
+2025-10-22 16:14:07,827 - INFO - ⏩ Skipping already processed tab: Suffolk Coastal
+2025-10-22 16:14:07,828 - INFO - ⏩ Skipping already processed tab: Horsham
+2025-10-22 16:14:07,828 - INFO - ⏩ Skipping already processed tab: Nuneaton & Bedworth
+2025-10-22 16:14:07,828 - INFO - ⏩ Skipping already processed tab: Gwynedd
+2025-10-22 16:14:07,828 - INFO - ⏩ Skipping already processed tab: Swale
+2025-10-22 16:14:07,828 - INFO - ⏩ Skipping already processed tab: Havant & Waterloo
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Teignbridge
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Amber Valley
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: North Hertfordshire
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Waverley
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Broadland
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Crewe & Nantwich
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Breckland
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Pembrokeshire
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Vale of White Horse
+2025-10-22 16:14:07,829 - INFO - ⏩ Skipping already processed tab: Salisbury
+2025-10-22 16:14:07,835 - INFO - ⏩ Skipping already processed tab: Gedling
+2025-10-22 16:14:07,835 - INFO - ⏩ Skipping already processed tab: Eastleigh
+2025-10-22 16:14:07,835 - INFO - ⏩ Skipping already processed tab: Broxtowe
+2025-10-22 16:14:07,835 - INFO - ⏩ Skipping already processed tab: Stratford-on-Avon
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: South Bedfordshire
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: Angus
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: East Hampshire
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: East Dunbartonshire
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: Conway
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: Sevenoaks
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: Slough
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: Bracknell Forest
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: West Lancashire
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: West Wiltshire
+2025-10-22 16:14:07,838 - INFO - ⏩ Skipping already processed tab: Ashfield
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Lisburn
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Scarborough
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Stroud
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Wychavon
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Waveney
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Exeter
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Dover
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Test Valley
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Erewash
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Cheltenham
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Bassetlaw
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Scottish Borders
+2025-10-22 16:14:07,839 - INFO - ⏩ Skipping already processed tab: Basildon
+2025-10-22 16:14:07,840 - INFO - ⏩ Skipping already processed tab: Glasgow
+2025-10-22 16:14:07,840 - INFO - ⏩ Skipping already processed tab: Knowsley
+2025-10-22 16:14:07,840 - INFO - ⏩ Skipping already processed tab: Rotherham
+2025-10-22 16:14:07,840 - INFO - ⏩ Skipping already processed tab: Sunderland
+2025-10-22 16:14:07,840 - INFO - ⏩ Skipping already processed tab: Thamesdown
+2025-10-22 16:14:07,840 - INFO - ⏩ Skipping already processed tab: Vale Royal
+2025-10-22 16:14:07,840 - INFO - Reading York tab content...
+2025-10-22 16:14:09,692 - INFO - ✅ Page created successfully for York!
+2025-10-22 16:14:09,693 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-york/
+2025-10-22 16:14:10,486 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-22 16:14:10,487 - INFO - 📊 ==== Summary for Document: 17lEf0F5tkDTXuvt8ZUn0DW53qSdKxl2hXXd0RprQ6-4 ====
+2025-10-22 16:14:10,488 - INFO - ✅ Processed new tabs: 1
+2025-10-22 16:14:10,488 - INFO - ⏩ Skipped already processed: 98
+2025-10-22 16:14:10,488 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-22 16:14:10,488 - INFO - ✅ All the 99 tabs of the document 17lEf0F5tkDTXuvt8ZUn0DW53qSdKxl2hXXd0RprQ6-4 processed successfully.
+2025-10-23 09:53:14,678 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-23 09:53:14,691 - INFO - Reading Teesside@ tab content...
+2025-10-23 10:42:23,749 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-23 10:42:23,751 - INFO - Reading Teesside@ tab content...
+2025-10-23 10:42:23,752 - WARNING - 🚫 Skipping tab 'Teesside@' due to invalid internal link. Check all the internal links: ⚠️ Invalid URL found in this city content. Please check all the urls in the content and try again
+2025-10-23 10:42:23,753 - INFO - Reading Bristol@ tab content...
+2025-10-23 10:42:23,754 - WARNING - 🚫 Skipping tab 'Bristol@' due to invalid internal link. Check all the internal links: ⚠️ Invalid URL found in this city content. Please check all the urls in the content and try again
+2025-10-23 10:42:23,754 - INFO - Reading London@ tab content...
+2025-10-23 10:42:23,755 - WARNING - 🚫 Skipping tab 'London@' due to invalid internal link. Check all the internal links: ⚠️ Invalid URL found in this city content. Please check all the urls in the content and try again
+2025-10-23 10:42:23,756 - INFO - Reading Test Valley@ tab content...
+2025-10-23 10:42:23,758 - WARNING - 🚫 Skipping tab 'Test Valley@' due to invalid internal link. Check all the internal links: ⚠️ Invalid URL found in this city content. Please check all the urls in the content and try again
+2025-10-23 10:42:23,759 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-23 10:42:23,759 - INFO - ✅ Processed new tabs: 0
+2025-10-23 10:42:23,759 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 10:42:23,759 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 10:42:23,759 - INFO - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-10-23 10:47:01,261 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-23 10:47:01,262 - INFO - Reading Teesside@ tab content...
+2025-10-23 10:47:01,263 - WARNING - 🚫 Skipping tab 'Teesside@' due to invalid internal link. Check all the internal links: 
+2025-10-23 10:47:01,263 - INFO - Reading Bristol@ tab content...
+2025-10-23 10:47:01,264 - WARNING - 🚫 Skipping tab 'Bristol@' due to invalid internal link. Check all the internal links: 
+2025-10-23 10:47:01,264 - INFO - Reading London@ tab content...
+2025-10-23 10:47:01,264 - WARNING - 🚫 Skipping tab 'London@' due to invalid internal link. Check all the internal links: 
+2025-10-23 10:47:01,265 - INFO - Reading Test Valley@ tab content...
+2025-10-23 10:47:01,265 - WARNING - 🚫 Skipping tab 'Test Valley@' due to invalid internal link. Check all the internal links: 
+2025-10-23 10:47:01,266 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-23 10:47:01,266 - INFO - ✅ Processed new tabs: 0
+2025-10-23 10:47:01,267 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 10:47:01,267 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 10:47:01,267 - INFO - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-10-23 11:25:33,008 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 3 tabs to process.
+2025-10-23 11:25:33,011 - INFO - Reading Teesside@ tab content...
+2025-10-23 11:25:33,011 - WARNING - 🚫 Skipping tab 'Teesside@' due to invalid internal link. Check all the internal links: 
+2025-10-23 11:25:33,012 - INFO - Reading Bristol@ tab content...
+2025-10-23 11:25:33,014 - WARNING - 🚫 Skipping tab 'Bristol@' due to invalid internal link. Check all the internal links: 
+2025-10-23 11:25:33,014 - INFO - Reading London@ tab content...
+2025-10-23 11:25:33,015 - WARNING - 🚫 Skipping tab 'London@' due to invalid internal link. Check all the internal links: 
+2025-10-23 11:25:33,016 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-23 11:25:33,016 - INFO - ✅ Processed new tabs: 0
+2025-10-23 11:25:33,016 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 11:25:33,016 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 11:25:33,016 - WARNING - ⚠️ Tabs with wrong internal links: 3
+2025-10-23 11:25:33,016 - WARNING - ⚠️ 3 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal linkin the content.
+2025-10-23 11:28:10,191 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 3 tabs to process.
+2025-10-23 11:28:10,192 - INFO - Reading Teesside@ tab content...
+2025-10-23 11:28:10,193 - WARNING - 🚫 Skipping tab 'Teesside@' due to invalid internal link: https://www.loclite.co.uk/how-uk-businesses-can-use-loclite-to-boost-local-trust/. Check all the internal links.
+2025-10-23 11:28:10,194 - INFO - Reading Bristol@ tab content...
+2025-10-23 11:28:10,195 - WARNING - 🚫 Skipping tab 'Bristol@' due to invalid internal link: https://www.loclite.co.uk/how-uk-businesses-can-use-loclite-to-boost-local-trust/. Check all the internal links.
+2025-10-23 11:28:10,196 - INFO - Reading London@ tab content...
+2025-10-23 11:28:10,196 - WARNING - 🚫 Skipping tab 'London@' due to invalid internal link: https://www.satheesseo.com/seo-consultant-in-london-uk/. Check all the internal links.
+2025-10-23 11:28:10,197 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-23 11:28:10,197 - INFO - ✅ Processed new tabs: 0
+2025-10-23 11:28:10,199 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 11:28:10,199 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 11:28:10,200 - WARNING - ⚠️ Tabs with wrong internal links: 3
+2025-10-23 11:28:10,200 - WARNING - ⚠️ 3 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal linkin the content.
+2025-10-23 11:30:01,624 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 3 tabs to process.
+2025-10-23 11:30:01,625 - INFO - Reading Teesside@ tab content...
+2025-10-23 11:30:01,626 - WARNING - 🚫 Skipping tab 'Teesside@' due to invalid internal link: https://www.loclite.co.uk/how-uk-businesses-can-use-loclite-to-boost-local-trust/. Check all the internal links.
+2025-10-23 11:30:01,626 - INFO - Reading Bristol@ tab content...
+2025-10-23 11:30:01,627 - WARNING - 🚫 Skipping tab 'Bristol@' due to invalid internal link: https://www.loclite.co.uk/how-uk-businesses-can-use-loclite-to-boost-local-trust/. Check all the internal links.
+2025-10-23 11:30:01,628 - INFO - Reading London@ tab content...
+2025-10-23 11:30:03,907 - INFO - ✅ Page created successfully for London@!
+2025-10-23 11:30:03,909 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-23 11:30:04,782 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 11:30:04,812 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-23 11:30:04,813 - INFO - ✅ Processed new tabs: 1
+2025-10-23 11:30:04,813 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 11:30:04,813 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 11:30:04,813 - WARNING - ⚠️ Tabs with wrong internal links: 2
+2025-10-23 11:30:04,814 - WARNING - ⚠️ 2 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal linkin the content.
+2025-10-23 11:38:42,557 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 1 tabs to process.
+2025-10-23 11:38:42,558 - INFO - Reading London! tab content...
+2025-10-23 11:38:45,692 - INFO - ✅ Page created successfully for London!!
+2025-10-23 11:38:45,694 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-23 11:38:46,581 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 11:38:46,584 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-23 11:38:46,585 - INFO - ✅ Processed new tabs: 1
+2025-10-23 11:38:46,585 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 11:38:46,585 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 11:38:46,586 - WARNING - ⚠️ Tabs with wrong internal links: 0
+2025-10-23 11:38:46,586 - INFO - ✅ All the 1 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-23 11:44:55,954 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 1 tabs to process.
+2025-10-23 11:44:55,954 - INFO - Reading London# tab content...
+2025-10-23 11:44:57,561 - INFO - ✅ Page created successfully for London#!
+2025-10-23 11:44:57,561 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-23 11:44:58,329 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 11:44:58,330 - INFO - 📊 ==== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo ====
+2025-10-23 11:44:58,331 - INFO - ✅ Processed new tabs: 1
+2025-10-23 11:44:58,331 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 11:44:58,331 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 11:44:58,331 - INFO - ✅ All the 1 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-23 13:27:16,613 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 1 tabs to process.
+2025-10-23 13:27:16,614 - INFO - Reading London/ tab content...
+2025-10-23 13:27:18,265 - INFO - ✅ Page created successfully for London/!
+2025-10-23 13:27:18,265 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-23 13:27:19,079 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 13:27:19,083 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 13:27:19,083 - INFO - ✅ Processed new tabs: 1
+2025-10-23 13:27:19,084 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 13:27:19,084 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 13:27:19,084 - INFO - ✅ All the 1 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-23 13:27:40,979 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 1 tabs to process.
+2025-10-23 13:27:40,980 - INFO - ⏩ Skipping already processed tab: London/
+2025-10-23 13:27:40,980 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 13:27:40,980 - INFO - ✅ Processed new tabs: 0
+2025-10-23 13:27:40,980 - INFO - ⏩ Skipped already processed: 1
+2025-10-23 13:27:40,980 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 13:27:40,981 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.

@@ -1,8 +1,5 @@
-
-
-
-# HELPER FUNCTION: Convert Paragraphs to HTML
-def text_to_html(paragraph):
+# Convert Paragraphs to HTML
+def text_to_html(paragraph, valid_urls):
     text_parts = []
     for element in paragraph.get("elements", []):
         if "textRun" in element:
@@ -11,7 +8,16 @@ def text_to_html(paragraph):
 
             # Handle hyperlinks
             if "link" in style and style["link"].get("url"):
+                # valid_urls = ['https://www.loclite.co.uk/about/', 'https://www.loclite.co.uk/digital-marketing-solutions/', 
+                #             'https://www.loclite.co.uk/small-businesses-and-startup-companies/', 'https://www.loclite.co.uk/',
+                #             'https://www.loclite.co.uk/advertise-with-us/', 'https://www.loclite.ca/faq/',
+                #             'https://www.satheesseo.com/seo-consultant-in-london-uk/'] 
+                                      
                 url = style["link"]["url"]
+
+                if url not in valid_urls:      # stops processing the tab bcz of invalid url
+                    raise ValueError(f'{url}')
+                    
                 txt = f'<a href="{url}">{txt.strip()}</a>'
 
             # Apply bold/italic
@@ -25,10 +31,7 @@ def text_to_html(paragraph):
 
 
 
-def read_tab(tab_content):
-
-    # print(f"\n=== {tab_title} ===\n")
-
+def read_tab(tab_content, valid_urls):
   
     html_lines = []
 
@@ -36,7 +39,7 @@ def read_tab(tab_content):
         if "paragraph" not in content:
             continue
         paragraph = content["paragraph"]
-        text = text_to_html(paragraph)
+        text = text_to_html(paragraph, valid_urls)
         if not text:
             continue
 
@@ -55,7 +58,7 @@ def read_tab(tab_content):
         # Normal paragraph
         html_lines.append(f"<p>{text}</p>")
 
-    # Combine list items into <ul> if needed
+    # Combine list items into <ul> tags
     html_output = []
     inside_list = False
     for line in html_lines:
