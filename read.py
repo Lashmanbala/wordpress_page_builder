@@ -1,18 +1,25 @@
+import re
+
 # Convert Paragraphs to HTML
 def text_to_html(paragraph, valid_urls):
     text_parts = []
     for element in paragraph.get("elements", []):
         if "textRun" in element:
             txt = element["textRun"]["content"]
+            # re.sub(r'[\x00-\x1F\x7F-\x9F]', '', txt)   # Remove control characters except newlines
+            txt = txt.replace("\u2028", " ")  # Line separator
+            txt = txt.replace("\u2029", " ")  # Paragraph separator
+            txt = txt.replace("\u00A0", " ")  # Non-breaking space
+            txt = txt.replace("\u200B", "")   # Zero-width space
+            txt = txt.replace("\r", " ")      # Carriage return
+            txt = txt.replace("\n", " ")      # Line feed
+            txt = txt.replace("\v", " ")      # Vertical tab (your “” issue)
+            txt = txt.replace("\f", " ")      # Form feed
+            
             style = element["textRun"].get("textStyle", {})
 
             # Handle hyperlinks
             if "link" in style and style["link"].get("url"):
-                # valid_urls = ['https://www.loclite.co.uk/about/', 'https://www.loclite.co.uk/digital-marketing-solutions/', 
-                #             'https://www.loclite.co.uk/small-businesses-and-startup-companies/', 'https://www.loclite.co.uk/',
-                #             'https://www.loclite.co.uk/advertise-with-us/', 'https://www.loclite.ca/faq/',
-                #             'https://www.satheesseo.com/seo-consultant-in-london-uk/'] 
-                                      
                 url = style["link"]["url"]
 
                 if url not in valid_urls:      # stops processing the tab bcz of invalid url
