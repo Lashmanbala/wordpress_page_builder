@@ -6,16 +6,9 @@ def text_to_html(paragraph, valid_urls):
     for element in paragraph.get("elements", []):
         if "textRun" in element:
             txt = element["textRun"]["content"]
-            # re.sub(r'[\x00-\x1F\x7F-\x9F]', '', txt)   # Remove control characters except newlines
-            # txt = txt.replace("\u2028", " ")  # Line separator
-            # txt = txt.replace("\u2029", " ")  # Paragraph separator
-            # txt = txt.replace("\u00A0", " ")  # Non-breaking space
-            # txt = txt.replace("\u200B", "")   # Zero-width space
-            # txt = txt.replace("\r", " ")      # Carriage return
-            # txt = txt.replace("\n", " ")      # Line feed
-            # txt = txt.replace("\v", " ")      # Vertical tab (“” issue)
-            # txt = txt.replace("\f", " ")      # Form feed
-            txt = re.sub(r"[\u2028\u2029\u00A0\r\n\v\f]", " ", txt)
+
+            txt = re.sub(r"[\u2028\u2029\u00A0\r\n\v\f]", " ", txt)   # removes invisible charecters
+            txt = re.sub(r':(?!\s)', ': ', txt)    # add space after colon if not present
             
             style = element["textRun"].get("textStyle", {})
 
