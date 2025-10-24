@@ -7,6 +7,7 @@ from post import post_to_wp
 from write_url import write_url_to_sheet
 import json
 from logging_config import logger
+import re
 
 load_dotenv()  # loads .env into environment
 
@@ -28,6 +29,31 @@ creds = service_account.Credentials.from_service_account_file(google_credentisal
 
 doc_service = build("docs", "v1", credentials=creds)
 doc = doc_service.documents().get(documentId=doc_id, includeTabsContent=True).execute()
+
+def normalize(text):
+    text = re.sub(r"[^a-zA-Z0-9]+", " ", text)  # remove punctuation/symbols
+    return set(text.lower().split())
+
+doc_title = doc.get("title")
+page_title_format = os.getenv("page_title_format")
+key_phrase_format = os.getenv("key_phrase_format")
+description_format = os.getenv("description_format")
+
+# Normalize all strings
+title_words = normalize(doc_title)
+page_title_words = normalize(page_title_format)
+key_phrase_words = normalize(key_phrase_format)
+description_words = normalize(description_format)
+
+# Check matches individually
+title_match = title_words & page_title_words
+key_match = title_words & key_phrase_words
+desc_match = title_words & description_words
+
+# Exit the program if any of them is False
+if not (title_match and key_match and desc_match):
+    logger.info("❌ page_title or key_phrase or description is not correct. please check...")
+    raise Exception("Stopping script due to missing matches") 
 
 sheet_service = build("sheets", "v4", credentials=creds)
 sheet = sheet_service.spreadsheets().values().get(
