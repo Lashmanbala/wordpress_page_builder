@@ -1112,3 +1112,377 @@ Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-scottish-borders/
 2025-10-23 13:27:40,980 - INFO - ⏩ Skipped already processed: 1
 2025-10-23 13:27:40,980 - INFO - ⏩ Tabs with wrong city names: 0
 2025-10-23 13:27:40,981 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-10-23 15:44:40,820 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-23 15:44:40,864 - INFO - ⏩ Skipping already processed tab: London/
+2025-10-23 15:44:40,864 - INFO - Reading York/ tab content...
+2025-10-23 15:44:40,866 - WARNING - 🚫 Skipping tab 'York/' due to invalid internal link: https://www.loclite.co.uk/loclite-vs-google-business-profile-which-brings-more-local-leads/. Check all the internal links.
+2025-10-23 15:44:40,866 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 15:44:40,866 - INFO - ✅ Processed new tabs: 0
+2025-10-23 15:44:40,867 - INFO - ⏩ Skipped already processed: 1
+2025-10-23 15:44:40,867 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 15:44:40,867 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-23 15:44:40,867 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-23 15:48:53,238 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-23 15:48:53,239 - INFO - ⏩ Skipping already processed tab: London/
+2025-10-23 15:48:53,239 - INFO - Reading York# tab content...
+2025-10-23 15:48:53,241 - WARNING - 🚫 Skipping tab 'York#' due to invalid internal link: https://www.satheesseo.com/about-us/. Check all the internal links.
+2025-10-23 15:48:53,241 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 15:48:53,242 - INFO - ✅ Processed new tabs: 0
+2025-10-23 15:48:53,242 - INFO - ⏩ Skipped already processed: 1
+2025-10-23 15:48:53,242 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 15:48:53,243 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-23 15:48:53,243 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-23 15:50:10,368 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-23 15:50:10,369 - INFO - ⏩ Skipping already processed tab: London/
+2025-10-23 15:50:10,369 - INFO - Reading York? tab content...
+2025-10-23 15:50:12,516 - INFO - ✅ Page created successfully for York?!
+2025-10-23 15:50:12,517 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-york-2/
+2025-10-23 15:50:13,356 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 15:50:13,376 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 15:50:13,376 - INFO - ✅ Processed new tabs: 1
+2025-10-23 15:50:13,376 - INFO - ⏩ Skipped already processed: 1
+2025-10-23 15:50:13,376 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 15:50:13,376 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-23 16:00:12,067 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-23 16:00:12,067 - INFO - ⏩ Skipping already processed tab: London/
+2025-10-23 16:00:12,068 - INFO - Reading York. tab content...
+2025-10-23 16:00:13,858 - INFO - ✅ Page created successfully for York.!
+2025-10-23 16:00:13,858 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-york-2/
+2025-10-23 16:00:14,644 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 16:00:14,646 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 16:00:14,646 - INFO - ✅ Processed new tabs: 1
+2025-10-23 16:00:14,647 - INFO - ⏩ Skipped already processed: 1
+2025-10-23 16:00:14,647 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 16:00:14,647 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-23 16:21:00,835 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-23 16:21:00,862 - INFO - ⏩ Skipping already processed tab: London/
+2025-10-23 16:21:00,862 - INFO - Reading York, tab content...
+2025-10-23 16:21:03,101 - INFO - ✅ Page created successfully for York,!
+2025-10-23 16:21:03,101 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-york-2/
+2025-10-23 16:21:03,713 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 16:21:03,717 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 16:21:03,717 - INFO - ✅ Processed new tabs: 1
+2025-10-23 16:21:03,717 - INFO - ⏩ Skipped already processed: 1
+2025-10-23 16:21:03,718 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 16:21:03,718 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-23 16:44:42,977 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 1 tabs to process.
+2025-10-23 16:44:43,252 - INFO - ⚠️ City 'London]' not found in sheet. Skipping tab.
+2025-10-23 16:44:43,252 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 16:44:43,252 - INFO - ✅ Processed new tabs: 0
+2025-10-23 16:44:43,253 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 16:44:43,253 - INFO - ⏩ Tabs with wrong city names: 1
+2025-10-23 16:44:43,253 - WARNING - ⚠️ 1 city names in the tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo mis-matched with the sheet cities.
+2025-10-23 16:48:19,694 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 1 tabs to process.
+2025-10-23 16:48:19,694 - INFO - Reading London] tab content...
+2025-10-23 16:48:21,520 - INFO - ✅ Page created successfully for London]!
+2025-10-23 16:48:21,520 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-23 16:48:22,469 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-23 16:48:22,471 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-23 16:48:22,471 - INFO - ✅ Processed new tabs: 1
+2025-10-23 16:48:22,472 - INFO - ⏩ Skipped already processed: 0
+2025-10-23 16:48:22,472 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-23 16:48:22,472 - INFO - ✅ All the 1 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-24 09:53:17,356 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 09:53:17,385 - INFO - Reading London* tab content...
+2025-10-24 09:53:19,119 - INFO - ✅ Page created successfully for London*!
+2025-10-24 09:53:19,119 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-24 09:53:19,870 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 09:53:19,890 - INFO - Reading York] tab content...
+2025-10-24 09:53:21,075 - INFO - ✅ Page created successfully for York]!
+2025-10-24 09:53:21,076 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-york-2/
+2025-10-24 09:53:21,839 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 09:53:21,841 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 09:53:21,842 - INFO - ✅ Processed new tabs: 2
+2025-10-24 09:53:21,843 - INFO - ⏩ Skipped already processed: 0
+2025-10-24 09:53:21,844 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 09:53:21,844 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-24 11:36:20,817 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 11:36:20,850 - INFO - Reading London$ tab content...
+2025-10-24 11:36:22,765 - INFO - ✅ Page created successfully for London$!
+2025-10-24 11:36:22,766 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-24 11:36:23,483 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 11:36:23,496 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 11:36:23,497 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 11:36:23,497 - INFO - ✅ Processed new tabs: 1
+2025-10-24 11:36:23,497 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 11:36:23,497 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 11:36:23,497 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-24 12:26:57,300 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 12:26:57,327 - INFO - Reading London- tab content...
+2025-10-24 12:26:57,332 - WARNING - 🚫 Skipping tab 'London-' due to invalid internal link: https://www.loclite.co.uk/chatgpt/advertise-with-us/. Check all the internal links.
+2025-10-24 12:26:57,372 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 12:26:57,373 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 12:26:57,373 - INFO - ✅ Processed new tabs: 0
+2025-10-24 12:26:57,373 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 12:26:57,373 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 12:26:57,374 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 12:26:57,374 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 12:28:52,232 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 12:28:52,232 - INFO - ⏩ Skipping already processed tab: London/
+2025-10-24 12:28:52,233 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 12:28:52,233 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 12:28:52,233 - INFO - ✅ Processed new tabs: 0
+2025-10-24 12:28:52,233 - INFO - ⏩ Skipped already processed: 2
+2025-10-24 12:28:52,233 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 12:28:52,234 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-10-24 12:29:38,743 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 12:29:38,743 - INFO - Reading London\ tab content...
+2025-10-24 12:29:38,750 - WARNING - 🚫 Skipping tab 'London\' due to invalid internal link: https://support.google.com/business/answer/3474050. Check all the internal links.
+2025-10-24 12:29:38,750 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 12:29:38,750 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 12:29:38,751 - INFO - ✅ Processed new tabs: 0
+2025-10-24 12:29:38,751 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 12:29:38,752 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 12:29:38,752 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 12:29:38,753 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 12:44:31,816 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 12:44:31,817 - INFO - Reading London+ tab content...
+2025-10-24 12:44:31,820 - WARNING - 🚫 Skipping tab 'London+' due to invalid internal link: https://www.loclite.co.uk/advertise-with-us/. Check all the internal links.
+2025-10-24 12:44:31,820 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 12:44:31,820 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 12:44:31,820 - INFO - ✅ Processed new tabs: 0
+2025-10-24 12:44:31,821 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 12:44:31,821 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 12:44:31,821 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 12:44:31,821 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 12:45:56,024 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 12:45:56,025 - INFO - Reading London+ tab content...
+2025-10-24 12:45:56,028 - WARNING - 🚫 Skipping tab 'London+' due to invalid internal link: https://www.loclite.co.uk/advertise-with-us/. Check all the internal links.
+2025-10-24 12:45:56,028 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 12:45:56,028 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 12:45:56,028 - INFO - ✅ Processed new tabs: 0
+2025-10-24 12:45:56,028 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 12:45:56,029 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 12:45:56,029 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 12:45:56,029 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 12:48:27,740 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 12:48:27,741 - INFO - Reading London+ tab content...
+2025-10-24 12:48:27,744 - WARNING - 🚫 Skipping tab 'London+' due to invalid internal link: https://www.loclite.co.uk/small-businesses-and-startup-companies/. Check all the internal links.
+2025-10-24 12:48:27,745 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 12:48:27,745 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 12:48:27,745 - INFO - ✅ Processed new tabs: 0
+2025-10-24 12:48:27,746 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 12:48:27,746 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 12:48:27,747 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 12:48:27,747 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 13:13:51,210 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 13:13:51,210 - INFO - Reading London+ tab content...
+2025-10-24 13:13:51,211 - WARNING - 🚫 Skipping tab 'London+' due to invalid internal link: https://www.loclite.co.uk/advertise-with-us/. Check all the internal links.
+2025-10-24 13:13:51,212 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 13:13:51,212 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 13:13:51,212 - INFO - ✅ Processed new tabs: 0
+2025-10-24 13:13:51,212 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 13:13:51,212 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 13:13:51,212 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 13:13:51,212 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 13:15:03,310 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 13:15:03,310 - INFO - Reading London+ tab content...
+2025-10-24 13:15:03,314 - WARNING - 🚫 Skipping tab 'London+' due to invalid internal link: https://www.loclite.co.uk/advertise-with-us/. Check all the internal links.
+2025-10-24 13:15:03,314 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 13:15:03,314 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 13:15:03,314 - INFO - ✅ Processed new tabs: 0
+2025-10-24 13:15:03,315 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 13:15:03,315 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 13:15:03,315 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 13:15:03,315 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 13:17:24,469 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 13:17:24,469 - INFO - Reading London+ tab content...
+2025-10-24 13:17:24,479 - WARNING - 🚫 Skipping tab 'London+' due to invalid internal link: https://www.loclite.co.uk/small-businesses-and-startup-companies/. Check all the internal links.
+2025-10-24 13:17:24,479 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 13:17:24,479 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 13:17:24,479 - INFO - ✅ Processed new tabs: 0
+2025-10-24 13:17:24,479 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 13:17:24,479 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 13:17:24,479 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 13:17:24,479 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 13:23:11,821 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 13:23:11,822 - INFO - Reading London+ tab content...
+2025-10-24 13:23:11,824 - WARNING - 🚫 Skipping tab 'London+' due to invalid internal link: https://www.satheesseo.com/seo-consultant-in-london-uk/. Check all the internal links.
+2025-10-24 13:23:11,824 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 13:23:11,824 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 13:23:11,824 - INFO - ✅ Processed new tabs: 0
+2025-10-24 13:23:11,824 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 13:23:11,824 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 13:23:11,824 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 13:23:11,824 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
+2025-10-24 13:23:50,996 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-24 13:23:50,997 - INFO - Reading London+ tab content...
+2025-10-24 13:23:53,146 - INFO - ✅ Page created successfully for London+!
+2025-10-24 13:23:53,146 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-24 13:23:53,879 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 13:23:53,933 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-24 13:23:53,934 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-24 13:23:53,934 - INFO - ✅ Processed new tabs: 1
+2025-10-24 13:23:53,934 - INFO - ⏩ Skipped already processed: 1
+2025-10-24 13:23:53,934 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 13:23:53,934 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-24 14:24:51,381 - INFO - 📄 Document ID: 1-si3W8xSutfP6MxeOdyuwK6wWIt_gW-lgFUsP1eD2EQ has 100 tabs to process.
+2025-10-24 14:24:51,382 - INFO - Reading London tab content...
+2025-10-24 14:24:52,716 - INFO - 🅆 Page created successfully for London!
+2025-10-24 14:24:52,717 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-24 14:24:53,273 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 14:24:53,275 - INFO - Reading Birmingham tab content...
+2025-10-24 14:24:53,901 - INFO - ✅ Page created successfully for Birmingham!
+2025-10-24 14:24:53,918 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-birmingham-2/
+2025-10-24 14:24:54,430 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 14:24:54,433 - INFO - Reading Manchester tab content...
+2025-10-24 14:24:55,256 - INFO - ✅ Page created successfully for Manchester!
+2025-10-24 14:24:55,257 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-manchester-2/
+2025-10-24 14:24:55,914 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 14:24:55,915 - INFO - Reading Liverpool tab content...
+
+2025-10-24 14:56:31,939 - INFO - 📄 Document ID: 1-si3W8xSutfP6MxeOdyuwK6wWIt_gW-lgFUsP1eD2EQ has 100 tabs to process.
+2025-10-24 14:56:31,939 - INFO - ⏩ Skipping already processed tab: London
+2025-10-24 14:56:31,940 - INFO - ⏩ Skipping already processed tab: Birmingham
+2025-10-24 14:56:31,940 - INFO - ⏩ Skipping already processed tab: Manchester
+2025-10-24 14:56:31,940 - INFO - Reading Liverpool tab content...
+2025-10-24 14:56:33,840 - INFO - ✅ Page created successfully for Liverpool!
+2025-10-24 14:56:33,840 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-liverpool-3/
+2025-10-24 14:56:34,655 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 14:56:34,658 - INFO - Reading Leeds tab content...
+2025-10-24 14:56:36,387 - INFO - ✅ Page created successfully for Leeds!
+2025-10-24 14:56:36,388 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-leeds-2/
+2025-10-24 14:56:37,822 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-24 14:56:37,824 - INFO - Reading Sheffield tab content...
+2025-10-24 16:35:56,427 - INFO - ❌ page_title or key_phrase or description is not correct. please check...
+2025-10-24 16:38:08,149 - INFO - 📄 Document ID: 14pgBME2CennW5Xwd8bCeB1l2EzGfp212L_WcWPL12Nw has 93 tabs to process.
+2025-10-24 16:38:08,149 - INFO - ⏩ Skipping already processed tab: London
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Birmingham
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Manchester
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Liverpool
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Leeds
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Sheffield
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Bristol
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Bournemouth and Poole
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Stoke-on-Trent
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Leicester
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Wirral
+2025-10-24 16:38:08,150 - INFO - ⏩ Skipping already processed tab: Coventry
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Nottingham
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Bradford
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Newcastle
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Bolton
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Brighton and Hove
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Plymouth
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Hull
+2025-10-24 16:38:08,151 - INFO - ⏩ Skipping already processed tab: Preston
+2025-10-24 16:38:08,152 - INFO - ⏩ Skipping already processed tab: Derby
+2025-10-24 16:38:08,152 - INFO - ⏩ Skipping already processed tab: Aldershot and Farnborough
+2025-10-24 16:38:08,152 - INFO - ⏩ Skipping already processed tab: Southampton
+2025-10-24 16:38:08,153 - INFO - ⏩ Skipping already processed tab: Wigan
+2025-10-24 16:38:08,153 - INFO - ⏩ Skipping already processed tab: Barnsley
+2025-10-24 16:38:08,153 - INFO - ⏩ Skipping already processed tab: Portsmouth
+2025-10-24 16:38:08,154 - INFO - ⏩ Skipping already processed tab: Luton
+2025-10-24 16:38:08,154 - INFO - ⏩ Skipping already processed tab: Northampton
+2025-10-24 16:38:08,154 - INFO - ⏩ Skipping already processed tab: Milton Keynes
+2025-10-24 16:38:08,155 - INFO - ⏩ Skipping already processed tab: Worthing
+2025-10-24 16:38:08,155 - INFO - ⏩ Skipping already processed tab: Ipswich
+2025-10-24 16:38:08,155 - INFO - ⏩ Skipping already processed tab: Crawley
+2025-10-24 16:38:08,156 - INFO - ⏩ Skipping already processed tab: Southend-on-Sea
+2025-10-24 16:38:08,156 - INFO - ⏩ Skipping already processed tab: Rochdale
+2025-10-24 16:38:08,156 - INFO - ⏩ Skipping already processed tab: Warrington
+2025-10-24 16:38:08,157 - INFO - ⏩ Skipping already processed tab: Mansfield
+2025-10-24 16:38:08,157 - INFO - ⏩ Skipping already processed tab: Swindon
+2025-10-24 16:38:08,157 - INFO - ⏩ Skipping already processed tab: Reading
+2025-10-24 16:38:08,158 - INFO - ⏩ Skipping already processed tab: Blackburn
+2025-10-24 16:38:08,158 - INFO - ⏩ Skipping already processed tab: Burnley
+2025-10-24 16:38:08,158 - INFO - ⏩ Skipping already processed tab: Huddersfield
+2025-10-24 16:38:08,159 - INFO - ⏩ Skipping already processed tab: Oxford
+2025-10-24 16:38:08,159 - INFO - ⏩ Skipping already processed tab: Wakefield
+2025-10-24 16:38:08,159 - INFO - ⏩ Skipping already processed tab: Blackpool
+2025-10-24 16:38:08,159 - INFO - ⏩ Skipping already processed tab: Norwich
+2025-10-24 16:38:08,160 - INFO - ⏩ Skipping already processed tab: Grimsby
+2025-10-24 16:38:08,160 - INFO - ⏩ Skipping already processed tab: Telford
+2025-10-24 16:38:08,161 - INFO - ⏩ Skipping already processed tab: Peterborough
+2025-10-24 16:38:08,161 - INFO - ⏩ Skipping already processed tab: Gloucester
+2025-10-24 16:38:08,161 - INFO - ⏩ Skipping already processed tab: Cambridge
+2025-10-24 16:38:08,162 - INFO - Reading Doncaster tab content...
+2025-10-24 16:38:08,164 - WARNING - 🚫 Skipping tab 'Doncaster' due to invalid internal link: https://www.loclite.co.uk/how-to-choose-the-right-seo-agency-in-the-uk-a-complete-guide/. Check all the internal links.
+2025-10-24 16:38:08,164 - INFO - ⏩ Skipping already processed tab: Hastings
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Edinburgh
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Kirklees
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Fife
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Cardiff
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Dudley
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Belfast
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Sandwell
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Stockport
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Sefton
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Walsall
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Wolverhampton
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Swansea
+2025-10-24 16:38:08,165 - INFO - ⏩ Skipping already processed tab: Salford
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Tameside
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Oldham
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Trafford
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Aberdeen
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Highland
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Solihull
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Gateshead
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Calderdale
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: North Somerset
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Bury
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: St Helens
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Stockton-on-Tees
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Renfrewshire
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: Thamesdown or Swindon
+2025-10-24 16:38:08,166 - INFO - ⏩ Skipping already processed tab: New Forest
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Caerphilly
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Carmarthenshire
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Wycombe
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Bournemouth
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Chelmsford
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Brighton
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Charnwood
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Aylesbury Vale
+2025-10-24 16:38:08,167 - INFO - ⏩ Skipping already processed tab: Colchester
+2025-10-24 16:38:08,168 - INFO - ⏩ Skipping already processed tab: Huntingdonshire
+2025-10-24 16:38:08,168 - INFO - ⏩ Skipping already processed tab: Macclesfield
+2025-10-24 16:38:08,168 - INFO - 📊 ======= Summary for Document: 14pgBME2CennW5Xwd8bCeB1l2EzGfp212L_WcWPL12Nw =======
+2025-10-24 16:38:08,169 - INFO - ✅ Processed new tabs: 0
+2025-10-24 16:38:08,169 - INFO - ⏩ Skipped already processed: 92
+2025-10-24 16:38:08,169 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-24 16:38:08,169 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-10-24 16:38:08,170 - WARNING - ⚠️ 1 tabs in the document 14pgBME2CennW5Xwd8bCeB1l2EzGfp212L_WcWPL12Nw have wrong internal links in the content.
+2025-10-27 10:00:29,551 - INFO - ❌ page_title or key_phrase or description is not correct. please check... Or wrong document...check the doc name
+2025-10-27 10:00:32,203 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 10:00:32,203 - INFO - Reading London_ tab content...
+2025-10-27 10:00:34,670 - INFO - ✅ Page created successfully for London_!
+2025-10-27 10:00:34,670 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london_/
+2025-10-27 10:00:35,419 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-27 10:00:35,420 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-27 10:00:35,421 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-27 10:00:35,421 - INFO - ✅ Processed new tabs: 1
+2025-10-27 10:00:35,421 - INFO - ⏩ Skipped already processed: 1
+2025-10-27 10:00:35,421 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-27 10:00:35,421 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-27 10:06:17,721 - INFO - ❌ page_title or key_phrase or description is not correct. please check... Or wrong document...check the doc name
+2025-10-27 10:06:19,549 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 10:06:19,551 - INFO - Reading London) tab content...
+2025-10-27 10:06:22,386 - INFO - ✅ Page created successfully for London)!
+2025-10-27 10:06:22,387 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-27 10:06:23,153 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-27 10:06:23,156 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-27 10:06:23,157 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-27 10:06:23,157 - INFO - ✅ Processed new tabs: 1
+2025-10-27 10:06:23,157 - INFO - ⏩ Skipped already processed: 1
+2025-10-27 10:06:23,157 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-27 10:06:23,157 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-27 10:30:22,650 - ERROR - ❌ page_title or key_phrase or description is not correct. please check them... Or you have given wrong document...check the doc name
+2025-10-27 10:33:16,696 - ERROR - ❌ page_title or key_phrase or description is not correct. please check them... Or you have given wrong document...check the doc name
+2025-10-27 10:33:19,359 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 10:33:19,359 - INFO - Reading London( tab content...
+2025-10-27 10:33:21,097 - INFO - ✅ Page created successfully for London(!
+2025-10-27 10:33:21,098 - INFO - Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-london-2/
+2025-10-27 10:33:21,976 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-27 10:33:21,978 - INFO - ⏩ Skipping already processed tab: York]
+2025-10-27 10:33:21,979 - INFO - 📊 ======= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-27 10:33:21,980 - INFO - ✅ Processed new tabs: 1
+2025-10-27 10:33:21,980 - INFO - ⏩ Skipped already processed: 1
+2025-10-27 10:33:21,980 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-27 10:33:21,981 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-27 10:44:04,491 - ERROR - ❌ page_title or key_phrase or description is not correct. please check them... Or you have given wrong document...check the doc name
+2025-10-27 12:11:57,897 - ERROR - ❌ country_name or category_name is not correct. please check them in the .env file... Or you have given wrong document...check the doc name
+2025-10-27 12:14:34,453 - ERROR - ❌ country_name or category_name is not correct. please check them in the .env file... Or you have given wrong document...check the doc name

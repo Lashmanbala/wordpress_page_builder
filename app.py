@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import os
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
-from read import read_tab
+from read import read_tab, validate_meta_details
 from post import post_to_wp
 from write_url import write_url_to_sheet
 import json
@@ -30,30 +30,19 @@ creds = service_account.Credentials.from_service_account_file(google_credentisal
 doc_service = build("docs", "v1", credentials=creds)
 doc = doc_service.documents().get(documentId=doc_id, includeTabsContent=True).execute()
 
-def normalize(text):
-    text = re.sub(r"[^a-zA-Z0-9]+", " ", text)  # remove punctuation/symbols
-    return set(text.lower().split())
-
 doc_title = doc.get("title")
+country_name = os.getenv("COUNTRY_NAME")
+category_name = os.getenv("CATEGORY_NAME")
 page_title_format = os.getenv("page_title_format")
 key_phrase_format = os.getenv("key_phrase_format")
-description_format = os.getenv("description_format")
+description_format = os.getenv("description_format") 
 
-# Normalize all strings
-title_words = normalize(doc_title)
-page_title_words = normalize(page_title_format)
-key_phrase_words = normalize(key_phrase_format)
-description_words = normalize(description_format)
-
-# Check matches individually
-title_match = title_words & page_title_words
-key_match = title_words & key_phrase_words
-desc_match = title_words & description_words
-
-# Exit the program if any of them is False
-if not (title_match and key_match and desc_match):
-    logger.info("❌ page_title or key_phrase or description is not correct. please check...")
-    raise Exception("Stopping script due to missing matches") 
+try:
+    if not validate_meta_details(doc_title, country_name, category_name):
+        raise Exception ("Meta validation failed")
+except Exception as e:
+    logger.error("❌ country_name or category_name is not correct. please check them in the .env file... Or you have given wrong document...check the doc name")
+    exit(1)  # stops further execution
 
 sheet_service = build("sheets", "v4", credentials=creds)
 sheet = sheet_service.spreadsheets().values().get(
@@ -108,10 +97,12 @@ for tab in tabs:
         page_title_format = os.getenv("page_title_format")
         key_phrase_format = os.getenv("key_phrase_format")
         description_format = os.getenv("description_format")
+        country_name = os.getenv("COUNTRY_NAME")
+        category_name = os.getenv("CATEGORY_NAME")
 
-        page_title = page_title_format.format(city_name=city_name)
-        key_phrase = key_phrase_format.format(city_name=city_name)
-        description = description_format.format(city_name=city_name)
+        page_title = page_title_format.format(category_name=category_name, city_name=city_name)
+        key_phrase = key_phrase_format.format(category_name=category_name, city_name=city_name)
+        description = description_format.format(category_name=category_name, city_name=city_name, country_name=country_name)
 
         response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
     

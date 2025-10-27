@@ -1,6 +1,18 @@
 import re
 
-# Convert Paragraphs to HTML
+
+def validate_meta_details(doc_title, country_name, category_name):
+    
+    cleaned_title = re.sub(r"[^a-zA-Z0-9]+", " ", doc_title) 
+    title_words_set = set(cleaned_title.lower().split())
+    country_name_set = set(country_name.lower().split())
+    category_name_set = set(category_name.lower().split())
+     
+    if country_name_set.issubset(title_words_set) and category_name_set.issubset(title_words_set):
+        return True
+    return False
+
+ 
 def text_to_html(paragraph, valid_urls):
     text_parts = []
     for element in paragraph.get("elements", []):
