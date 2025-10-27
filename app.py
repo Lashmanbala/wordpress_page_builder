@@ -77,24 +77,24 @@ tabs = doc.get("tabs", [])
 total_tab_count = len(tabs)
 logger.info(f"📄 Document ID: {doc_id} has {total_tab_count} tabs to process.")
 
-# Loop through all tabs
-for tab in tabs:
+def process_tab_and_child_tabs(tab):
+    global skipped_count, wrong_city_name_count, empty_tab_count, wrong_internal_link_content_count
+        
     city_name = tab["tabProperties"]["title"]
 
     if city_name in progress[doc_id]:
         logger.info(f"⏩ Skipping already processed tab: {city_name}")
         skipped_count += 1
-        continue
+        return None, None
 
     if city_name not in flat_cities_list:
         logger.info(f"⚠️ City '{city_name}' not found in sheet. Skipping tab.")
         wrong_city_name_count += 1
-        continue
+        return None, None
 
     try:
         logger.info(f"Reading {city_name} tab content...")
         tab_content = tab["documentTab"]["body"]["content"]
-        tab_content = tab.get("documentTab", {}).get("body", {}).get("content", [])
 
 
         html_content = read_tab(tab_content, valid_urls)
@@ -102,7 +102,7 @@ for tab in tabs:
         if not html_content.strip():     # checks if the content is empty. If so skipping the tab
             logger.warning(f"🈳 Tab '{city_name}' is empty. Skipping...")
             empty_tab_count += 1
-            continue
+            return None, None
 
         page_title_format = os.getenv("page_title_format")
         key_phrase_format = os.getenv("key_phrase_format")
@@ -116,12 +116,29 @@ for tab in tabs:
         description = description_format.format(category_name=category_name, city_name=city_name, country_name=country_name)
 
         response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
+
     
+        subtabs_list = tab.get("childTabs")
+        if subtabs_list:
+            logger.info(f"Found {len(subtabs_list)} child tab/tabs in {city_name}. Recursing...")
+            for subtab in subtabs_list:
+                process_tab_and_child_tabs(subtab)
+
+        return city_name, response
+
     except ValueError as ve:
         logger.warning(f"🚫 Skipping tab {city_name} due to invalid internal link: {ve}. Check all the internal links.")
         wrong_internal_link_content_count += 1
-        continue
-
+        return None, None
+    
+# Loop through all tabs
+for tab in tabs:
+    
+    city_name, response = process_tab_and_child_tabs(tab)
+    
+    if not response:
+        continue 
+    
     if response.status_code == 201:
         page_url = response.json()["link"]
         logger.info(f"✅ Page created successfully for {city_name}!")

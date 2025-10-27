@@ -1599,3 +1599,66 @@ Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-scottish-borders/
 2025-10-27 14:40:23,484 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content.
 2025-10-27 14:40:23,484 - INFO - *************************************************************************************************************
 2025-10-27 14:40:23,484 - INFO - *************************************************************************************************************
+2025-10-27 15:17:44,851 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 15:17:44,867 - INFO - 📊 ======================= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-27 15:17:44,868 - INFO - ✅ Processed new tabs: 0
+2025-10-27 15:17:44,868 - INFO - ⏩ Skipped already processed: 0
+2025-10-27 15:17:44,868 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-27 15:17:44,869 - INFO - ⏩ Empty tabs skipped: 0
+2025-10-27 15:17:44,869 - INFO - ⏩ Tabs with wrong internal links: 0
+2025-10-27 15:17:44,870 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-10-27 15:17:44,870 - INFO - *************************************************************************************************************
+2025-10-27 15:17:44,870 - INFO - *************************************************************************************************************
+2025-10-27 15:24:47,464 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 15:27:00,308 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 15:27:00,309 - INFO - Reading London15 tab content...
+2025-10-27 15:27:04,060 - INFO - ✅ Page created successfully for London15!
+2025-10-27 15:27:04,060 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london15-loclite/
+2025-10-27 15:27:04,809 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-27 15:27:04,852 - INFO - Reading Arun tab content...
+2025-10-27 15:27:04,852 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-27 15:27:04,853 - INFO - 📊 ======================= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-27 15:27:04,853 - INFO - ✅ Processed new tabs: 1
+2025-10-27 15:27:04,854 - INFO - ⏩ Skipped already processed: 0
+2025-10-27 15:27:04,854 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-27 15:27:04,854 - INFO - ⏩ Empty tabs skipped: 1
+2025-10-27 15:27:04,854 - INFO - ⏩ Tabs with wrong internal links: 0
+2025-10-27 15:27:04,854 - WARNING - ⚠️ Empty tabs skipped: 1
+2025-10-27 15:27:04,855 - INFO - *************************************************************************************************************
+2025-10-27 15:27:04,855 - INFO - *************************************************************************************************************
+2025-10-27 15:37:16,963 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 16:45:39,055 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 16:45:39,057 - INFO - ⚠️ City 'London16' not found in sheet. Skipping tab.
+2025-10-27 16:50:57,933 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 16:52:03,744 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 16:52:03,745 - INFO - Reading London16 tab content...
+2025-10-27 16:52:05,766 - INFO - Found 1 child tab/tabs in London16. Recursing...
+2025-10-27 16:52:05,767 - INFO - Reading York12 tab content...
+2025-10-27 16:52:05,769 - WARNING - 🚫 Skipping tab York12 due to invalid internal link: https://www.loclite.co.uk/about/. Check all the internal links.
+2025-10-27 16:52:05,772 - INFO - ✅ Page created successfully for London16!
+2025-10-27 16:52:05,772 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london16-loclite/
+2025-10-27 16:52:06,420 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-27 16:52:06,424 - INFO - Reading Arun tab content...
+2025-10-27 16:52:06,425 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-27 16:52:06,425 - INFO - 📊 ======================= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-27 16:52:06,425 - INFO - ✅ Processed new tabs: 1
+2025-10-27 16:52:06,426 - INFO - ⏩ Skipped already processed: 0
+2025-10-27 16:52:06,426 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-27 16:52:06,426 - INFO - ⏩ Empty tabs skipped: 1
+2025-10-27 16:52:06,427 - INFO - ⏩ Tabs with wrong internal links: 1
+2025-10-27 16:52:06,427 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-10-27 16:52:06,427 - INFO - *************************************************************************************************************
+2025-10-27 16:52:06,427 - INFO - *************************************************************************************************************
+2025-10-27 16:55:57,465 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 16:55:57,466 - INFO - ⏩ Skipping already processed tab: London16
+2025-10-27 16:55:57,467 - INFO - Reading Arun tab content...
+2025-10-27 16:55:57,472 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-27 16:55:57,474 - INFO - 📊 ======================= Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =======
+2025-10-27 16:55:57,474 - INFO - ✅ Processed new tabs: 0
+2025-10-27 16:55:57,475 - INFO - ⏩ Skipped already processed: 1
+2025-10-27 16:55:57,477 - INFO - ⏩ Tabs with wrong city names: 0
+2025-10-27 16:55:57,478 - INFO - ⏩ Empty tabs skipped: 1
+2025-10-27 16:55:57,479 - INFO - ⏩ Tabs with wrong internal links: 0
+2025-10-27 16:55:57,479 - WARNING - ⚠️ Empty tabs skipped: 1
+2025-10-27 16:55:57,479 - INFO - *************************************************************************************************************
+2025-10-27 16:55:57,480 - INFO - *************************************************************************************************************
