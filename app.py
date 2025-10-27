@@ -71,6 +71,7 @@ processed_count = 0
 skipped_count = 0
 wrong_city_name_count = 0
 wrong_internal_link_content_count = 0
+empty_tab_count = 0
 
 tabs = doc.get("tabs", [])
 total_tab_count = len(tabs)
@@ -89,25 +90,35 @@ for tab in tabs:
         logger.info(f"⚠️ City '{city_name}' not found in sheet. Skipping tab.")
         wrong_city_name_count += 1
         continue
+
     try:
         logger.info(f"Reading {city_name} tab content...")
         tab_content = tab["documentTab"]["body"]["content"]
+        tab_content = tab.get("documentTab", {}).get("body", {}).get("content", [])
+
+
         html_content = read_tab(tab_content, valid_urls)
+
+        if not html_content.strip():     # checks if the content is empty. If so skipping the tab
+            logger.warning(f"🈳 Tab '{city_name}' is empty. Skipping...")
+            empty_tab_count += 1
+            continue
 
         page_title_format = os.getenv("page_title_format")
         key_phrase_format = os.getenv("key_phrase_format")
         description_format = os.getenv("description_format")
         country_name = os.getenv("COUNTRY_NAME")
         category_name = os.getenv("CATEGORY_NAME")
+        brand_name = os.getenv("BRAND_NAME")
 
-        page_title = page_title_format.format(category_name=category_name, city_name=city_name)
+        page_title = page_title_format.format(category_name=category_name, city_name=city_name, brand_name=brand_name)
         key_phrase = key_phrase_format.format(category_name=category_name, city_name=city_name)
         description = description_format.format(category_name=category_name, city_name=city_name, country_name=country_name)
 
         response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
     
     except ValueError as ve:
-        logger.warning(f"🚫 Skipping tab '{city_name}' due to invalid internal link: {ve}. Check all the internal links.")
+        logger.warning(f"🚫 Skipping tab {city_name} due to invalid internal link: {ve}. Check all the internal links.")
         wrong_internal_link_content_count += 1
         continue
 
@@ -131,14 +142,15 @@ for tab in tabs:
         logger.info(f"Response: {response.text}")
 
 # Summary after processing document
-logger.info(f"📊 ======= Summary for Document: {doc_id} =======")
+logger.info(f"📊 ======================= Summary for Document: {doc_id} =======")
 logger.info(f"✅ Processed new tabs: {processed_count}")
 logger.info(f"⏩ Skipped already processed: {skipped_count}")
 logger.info(f"⏩ Tabs with wrong city names: {wrong_city_name_count}")
-if wrong_internal_link_content_count > 0:
-    logger.warning(f"⚠️ Tabs with wrong internal links: {wrong_internal_link_content_count}")
+logger.info(f"⏩ Empty tabs skipped: {empty_tab_count}")
+logger.info(f"⏩ Tabs with wrong internal links: {wrong_internal_link_content_count}")
 
-if (processed_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0) or (processed_count + skipped_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0 and processed_count > 0):
+
+if (processed_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0) or (processed_count + skipped_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0 and processed_count > 0 and empty_tab_count == 0):
     logger.info(f"✅ All the {total_tab_count} tabs of the document {doc_id} processed successfully.")
 
 elif skipped_count == total_tab_count:
@@ -148,8 +160,13 @@ elif wrong_city_name_count > 0:
     logger.warning(f"⚠️ {wrong_city_name_count} city names in the tabs of the document {doc_id} mis-matched with the sheet cities.")
 
 elif wrong_internal_link_content_count > 0:
-    logger.warning(f"⚠️ {wrong_internal_link_content_count} tabs in the document {doc_id} have wrong internal links in the content.")
+    logger.warning(f"⚠️ {wrong_internal_link_content_count} tabs in the document {doc_id} have wrong internal links in the content. Check all the internal links")
+
+elif empty_tab_count > 0:
+    logger.warning(f"⚠️ Empty tabs skipped: {empty_tab_count}")
 
 else:
     logger.warning(f"⚠️ Document {doc_id} processing completed with mixed results. Something wrong with processing this doc. Check manually.")
 
+logger.info(f"*************************************************************************************************************")
+logger.info(f"*************************************************************************************************************")
