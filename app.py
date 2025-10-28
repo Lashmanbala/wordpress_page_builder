@@ -98,7 +98,7 @@ for tab in tabs:
         key_phrase = key_phrase_format.format(category_name=category_name, city_name=city_name)
         description = description_format.format(category_name=category_name, city_name=city_name, country_name=country_name)
 
-        response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
+        response = post_to_wp(html_content, featured_img_url, page_title, brand_name, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
 
         if not response:
             continue 
