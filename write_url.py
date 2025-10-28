@@ -1,4 +1,4 @@
-def write_url_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities):
+def write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities):
 
     row_index = None
 
