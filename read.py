@@ -1,5 +1,6 @@
 import re
-
+import os
+from post import post_to_wp
 
 def validate_meta_details(doc_title, country_name, category_name):
     
@@ -89,3 +90,51 @@ def read_tab(tab_content, valid_urls):
     
     return html_content
 
+
+def process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_id, logger, counter):
+   
+    global skipped_count, wrong_city_name_count, empty_tab_count, wrong_internal_link_content_count
+
+    city_name = tab["tabProperties"]["title"]
+        
+    if city_name in progress[doc_id]:
+        logger.info(f"⏩ Skipping already processed tab: {city_name}")
+        counter['skipped_count'] += 1
+        return {}
+
+    if city_name not in flat_cities_list:
+        logger.info(f"⚠️ City '{city_name}' not found in sheet. Skipping tab.")
+        counter['wrong_city_name_count'] += 1
+        return {}
+
+    try:
+        logger.info(f"Reading {city_name} tab content...")
+        tab_content = tab["documentTab"]["body"]["content"]
+
+        html_content = read_tab(tab_content, valid_urls)
+
+        html_content_dict = {}
+        html_content_dict.update({city_name: html_content})
+
+        if not html_content.strip():     # checks if the content is empty. If so skipping the tab
+            logger.warning(f"🈳 Tab '{city_name}' is empty. Skipping...")
+            counter['empty_tab_count'] += 1
+            return {}
+    
+        subtabs_list = tab.get("childTabs")
+
+        if subtabs_list:
+            logger.info(f"Found {len(subtabs_list)} child tab/tabs in {city_name}. Recursing...")
+
+            for subtab in subtabs_list:
+               subtab_html_dict = process_tab_and_child_tabs(subtab, progress, flat_cities_list, valid_urls, doc_id, logger, counter)
+               html_content_dict.update(subtab_html_dict)
+               counter['subtab_count'] += 1
+               
+        return html_content_dict
+
+    except ValueError as ve:
+        logger.warning(f"🚫 Skipping tab {city_name} due to invalid internal link: {ve}. Check all the internal links.")
+        counter['wrong_internal_link_content_count'] += 1
+        return {}
+    

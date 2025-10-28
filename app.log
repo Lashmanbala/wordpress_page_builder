@@ -1662,3 +1662,220 @@ Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-scottish-borders/
 2025-10-27 16:55:57,479 - WARNING - ⚠️ Empty tabs skipped: 1
 2025-10-27 16:55:57,479 - INFO - *************************************************************************************************************
 2025-10-27 16:55:57,480 - INFO - *************************************************************************************************************
+2025-10-27 17:24:03,150 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 17:24:03,151 - INFO - ⏩ Skipping already processed tab: London16
+2025-10-27 17:28:06,397 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-27 17:28:06,399 - INFO - ⏩ Skipping already processed tab: London16
+2025-10-28 11:25:29,651 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 11:25:29,682 - INFO - Reading London17 tab content...
+2025-10-28 11:25:31,515 - INFO - Found 1 child tab/tabs in London17. Recursing...
+2025-10-28 12:21:37,558 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 12:23:06,642 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 12:23:06,643 - INFO - Reading London17 tab content...
+2025-10-28 12:23:06,650 - INFO - Found 1 child tab/tabs in London17. Recursing...
+2025-10-28 12:23:06,650 - INFO - Reading York13 tab content...
+2025-10-28 12:23:06,653 - WARNING - 🚫 Skipping tab York13 due to invalid internal link: https://www.loclite.co.uk/about/. Check all the internal links.
+2025-10-28 12:45:09,078 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 12:45:09,079 - INFO - Reading London17 tab content...
+2025-10-28 12:45:09,085 - INFO - Found 1 child tab/tabs in London17. Recursing...
+2025-10-28 12:46:30,366 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 12:46:30,367 - INFO - Reading London17 tab content...
+2025-10-28 12:46:30,374 - INFO - Found 1 child tab/tabs in London17. Recursing...
+2025-10-28 12:46:30,374 - INFO - Reading York13 tab content...
+2025-10-28 12:46:30,377 - WARNING - 🚫 Skipping tab York13 due to invalid internal link: https://www.loclite.co.uk/about/. Check all the internal links.
+2025-10-28 12:46:32,516 - INFO - ✅ Page created successfully for London17!
+2025-10-28 12:46:32,516 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london17-loclite-2/
+2025-10-28 12:46:33,415 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 12:46:33,418 - INFO - Reading Arun tab content...
+2025-10-28 12:46:33,418 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-28 12:55:32,630 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 12:55:32,631 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 13:10:23,037 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 13:10:23,037 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 13:12:00,179 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 13:12:00,179 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 13:12:00,180 - INFO - Reading London17 tab content...
+2025-10-28 13:12:00,187 - INFO - Found 1 child tab/tabs in London17. Recursing...
+2025-10-28 13:12:00,187 - INFO - Reading York13 tab content...
+2025-10-28 13:12:00,190 - WARNING - 🚫 Skipping tab York13 due to invalid internal link: https://www.loclite.co.uk/about/. Check all the internal links.
+2025-10-28 13:12:02,007 - INFO - ✅ Page created successfully for London17!
+2025-10-28 13:12:02,007 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london17-loclite-3/
+2025-10-28 13:12:03,009 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 13:12:03,011 - INFO - Reading Arun tab content...
+2025-10-28 13:12:03,011 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-28 13:12:03,045 - INFO - Found 1 child tab/tabs in Arun. Recursing...
+2025-10-28 13:12:03,046 - INFO - ⚠️ City 'Tab 4' not found in sheet. Skipping tab.
+2025-10-28 13:12:03,046 - INFO - Reading Tab 4 tab content...
+2025-10-28 13:12:03,046 - WARNING - 🈳 Tab 'Tab 4' is empty. Skipping...
+2025-10-28 13:14:02,249 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 13:14:02,250 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 13:16:18,397 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 13:16:18,430 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 13:16:18,430 - INFO - Reading Arun tab content...
+2025-10-28 13:16:18,433 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-28 13:19:51,180 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 13:19:51,181 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 13:19:51,181 - INFO - Reading Arun tab content...
+2025-10-28 13:19:51,184 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-28 13:19:51,186 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 13:19:51,186 - INFO - ✅ Processed new tabs: 0
+2025-10-28 13:19:51,187 - INFO - ⏩ Skipped already processed: 0
+2025-10-28 13:19:51,187 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-28 13:19:51,187 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-28 13:19:51,187 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-28 13:19:51,187 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-10-28 13:19:51,187 - INFO - *************************************************************************************************************
+2025-10-28 13:19:51,187 - INFO - *************************************************************************************************************
+2025-10-28 13:27:17,921 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 13:27:17,922 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 14:17:06,160 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 14:17:06,162 - INFO - ⏩ Skipping already processed tab: London17
+2025-10-28 14:17:06,163 - INFO - Reading Arun tab content...
+2025-10-28 14:17:06,166 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-28 14:17:06,167 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 14:17:06,167 - INFO - ✅ Processed new tabs: 0
+2025-10-28 14:17:06,167 - INFO - ⏩ Skipped already processed: 1
+2025-10-28 14:17:06,167 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-28 14:17:06,167 - INFO - ⚠️ Empty tabs skipped: 1
+2025-10-28 14:17:06,167 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-28 14:17:06,168 - WARNING - ⚠️ Empty tabs skipped: 1
+2025-10-28 14:17:06,168 - INFO - *************************************************************************************************************
+2025-10-28 14:17:06,168 - INFO - *************************************************************************************************************
+2025-10-28 14:26:02,766 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 14:26:02,767 - INFO - Reading London18 tab content...
+2025-10-28 14:26:02,778 - INFO - Found 1 child tab/tabs in London18. Recursing...
+2025-10-28 14:26:02,779 - INFO - Reading York13 tab content...
+2025-10-28 14:26:02,781 - WARNING - 🚫 Skipping tab York13 due to invalid internal link: https://www.loclite.co.uk/about/. Check all the internal links.
+2025-10-28 14:26:05,007 - INFO - ✅ Page created successfully for London18!
+2025-10-28 14:26:05,008 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london18-loclite/
+2025-10-28 14:26:05,903 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:26:05,935 - INFO - Reading Arun tab content...
+2025-10-28 14:26:05,935 - WARNING - 🈳 Tab 'Arun' is empty. Skipping...
+2025-10-28 14:26:05,936 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 14:26:05,936 - INFO - ✅ Processed new tabs: 1
+2025-10-28 14:26:05,936 - INFO - ⏩ Skipped already processed: 0
+2025-10-28 14:26:05,936 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-28 14:26:05,936 - INFO - ⚠️ Empty tabs skipped: 1
+2025-10-28 14:26:05,936 - INFO - ⚠️ Tabs with wrong internal links: 1
+2025-10-28 14:26:05,936 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-10-28 14:26:05,936 - INFO - *************************************************************************************************************
+2025-10-28 14:26:05,936 - INFO - *************************************************************************************************************
+2025-10-28 14:39:02,463 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 14:39:02,464 - INFO - Reading London19 tab content...
+2025-10-28 14:39:02,471 - INFO - Found 1 child tab/tabs in London19. Recursing...
+2025-10-28 14:39:02,472 - INFO - Reading York13 tab content...
+2025-10-28 14:39:04,647 - INFO - ✅ Page created successfully for London19!
+2025-10-28 14:39:04,647 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london19-loclite/
+2025-10-28 14:39:05,433 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:39:05,434 - INFO - Reading Arun tab content...
+2025-10-28 14:39:05,438 - INFO - Found 1 child tab/tabs in Arun. Recursing...
+2025-10-28 14:39:05,448 - INFO - Reading Liverpool tab content...
+2025-10-28 14:39:06,414 - INFO - ✅ Page created successfully for Arun!
+2025-10-28 14:39:06,414 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-arun-loclite/
+2025-10-28 14:39:07,328 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:39:07,331 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 14:39:07,332 - INFO - ✅ Processed new tabs: 2
+2025-10-28 14:39:07,332 - INFO - ⏩ Skipped already processed: 0
+2025-10-28 14:39:07,332 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-28 14:39:07,332 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-28 14:39:07,332 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-28 14:39:07,332 - INFO - ✅ All the 2 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-28 14:39:07,332 - INFO - *************************************************************************************************************
+2025-10-28 14:39:07,350 - INFO - *************************************************************************************************************
+2025-10-28 14:49:29,725 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 14:49:29,725 - INFO - ⚠️ City 'London20' not found in sheet. Skipping tab.
+2025-10-28 14:49:29,726 - INFO - Reading Arun1 tab content...
+2025-10-28 14:49:29,731 - INFO - Found 1 child tab/tabs in Arun1. Recursing...
+2025-10-28 14:49:29,731 - INFO - Reading Liverpool1 tab content...
+2025-10-28 14:49:31,443 - INFO - ✅ Page created successfully for Arun1!
+2025-10-28 14:49:31,444 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-arun1-loclite/
+2025-10-28 14:49:32,191 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:49:32,923 - INFO - ✅ Page created successfully for Liverpool1!
+2025-10-28 14:49:32,923 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-liverpool1-loclite/
+2025-10-28 14:49:33,664 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:49:33,666 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 14:49:33,667 - INFO - ✅ Processed new tabs: 2
+2025-10-28 14:49:33,667 - INFO - ⏩ Skipped already processed: 0
+2025-10-28 14:49:33,667 - INFO - ⚠️ Tabs with wrong city names: 1
+2025-10-28 14:49:33,667 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-28 14:49:33,667 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-28 14:49:33,667 - WARNING - ⚠️ 1 city names in the tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo mis-matched with the sheet cities.
+2025-10-28 14:49:33,667 - INFO - *************************************************************************************************************
+2025-10-28 14:49:33,667 - INFO - *************************************************************************************************************
+2025-10-28 14:51:34,362 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-10-28 14:51:34,363 - INFO - Reading London20 tab content...
+2025-10-28 14:51:34,369 - INFO - Found 1 child tab/tabs in London20. Recursing...
+2025-10-28 14:51:34,369 - INFO - Reading York14 tab content...
+2025-10-28 14:51:35,291 - INFO - ✅ Page created successfully for London20!
+2025-10-28 14:51:35,291 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london20-loclite/
+2025-10-28 14:51:36,015 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:51:37,146 - INFO - ✅ Page created successfully for York14!
+2025-10-28 14:51:37,147 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-york14-loclite/
+2025-10-28 14:51:38,167 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:51:38,170 - INFO - Reading Arun2 tab content...
+2025-10-28 14:51:38,174 - INFO - Found 1 child tab/tabs in Arun2. Recursing...
+2025-10-28 14:51:38,177 - INFO - Reading Liverpool2 tab content...
+2025-10-28 14:51:38,908 - INFO - ✅ Page created successfully for Arun2!
+2025-10-28 14:51:38,908 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-arun2-loclite/
+2025-10-28 14:51:39,708 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:51:40,543 - INFO - ✅ Page created successfully for Liverpool2!
+2025-10-28 14:51:40,544 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-liverpool2-loclite/
+2025-10-28 14:51:41,218 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 14:51:41,220 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 14:51:41,220 - INFO - ✅ Processed new tabs: 4
+2025-10-28 14:51:41,221 - INFO - ⏩ Skipped already processed: 0
+2025-10-28 14:51:41,221 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-28 14:51:41,221 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-28 14:51:41,222 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-28 14:51:41,222 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-10-28 14:51:41,222 - INFO - *************************************************************************************************************
+2025-10-28 14:51:41,222 - INFO - *************************************************************************************************************
+2025-10-28 15:11:10,612 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-28 15:11:10,613 - INFO - Reading London21 tab content...
+2025-10-28 15:11:10,617 - INFO - Found 1 child tab/tabs in London21. Recursing...
+2025-10-28 15:11:10,618 - INFO - Reading York15 tab content...
+2025-10-28 15:11:13,232 - INFO - ✅ Page created successfully for London21!
+2025-10-28 15:11:13,233 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-london21-loclite/
+2025-10-28 15:11:14,253 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 15:11:15,868 - INFO - ✅ Page created successfully for York15!
+2025-10-28 15:11:15,868 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-york15-loclite/
+2025-10-28 15:11:16,794 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 15:11:16,795 - INFO - Reading Arun3 tab content...
+2025-10-28 15:11:16,799 - INFO - Found 1 child tab/tabs in Arun3. Recursing...
+2025-10-28 15:11:16,799 - INFO - Reading Liverpool3 tab content...
+2025-10-28 15:11:17,623 - INFO - ✅ Page created successfully for Arun3!
+2025-10-28 15:11:17,623 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-arun3-loclite/
+2025-10-28 15:11:18,547 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 15:11:19,544 - INFO - ✅ Page created successfully for Liverpool3!
+2025-10-28 15:11:19,545 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-liverpool3-loclite/
+2025-10-28 15:11:20,276 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 15:11:20,338 - INFO - Reading Teesside10 tab content...
+2025-10-28 15:11:21,240 - INFO - ✅ Page created successfully for Teesside10!
+2025-10-28 15:11:21,241 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-teesside10-loclite/
+2025-10-28 15:11:22,128 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 15:11:22,145 - INFO - Reading Bristol10 tab content...
+2025-10-28 15:11:23,067 - INFO - ✅ Page created successfully for Bristol10!
+2025-10-28 15:11:23,067 - INFO - Page URL: https://www.loclite.co.uk/top-seo-freelancer-in-bristol10-loclite/
+2025-10-28 15:11:23,832 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-28 15:11:23,834 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 15:11:23,834 - INFO - ✅ Processed new tabs: 6
+2025-10-28 15:11:23,834 - INFO - 📄 Subtabs processed (not counted as new): 2
+2025-10-28 15:11:23,834 - INFO - ⏩ Skipped already processed: 0
+2025-10-28 15:11:23,835 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-28 15:11:23,835 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-28 15:11:23,835 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-28 15:11:23,835 - INFO - ✅ All the 4 tabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-28 15:11:23,835 - INFO - *************************************************************************************************************
+2025-10-28 15:11:23,835 - INFO - *************************************************************************************************************
+2025-10-28 15:15:20,958 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-10-28 15:15:20,959 - INFO - ⏩ Skipping already processed tab: London21
+2025-10-28 15:15:20,959 - INFO - ⏩ Skipping already processed tab: Arun3
+2025-10-28 15:15:20,960 - INFO - ⏩ Skipping already processed tab: Teesside10
+2025-10-28 15:15:20,960 - INFO - ⏩ Skipping already processed tab: Bristol10
+2025-10-28 15:15:20,960 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-28 15:15:20,960 - INFO - ✅ Processed new tabs: 0
+2025-10-28 15:15:20,960 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-28 15:15:20,961 - INFO - ⏩ Skipped already processed: 4
+2025-10-28 15:15:20,962 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-10-28 15:15:20,962 - INFO - *************************************************************************************************************
+2025-10-28 15:15:20,962 - INFO - *************************************************************************************************************

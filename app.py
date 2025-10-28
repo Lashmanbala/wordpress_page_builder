@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import os
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
-from read import read_tab, validate_meta_details
+from read import read_tab, validate_meta_details, process_tab_and_child_tabs
 from post import post_to_wp
 from write_url import write_url_to_sheet
 import json
@@ -67,43 +67,26 @@ else:
 if doc_id not in progress:
     progress[doc_id] = []
 
-processed_count = 0
-skipped_count = 0
-wrong_city_name_count = 0
-wrong_internal_link_content_count = 0
-empty_tab_count = 0
+counter = {
+            'processed_count' : 0,
+            'skipped_count' : 0,
+            'wrong_city_name_count' : 0,
+            'wrong_internal_link_content_count' : 0,
+            'empty_tab_count' : 0,
+            'subtab_count' : 0
+          }
 
 tabs = doc.get("tabs", [])
 total_tab_count = len(tabs)
 logger.info(f"📄 Document ID: {doc_id} has {total_tab_count} tabs to process.")
 
-def process_tab_and_child_tabs(tab):
-    global skipped_count, wrong_city_name_count, empty_tab_count, wrong_internal_link_content_count
-        
-    city_name = tab["tabProperties"]["title"]
-
-    if city_name in progress[doc_id]:
-        logger.info(f"⏩ Skipping already processed tab: {city_name}")
-        skipped_count += 1
-        return None, None
-
-    if city_name not in flat_cities_list:
-        logger.info(f"⚠️ City '{city_name}' not found in sheet. Skipping tab.")
-        wrong_city_name_count += 1
-        return None, None
-
-    try:
-        logger.info(f"Reading {city_name} tab content...")
-        tab_content = tab["documentTab"]["body"]["content"]
-
-
-        html_content = read_tab(tab_content, valid_urls)
-
-        if not html_content.strip():     # checks if the content is empty. If so skipping the tab
-            logger.warning(f"🈳 Tab '{city_name}' is empty. Skipping...")
-            empty_tab_count += 1
-            return None, None
-
+# Loop through all tabs
+for tab in tabs:
+    
+    html_content_dict = process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_id, logger, counter)
+    
+    for city_name, html_content in html_content_dict.items():
+            
         page_title_format = os.getenv("page_title_format")
         key_phrase_format = os.getenv("key_phrase_format")
         description_format = os.getenv("description_format")
@@ -117,70 +100,52 @@ def process_tab_and_child_tabs(tab):
 
         response = post_to_wp(html_content, featured_img_url, page_title, key_phrase, description, social_image, wp_url, wp_username, wp_app_pasword)
 
-    
-        subtabs_list = tab.get("childTabs")
-        if subtabs_list:
-            logger.info(f"Found {len(subtabs_list)} child tab/tabs in {city_name}. Recursing...")
-            for subtab in subtabs_list:
-                process_tab_and_child_tabs(subtab)
+        if not response:
+            continue 
 
-        return city_name, response
+        if response.status_code == 201:
+            page_url = response.json()["link"]
+            logger.info(f"✅ Page created successfully for {city_name}!")
+            logger.info(f"Page URL: {page_url}")
 
-    except ValueError as ve:
-        logger.warning(f"🚫 Skipping tab {city_name} due to invalid internal link: {ve}. Check all the internal links.")
-        wrong_internal_link_content_count += 1
-        return None, None
-    
-# Loop through all tabs
-for tab in tabs:
-    
-    city_name, response = process_tab_and_child_tabs(tab)
-    
-    if not response:
-        continue 
-    
-    if response.status_code == 201:
-        page_url = response.json()["link"]
-        logger.info(f"✅ Page created successfully for {city_name}!")
-        logger.info(f"Page URL: {page_url}")
+            write_res = write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities)
+            logger.info(write_res)
 
-        write_res = write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities)
-        logger.info(write_res)
+            # Update progress
+            progress[doc_id].append(city_name)
+            counter['processed_count'] += 1
 
-        # Update progress
-        progress[doc_id].append(city_name)
-        processed_count += 1
-
-        # Save progress to file
-        with open(PROGRESS_FILE, "w") as f:
-            json.dump(progress, f, indent=4)
-    else:
-        logger.info(f"❌ Failed to create page for {city_name}. {response.status_code} - {response.text}")
-        logger.info(f"Response: {response.text}")
+            # Save progress to file
+            with open(PROGRESS_FILE, "w") as f:
+                json.dump(progress, f, indent=4)
+        else:
+            logger.info(f"❌ Failed to create page for {city_name}. {response.status_code} - {response.text}")
+            logger.info(f"Response: {response.text}")
 
 # Summary after processing document
-logger.info(f"📊 ======================= Summary for Document: {doc_id} =======")
-logger.info(f"✅ Processed new tabs: {processed_count}")
-logger.info(f"⏩ Skipped already processed: {skipped_count}")
-logger.info(f"⏩ Tabs with wrong city names: {wrong_city_name_count}")
-logger.info(f"⏩ Empty tabs skipped: {empty_tab_count}")
-logger.info(f"⏩ Tabs with wrong internal links: {wrong_internal_link_content_count}")
+logger.info(f"📊 =========================Summary for Document: {doc_id}================")
+logger.info(f"✅ Processed new tabs: {counter['processed_count']}")
+logger.info(f"📄 Subtabs processed (not counted as new): {counter['subtab_count']}")
+logger.info(f"⏩ Skipped already processed: {counter['skipped_count']}")
+# logger.info(f"⚠️ Tabs with wrong city names: {counter['wrong_city_name_count']}")
+# logger.info(f"⚠️ Empty tabs skipped: {counter['empty_tab_count']}")
+# logger.info(f"⚠️ Tabs with wrong internal links: {counter['wrong_internal_link_content_count']}")
 
 
-if (processed_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0) or (processed_count + skipped_count == total_tab_count and wrong_city_name_count == 0 and wrong_internal_link_content_count == 0 and processed_count > 0 and empty_tab_count == 0):
-    logger.info(f"✅ All the {total_tab_count} tabs of the document {doc_id} processed successfully.")
+if (counter['processed_count'] - counter['subtab_count'] == total_tab_count and counter['wrong_city_name_count'] == 0 and counter['wrong_internal_link_content_count'] == 0) or (counter['processed_count'] + counter['skipped_count'] == total_tab_count and counter['wrong_city_name_count'] == 0 and counter['wrong_internal_link_content_count'] == 0 and counter['processed_count'] > 0 and counter['empty_tab_count'] == 0):
+    logger.info(f"✅ All the {total_tab_count} tabs with {counter['subtab_count']} subtabs of the document {doc_id} processed successfully.")
 
-elif skipped_count == total_tab_count:
+elif counter['skipped_count'] == total_tab_count:
     logger.info(f"ℹ️ All tabs already processed for this document {doc_id}.")
 
-elif wrong_city_name_count > 0:
-    logger.warning(f"⚠️ {wrong_city_name_count} city names in the tabs of the document {doc_id} mis-matched with the sheet cities.")
+elif counter['wrong_city_name_count'] > 0:
+    logger.warning(f"⚠️ {counter['wrong_city_name_count']} city names in the tabs of the document {doc_id} mis-matched with the sheet cities.")
 
-elif wrong_internal_link_content_count > 0:
-    logger.warning(f"⚠️ {wrong_internal_link_content_count} tabs in the document {doc_id} have wrong internal links in the content. Check all the internal links")
+elif counter['wrong_internal_link_content_count'] > 0:
+    logger.warning(f"⚠️ {counter['wrong_internal_link_content_count']} tabs in the document {doc_id} have wrong internal links in the content. Check all the internal links")
 
-elif empty_tab_count > 0:
-    logger.warning(f"⚠️ Empty tabs skipped: {empty_tab_count}")
+elif counter['empty_tab_count'] > 0:
+    logger.warning(f"⚠️ Empty tabs skipped: {counter['empty_tab_count']}")
 
 else:
     logger.warning(f"⚠️ Document {doc_id} processing completed with mixed results. Something wrong with processing this doc. Check manually.")
