@@ -32,7 +32,7 @@ def text_to_html(paragraph, valid_urls):
                 if url not in valid_urls:      # stops processing the tab bcz of invalid url
                     raise ValueError(f'{url}')
                     
-                txt = f'<a href="{url}">{txt.strip()}</a>'
+                txt = f' <a href="{url}">{txt.strip()}</a>'   # Prepended a space to keep normal text and the internal link seperated in a line.
 
             # Apply bold/italic
             if style.get("bold"):
