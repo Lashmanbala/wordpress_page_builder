@@ -30,13 +30,13 @@ def post_to_wp(html_content, featured_img_url, page_title, key_phrase, descripti
         # "featured_media": 9,  Id of the featured image in WordPress media library
         "meta": {
             "_yoast_wpseo_focuskw": f"{key_phrase}",
-            "_yoast_wpseo_title": f"{page_title} | Loclite",
+            "_yoast_wpseo_title": f"{page_title}",
             "_yoast_wpseo_metadesc": f"{full_description}",
             "_yoast_wpseo_opengraph-image": social_image,
-            "_yoast_wpseo_opengraph-title": f"{page_title} | Loclite",
+            "_yoast_wpseo_opengraph-title": f"{page_title}",
             "_yoast_wpseo_opengraph-description": f"{full_description}",
             "_yoast_wpseo_twitter-image": social_image,
-            "_yoast_wpseo_twitter-title": f"{page_title} | Loclite",
+            "_yoast_wpseo_twitter-title": f"{page_title}",
             "_yoast_wpseo_twitter-description": f"{full_description}"
         }
     }
