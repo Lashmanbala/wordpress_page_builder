@@ -1,6 +1,7 @@
 import re
 import os
 from post import post_to_wp
+import re
 
 def validate_meta_details(doc_title, country_name, category_name):
     
@@ -44,14 +45,13 @@ def text_to_html(paragraph, valid_urls):
     return "".join(text_parts).strip()
 
 
-
 def read_tab(tab_content, valid_urls):
-  
     html_lines = []
 
     for content in tab_content:
         if "paragraph" not in content:
             continue
+
         paragraph = content["paragraph"]
         text = text_to_html(paragraph, valid_urls)
         if not text:
@@ -86,8 +86,51 @@ def read_tab(tab_content, valid_urls):
     if inside_list:
         html_output.append("</ul>")
 
-    html_content = "\n".join(html_output)
-    
+    # Clean + Renumber H3s
+    numbered_output = []
+    h3_counter = 0
+
+    for line in html_output:
+        if line.startswith("<h2>"):
+            h3_counter = 0
+            numbered_output.append(line)
+            continue
+
+        if line.startswith("<h3>"):
+            # Extract content inside <h3> ... </h3>
+            heading_content = re.search(r"<h3>(.*?)</h3>", line, re.DOTALL)
+            if not heading_content:
+                numbered_output.append(line)
+                continue
+
+            heading_inner = heading_content.group(1).strip()
+
+            # Remove leading numbers even if wrapped in tags like <strong>1.Heading</strong>
+            # Remove tags temporarily to find numbering
+            text_only = re.sub(r"<.*?>", "", heading_inner)
+            cleaned_text = re.sub(r"^\s*\d+\s*[\.\)\-]?\s*", "", text_only)
+
+            # Replace text inside tags with cleaned text
+            # This keeps <strong> etc. but replaces its content if it had numbers
+            heading_inner = re.sub(r">(.*?)<", f">{cleaned_text}<", heading_inner, count=1)
+
+            # Increment our own numbering
+            h3_counter += 1
+            final_heading = f"{h3_counter}. {cleaned_text}"
+
+            # If the original had <strong>, wrap number + text in it
+            if "<strong>" in heading_inner:
+                heading_inner = re.sub(r"<strong>.*?</strong>", f"<strong>{final_heading}</strong>", heading_inner)
+            else:
+                heading_inner = final_heading
+
+            numbered_output.append(f"<h3>{heading_inner}</h3>")
+            continue
+
+        numbered_output.append(line)
+
+
+    html_content = "\n".join(numbered_output)
     return html_content
 
 
