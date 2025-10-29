@@ -124,6 +124,7 @@ for tab in tabs:
 
 # Summary after processing document
 logger.info(f"📊 =========================Summary for Document: {doc_id}================")
+logger.info(f"📄 This document has {total_tab_count} tabs")
 logger.info(f"✅ Processed new tabs: {counter['processed_count']}")
 logger.info(f"📄 Subtabs processed (not counted as new): {counter['subtab_count']}")
 logger.info(f"⏩ Skipped already processed: {counter['skipped_count']}")

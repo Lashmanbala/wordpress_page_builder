@@ -13,6 +13,32 @@ def validate_meta_details(doc_title, country_name, category_name):
     if country_name_set.issubset(title_words_set) and category_name_set.issubset(title_words_set):
         return True
     return False
+import re
+
+def remove_emojis_and_symbols(text):
+    # Pattern to remove emojis, pictographs, flags, and symbols
+    emoji_pattern = re.compile(
+        "["
+        "\U0001F600-\U0001F64F"  # emoticons
+        "\U0001F300-\U0001F5FF"  # symbols & pictographs
+        "\U0001F680-\U0001F6FF"  # transport & map symbols
+        "\U0001F1E0-\U0001F1FF"  # flags
+        "\U00002700-\U000027BF"  # Dingbats
+        "\U000024C2-\U0001F251"  # Enclosed characters
+        "\U0001F900-\U0001F9FF"  # Supplemental Symbols
+        "\U0001FA70-\U0001FAFF"  # Symbols & pictographs extended
+        "]+",
+        flags=re.UNICODE
+    )
+
+    # Pattern to remove special logo-like symbols (™️, ©, ®, ℠)
+    logo_symbols_pattern = re.compile(r"[™©®℠]+", flags=re.UNICODE)
+
+    # Remove both emojis and logo symbols
+    text = emoji_pattern.sub("", text)
+    text = logo_symbols_pattern.sub("", text)
+
+    return text.strip()
 
  
 def text_to_html(paragraph, valid_urls):
@@ -46,16 +72,19 @@ def text_to_html(paragraph, valid_urls):
 
 
 def read_tab(tab_content, valid_urls):
+  
     html_lines = []
 
     for content in tab_content:
         if "paragraph" not in content:
             continue
-
         paragraph = content["paragraph"]
         text = text_to_html(paragraph, valid_urls)
+
         if not text:
             continue
+
+        text = remove_emojis_and_symbols(text)
 
         # Headings
         style = paragraph.get("paragraphStyle", {}).get("namedStyleType", "")
@@ -86,51 +115,8 @@ def read_tab(tab_content, valid_urls):
     if inside_list:
         html_output.append("</ul>")
 
-    # Clean + Renumber H3s
-    numbered_output = []
-    h3_counter = 0
-
-    for line in html_output:
-        if line.startswith("<h2>"):
-            h3_counter = 0
-            numbered_output.append(line)
-            continue
-
-        if line.startswith("<h3>"):
-            # Extract content inside <h3> ... </h3>
-            heading_content = re.search(r"<h3>(.*?)</h3>", line, re.DOTALL)
-            if not heading_content:
-                numbered_output.append(line)
-                continue
-
-            heading_inner = heading_content.group(1).strip()
-
-            # Remove leading numbers even if wrapped in tags like <strong>1.Heading</strong>
-            # Remove tags temporarily to find numbering
-            text_only = re.sub(r"<.*?>", "", heading_inner)
-            cleaned_text = re.sub(r"^\s*\d+\s*[\.\)\-]?\s*", "", text_only)
-
-            # Replace text inside tags with cleaned text
-            # This keeps <strong> etc. but replaces its content if it had numbers
-            heading_inner = re.sub(r">(.*?)<", f">{cleaned_text}<", heading_inner, count=1)
-
-            # Increment our own numbering
-            h3_counter += 1
-            final_heading = f"{h3_counter}. {cleaned_text}"
-
-            # If the original had <strong>, wrap number + text in it
-            if "<strong>" in heading_inner:
-                heading_inner = re.sub(r"<strong>.*?</strong>", f"<strong>{final_heading}</strong>", heading_inner)
-            else:
-                heading_inner = final_heading
-
-            numbered_output.append(f"<h3>{heading_inner}</h3>")
-            continue
-
-        numbered_output.append(line)
-
-
-    html_content = "\n".join(numbered_output)
+    html_content = "\n".join(html_output)
+    
     return html_content
 
 

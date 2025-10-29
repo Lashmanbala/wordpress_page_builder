@@ -2697,3 +2697,839 @@ Page URL: https://www.loclite.co.uk/top-rated-seo-agency-in-scottish-borders/
 2025-10-29 11:06:30,151 - INFO - ✅ All the 100 tabs with 0 subtabs of the document 1hvsr-vYG9l8GRDK6Rm6aHzuMoWGX-QQiIVpK68f_pjg processed successfully.
 2025-10-29 11:06:30,152 - INFO - *************************************************************************************************************
 2025-10-29 11:06:30,152 - INFO - *************************************************************************************************************
+2025-10-29 12:14:51,553 - INFO - ✅ Logging initialized successfully.
+2025-10-29 12:14:58,532 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 3 tabs to process.
+2025-10-29 12:14:58,533 - INFO - Reading Aberdeen tab content...
+2025-10-29 12:15:00,285 - INFO - ✅ Page created successfully for Aberdeen!
+2025-10-29 12:15:00,286 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-aberdeen-2/
+2025-10-29 12:15:01,168 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:15:01,182 - INFO - Reading Aberdeenshire tab content...
+2025-10-29 12:15:02,251 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-10-29 12:15:02,252 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-aberdeenshire-2/
+2025-10-29 12:15:02,891 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:15:02,892 - INFO - Reading Aldershot and Farnborough tab content...
+2025-10-29 12:15:03,668 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-10-29 12:15:03,668 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-aldershot-and-farnborough-2/
+2025-10-29 12:15:04,400 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:15:04,403 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-29 12:15:04,403 - INFO - ✅ Processed new tabs: 3
+2025-10-29 12:15:04,403 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 12:15:04,403 - INFO - ⏩ Skipped already processed: 0
+2025-10-29 12:15:04,403 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 12:15:04,404 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 12:15:04,404 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-29 12:15:04,404 - INFO - ✅ All the 3 tabs with 0 subtabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-29 12:15:04,404 - INFO - *************************************************************************************************************
+2025-10-29 12:15:04,405 - INFO - *************************************************************************************************************
+2025-10-29 12:19:26,620 - INFO - ✅ Logging initialized successfully.
+2025-10-29 12:19:39,265 - INFO - 📄 Document ID: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE has 70 tabs to process.
+2025-10-29 12:19:39,265 - INFO - Reading Pembrokeshire tab content...
+2025-10-29 12:19:40,131 - INFO - ✅ Page created successfully for Pembrokeshire!
+2025-10-29 12:19:40,132 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-pembrokeshire/
+2025-10-29 12:19:40,732 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:40,920 - INFO - Reading Perth & Kinross tab content...
+2025-10-29 12:19:42,183 - INFO - ✅ Page created successfully for Perth & Kinross!
+2025-10-29 12:19:42,184 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-perth-kinross/
+2025-10-29 12:19:42,839 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:42,856 - INFO - Reading Peterborough tab content...
+2025-10-29 12:19:44,204 - INFO - ✅ Page created successfully for Peterborough!
+2025-10-29 12:19:44,205 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-peterborough/
+2025-10-29 12:19:44,992 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:44,994 - INFO - Reading Plymouth tab content...
+2025-10-29 12:19:47,166 - INFO - ✅ Page created successfully for Plymouth!
+2025-10-29 12:19:47,167 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-plymouth/
+2025-10-29 12:19:48,153 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:48,155 - INFO - Reading Poole tab content...
+2025-10-29 12:19:49,231 - INFO - ✅ Page created successfully for Poole!
+2025-10-29 12:19:49,231 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-poole/
+2025-10-29 12:19:49,986 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:50,343 - INFO - Reading Portsmouth tab content...
+2025-10-29 12:19:51,584 - INFO - ✅ Page created successfully for Portsmouth!
+2025-10-29 12:19:51,585 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-portsmouth/
+2025-10-29 12:19:52,258 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:52,260 - INFO - Reading Powys tab content...
+2025-10-29 12:19:53,352 - INFO - ✅ Page created successfully for Powys!
+2025-10-29 12:19:53,353 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-powys/
+2025-10-29 12:19:54,054 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:54,056 - INFO - Reading Preston tab content...
+2025-10-29 12:19:54,870 - INFO - ✅ Page created successfully for Preston!
+2025-10-29 12:19:54,871 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-preston/
+2025-10-29 12:19:55,390 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:55,392 - INFO - Reading Redcar & Cleveland tab content...
+2025-10-29 12:19:56,152 - INFO - ✅ Page created successfully for Redcar & Cleveland!
+2025-10-29 12:19:56,152 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-redcar-cleveland/
+2025-10-29 12:19:56,673 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:56,677 - INFO - Reading Reigate & Banstead tab content...
+2025-10-29 12:19:57,574 - INFO - ✅ Page created successfully for Reigate & Banstead!
+2025-10-29 12:19:57,579 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-reigate-banstead/
+2025-10-29 12:19:59,079 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:19:59,081 - INFO - Reading Renfrewshire tab content...
+2025-10-29 12:20:00,470 - INFO - ✅ Page created successfully for Renfrewshire!
+2025-10-29 12:20:00,473 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-renfrewshire/
+2025-10-29 12:20:01,405 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:01,408 - INFO - Reading Rochdale tab content...
+2025-10-29 12:20:03,050 - INFO - ✅ Page created successfully for Rochdale!
+2025-10-29 12:20:03,055 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-rochdale/
+2025-10-29 12:20:04,090 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:04,092 - INFO - Reading Rotherham tab content...
+2025-10-29 12:20:05,141 - INFO - ✅ Page created successfully for Rotherham!
+2025-10-29 12:20:05,143 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-rotherham/
+2025-10-29 12:20:05,758 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:05,759 - INFO - Reading Salford tab content...
+2025-10-29 12:20:06,647 - INFO - ✅ Page created successfully for Salford!
+2025-10-29 12:20:06,647 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-salford/
+2025-10-29 12:20:07,299 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:07,301 - INFO - Reading Salisbury tab content...
+2025-10-29 12:20:08,220 - INFO - ✅ Page created successfully for Salisbury!
+2025-10-29 12:20:08,221 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-salisbury/
+2025-10-29 12:20:08,756 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:08,758 - INFO - Reading Sandwell tab content...
+2025-10-29 12:20:09,739 - INFO - ✅ Page created successfully for Sandwell!
+2025-10-29 12:20:09,740 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-sandwell/
+2025-10-29 12:20:11,001 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:11,002 - INFO - Reading Scarborough tab content...
+2025-10-29 12:20:11,922 - INFO - ✅ Page created successfully for Scarborough!
+2025-10-29 12:20:11,922 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-scarborough/
+2025-10-29 12:20:12,666 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:12,668 - INFO - Reading Scottish Borders tab content...
+2025-10-29 12:20:13,942 - INFO - ✅ Page created successfully for Scottish Borders!
+2025-10-29 12:20:13,946 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-scottish-borders/
+2025-10-29 12:20:14,535 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:14,544 - INFO - Reading Sefton tab content...
+2025-10-29 12:20:15,861 - INFO - ✅ Page created successfully for Sefton!
+2025-10-29 12:20:15,862 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-sefton/
+2025-10-29 12:20:16,397 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:16,399 - INFO - Reading Sevenoaks tab content...
+2025-10-29 12:20:17,172 - INFO - ✅ Page created successfully for Sevenoaks!
+2025-10-29 12:20:17,173 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-sevenoaks/
+2025-10-29 12:20:17,705 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:17,707 - INFO - Reading Sheffield tab content...
+2025-10-29 12:20:18,477 - INFO - ✅ Page created successfully for Sheffield!
+2025-10-29 12:20:18,478 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-sheffield/
+2025-10-29 12:20:19,052 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:19,053 - INFO - Reading Slough tab content...
+2025-10-29 12:20:19,945 - INFO - ✅ Page created successfully for Slough!
+2025-10-29 12:20:19,946 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-slough/
+2025-10-29 12:20:20,460 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:20,462 - INFO - Reading Solihull tab content...
+2025-10-29 12:20:21,322 - INFO - ✅ Page created successfully for Solihull!
+2025-10-29 12:20:21,323 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-solihull/
+2025-10-29 12:20:21,845 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:21,848 - INFO - Reading Southampton tab content...
+2025-10-29 12:20:22,659 - INFO - ✅ Page created successfully for Southampton!
+2025-10-29 12:20:22,662 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-southampton/
+2025-10-29 12:20:23,177 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:23,180 - INFO - Reading Southend-on-Sea tab content...
+2025-10-29 12:20:24,009 - INFO - ✅ Page created successfully for Southend-on-Sea!
+2025-10-29 12:20:24,010 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-southend-on-sea/
+2025-10-29 12:20:24,530 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:24,531 - INFO - Reading St Albans tab content...
+2025-10-29 12:20:25,318 - INFO - ✅ Page created successfully for St Albans!
+2025-10-29 12:20:25,319 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-st-albans/
+2025-10-29 12:20:25,881 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:25,885 - INFO - Reading St Helens tab content...
+2025-10-29 12:20:26,933 - INFO - ✅ Page created successfully for St Helens!
+2025-10-29 12:20:26,934 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-st-helens/
+2025-10-29 12:20:27,448 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:27,452 - INFO - Reading Stafford tab content...
+2025-10-29 12:20:28,371 - INFO - ✅ Page created successfully for Stafford!
+2025-10-29 12:20:28,372 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-stafford/
+2025-10-29 12:20:28,932 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:28,934 - INFO - Reading Stockport tab content...
+2025-10-29 12:20:29,791 - INFO - ✅ Page created successfully for Stockport!
+2025-10-29 12:20:29,791 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-stockport/
+2025-10-29 12:20:30,372 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:30,374 - INFO - Reading Stockton-on-Tees tab content...
+2025-10-29 12:20:31,182 - INFO - ✅ Page created successfully for Stockton-on-Tees!
+2025-10-29 12:20:31,182 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-stockton-on-tees/
+2025-10-29 12:20:31,708 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:31,710 - INFO - Reading Stratford-on-Avon tab content...
+2025-10-29 12:20:32,497 - INFO - ✅ Page created successfully for Stratford-on-Avon!
+2025-10-29 12:20:32,497 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-stratford-on-avon/
+2025-10-29 12:20:33,033 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:33,035 - INFO - Reading Stroud tab content...
+2025-10-29 12:20:34,068 - INFO - ✅ Page created successfully for Stroud!
+2025-10-29 12:20:34,068 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-stroud/
+2025-10-29 12:20:34,597 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:34,599 - INFO - Reading Sunderland tab content...
+2025-10-29 12:20:35,517 - INFO - ✅ Page created successfully for Sunderland!
+2025-10-29 12:20:35,518 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-sunderland/
+2025-10-29 12:20:36,038 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:36,040 - INFO - Reading Swale tab content...
+2025-10-29 12:20:36,791 - INFO - ✅ Page created successfully for Swale!
+2025-10-29 12:20:36,792 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-swale/
+2025-10-29 12:20:38,040 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:38,042 - INFO - Reading Swansea tab content...
+2025-10-29 12:20:39,056 - INFO - ✅ Page created successfully for Swansea!
+2025-10-29 12:20:39,057 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-swansea/
+2025-10-29 12:20:39,665 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:39,667 - INFO - Reading Swindon tab content...
+2025-10-29 12:20:40,637 - INFO - ✅ Page created successfully for Swindon!
+2025-10-29 12:20:40,638 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-swindon/
+2025-10-29 12:20:41,316 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:41,317 - INFO - Reading Tameside tab content...
+2025-10-29 12:20:42,305 - INFO - ✅ Page created successfully for Tameside!
+2025-10-29 12:20:42,306 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-tameside/
+2025-10-29 12:20:43,475 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:43,477 - INFO - Reading Teesside tab content...
+2025-10-29 12:20:44,408 - INFO - ✅ Page created successfully for Teesside!
+2025-10-29 12:20:44,409 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-teesside/
+2025-10-29 12:20:44,945 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:44,946 - INFO - Reading Teignbridge tab content...
+2025-10-29 12:20:45,789 - INFO - ✅ Page created successfully for Teignbridge!
+2025-10-29 12:20:45,790 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-teignbridge/
+2025-10-29 12:20:46,320 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:46,324 - INFO - Reading Telford tab content...
+2025-10-29 12:20:47,204 - INFO - ✅ Page created successfully for Telford!
+2025-10-29 12:20:47,205 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-telford/
+2025-10-29 12:20:47,740 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:47,742 - INFO - Reading Tendring tab content...
+2025-10-29 12:20:54,606 - INFO - ✅ Page created successfully for Tendring!
+2025-10-29 12:20:54,607 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-tendring/
+2025-10-29 12:20:55,158 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:55,159 - INFO - Reading Test Valley tab content...
+2025-10-29 12:20:56,622 - INFO - ✅ Page created successfully for Test Valley!
+2025-10-29 12:20:56,623 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-test-valley/
+2025-10-29 12:20:57,225 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:57,229 - INFO - ⚠️ City 'Swindon - Thamesdown' not found in sheet. Skipping tab.
+2025-10-29 12:20:57,230 - INFO - Reading Thanet tab content...
+2025-10-29 12:20:58,104 - INFO - ✅ Page created successfully for Thanet!
+2025-10-29 12:20:58,105 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-thanet/
+2025-10-29 12:20:58,827 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:20:58,830 - INFO - Reading The Wrekin tab content...
+2025-10-29 12:21:00,034 - INFO - ✅ Page created successfully for The Wrekin!
+2025-10-29 12:21:00,035 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-the-wrekin/
+2025-10-29 12:21:00,720 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:00,722 - INFO - Reading Thurrock tab content...
+2025-10-29 12:21:01,455 - INFO - ✅ Page created successfully for Thurrock!
+2025-10-29 12:21:01,456 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-thurrock/
+2025-10-29 12:21:02,077 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:02,079 - INFO - Reading Torbay tab content...
+2025-10-29 12:21:03,004 - INFO - ✅ Page created successfully for Torbay!
+2025-10-29 12:21:03,005 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-torbay/
+2025-10-29 12:21:03,534 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:03,536 - INFO - Reading Trafford tab content...
+2025-10-29 12:21:04,509 - INFO - ✅ Page created successfully for Trafford!
+2025-10-29 12:21:04,509 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-trafford/
+2025-10-29 12:21:05,070 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:05,092 - INFO - Reading Vale of Glamorgan tab content...
+2025-10-29 12:21:05,904 - INFO - ✅ Page created successfully for Vale of Glamorgan!
+2025-10-29 12:21:05,905 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-vale-of-glamorgan/
+2025-10-29 12:21:06,470 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:06,472 - INFO - Reading Vale of White Horse tab content...
+2025-10-29 12:21:07,255 - INFO - ✅ Page created successfully for Vale of White Horse!
+2025-10-29 12:21:07,255 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-vale-of-white-horse/
+2025-10-29 12:21:07,767 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:07,768 - INFO - Reading Vale Royal tab content...
+2025-10-29 12:21:08,593 - INFO - ✅ Page created successfully for Vale Royal!
+2025-10-29 12:21:08,594 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-vale-royal/
+2025-10-29 12:21:09,116 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:09,118 - INFO - Reading Wakefield tab content...
+2025-10-29 12:21:09,889 - INFO - ✅ Page created successfully for Wakefield!
+2025-10-29 12:21:09,889 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wakefield/
+2025-10-29 12:21:10,440 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:10,441 - INFO - Reading Walsall tab content...
+2025-10-29 12:21:11,570 - INFO - ✅ Page created successfully for Walsall!
+2025-10-29 12:21:11,570 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-walsall/
+2025-10-29 12:21:12,130 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:12,132 - INFO - Reading Warrington tab content...
+2025-10-29 12:21:13,044 - INFO - ✅ Page created successfully for Warrington!
+2025-10-29 12:21:13,044 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-warrington/
+2025-10-29 12:21:13,666 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:13,669 - INFO - Reading Warwick tab content...
+2025-10-29 12:21:14,733 - INFO - ✅ Page created successfully for Warwick!
+2025-10-29 12:21:14,733 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-warwick/
+2025-10-29 12:21:15,420 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:15,422 - INFO - Reading Waverley tab content...
+2025-10-29 12:21:17,172 - INFO - ✅ Page created successfully for Waverley!
+2025-10-29 12:21:17,173 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-waverley/
+2025-10-29 12:21:17,788 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:17,792 - INFO - Reading Wealden tab content...
+2025-10-29 12:21:18,870 - INFO - ✅ Page created successfully for Wealden!
+2025-10-29 12:21:18,871 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wealden/
+2025-10-29 12:21:19,540 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:19,542 - INFO - Reading Wigan tab content...
+2025-10-29 12:21:20,607 - INFO - ✅ Page created successfully for Wigan!
+2025-10-29 12:21:20,607 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wigan/
+2025-10-29 12:21:21,122 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:21,125 - INFO - Reading Windsor & Maidenhead tab content...
+2025-10-29 12:21:22,099 - INFO - ✅ Page created successfully for Windsor & Maidenhead!
+2025-10-29 12:21:22,099 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-windsor-maidenhead/
+2025-10-29 12:21:22,624 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:22,628 - INFO - Reading Wirral tab content...
+2025-10-29 12:21:23,468 - INFO - ✅ Page created successfully for Wirral!
+2025-10-29 12:21:23,468 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wirral/
+2025-10-29 12:21:24,039 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:24,042 - INFO - Reading Wokingham tab content...
+2025-10-29 12:21:25,137 - INFO - ✅ Page created successfully for Wokingham!
+2025-10-29 12:21:25,138 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wokingham/
+2025-10-29 12:21:25,751 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:25,753 - INFO - Reading Wolverhampton tab content...
+2025-10-29 12:21:26,617 - INFO - ✅ Page created successfully for Wolverhampton!
+2025-10-29 12:21:26,617 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wolverhampton/
+2025-10-29 12:21:27,198 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:27,202 - INFO - Reading Worthing tab content...
+2025-10-29 12:21:27,997 - INFO - ✅ Page created successfully for Worthing!
+2025-10-29 12:21:27,999 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-worthing/
+2025-10-29 12:21:28,549 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:28,551 - INFO - Reading Wrexham Maelor tab content...
+2025-10-29 12:21:29,683 - INFO - ✅ Page created successfully for Wrexham Maelor!
+2025-10-29 12:21:29,683 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wrexham-maelor/
+2025-10-29 12:21:30,328 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:30,330 - INFO - Reading Wychavon tab content...
+2025-10-29 12:21:31,304 - INFO - ✅ Page created successfully for Wychavon!
+2025-10-29 12:21:31,306 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wychavon/
+2025-10-29 12:21:31,882 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:31,884 - INFO - Reading Wycombe tab content...
+2025-10-29 12:21:32,857 - INFO - ✅ Page created successfully for Wycombe!
+2025-10-29 12:21:32,857 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-wycombe/
+2025-10-29 12:21:33,356 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:33,359 - INFO - Reading Breckland tab content...
+2025-10-29 12:21:34,451 - INFO - ✅ Page created successfully for Breckland!
+2025-10-29 12:21:34,452 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-breckland/
+2025-10-29 12:21:34,992 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:34,995 - INFO - Reading Calderdale tab content...
+2025-10-29 12:21:34,996 - WARNING - 🚫 Skipping tab Calderdale due to invalid internal link: https://www.loclite.co.uk/book-appointment/. Check all the internal links.
+2025-10-29 12:21:34,996 - INFO - Reading Crewe & Nantwich tab content...
+2025-10-29 12:21:34,997 - WARNING - 🚫 Skipping tab Crewe & Nantwich due to invalid internal link: https://www.loclite.co.uk/book-appointment/. Check all the internal links.
+2025-10-29 12:21:34,998 - INFO - Reading Dover tab content...
+2025-10-29 12:21:35,886 - INFO - ✅ Page created successfully for Dover!
+2025-10-29 12:21:35,887 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-dover/
+2025-10-29 12:21:36,418 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 12:21:36,420 - INFO - 📊 =========================Summary for Document: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE================
+2025-10-29 12:21:36,420 - INFO - ✅ Processed new tabs: 67
+2025-10-29 12:21:36,420 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 12:21:36,421 - INFO - ⏩ Skipped already processed: 0
+2025-10-29 12:21:36,421 - INFO - ⚠️ Tabs with wrong city names: 1
+2025-10-29 12:21:36,421 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 12:21:36,421 - INFO - ⚠️ Tabs with wrong internal links: 2
+2025-10-29 12:21:36,422 - WARNING - ⚠️ 1 city names in the tabs of the document 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE mis-matched with the sheet cities.
+2025-10-29 12:21:36,422 - INFO - *************************************************************************************************************
+2025-10-29 12:21:36,422 - INFO - *************************************************************************************************************
+2025-10-29 14:40:01,092 - INFO - ✅ Logging initialized successfully.
+2025-10-29 14:40:08,271 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 3 tabs to process.
+2025-10-29 14:40:08,271 - INFO - ⏩ Skipping already processed tab: Aberdeen
+2025-10-29 14:40:08,272 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-10-29 14:40:08,272 - INFO - Reading Aldershot and Farnborough tab content...
+2025-10-29 14:40:10,025 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-10-29 14:40:10,026 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-aldershot-and-farnborough-2/
+2025-10-29 14:40:10,753 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 14:40:10,755 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-29 14:40:10,756 - INFO - 📄 This document has 3 tabs
+2025-10-29 14:40:10,756 - INFO - ✅ Processed new tabs: 1
+2025-10-29 14:40:10,756 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 14:40:10,756 - INFO - ⏩ Skipped already processed: 2
+2025-10-29 14:40:10,756 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 14:40:10,756 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 14:40:10,756 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-29 14:40:10,756 - INFO - ✅ All the 3 tabs with 0 subtabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-29 14:40:10,756 - INFO - *************************************************************************************************************
+2025-10-29 14:40:10,757 - INFO - *************************************************************************************************************
+2025-10-29 14:49:46,636 - INFO - ✅ Logging initialized successfully.
+2025-10-29 14:49:56,184 - INFO - 📄 Document ID: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE has 75 tabs to process.
+2025-10-29 14:49:56,185 - INFO - ⏩ Skipping already processed tab: Pembrokeshire
+2025-10-29 14:49:56,185 - INFO - ⏩ Skipping already processed tab: Perth & Kinross
+2025-10-29 14:49:56,185 - INFO - ⏩ Skipping already processed tab: Peterborough
+2025-10-29 14:49:56,185 - INFO - ⏩ Skipping already processed tab: Plymouth
+2025-10-29 14:49:56,186 - INFO - ⏩ Skipping already processed tab: Poole
+2025-10-29 14:49:56,186 - INFO - ⏩ Skipping already processed tab: Portsmouth
+2025-10-29 14:49:56,186 - INFO - ⏩ Skipping already processed tab: Powys
+2025-10-29 14:49:56,186 - INFO - ⏩ Skipping already processed tab: Preston
+2025-10-29 14:49:56,187 - INFO - ⏩ Skipping already processed tab: Redcar & Cleveland
+2025-10-29 14:49:56,187 - INFO - ⏩ Skipping already processed tab: Reigate & Banstead
+2025-10-29 14:49:56,187 - INFO - ⏩ Skipping already processed tab: Renfrewshire
+2025-10-29 14:49:56,187 - INFO - ⏩ Skipping already processed tab: Rochdale
+2025-10-29 14:49:56,187 - INFO - ⏩ Skipping already processed tab: Rotherham
+2025-10-29 14:49:56,190 - INFO - ⏩ Skipping already processed tab: Salford
+2025-10-29 14:49:56,190 - INFO - ⏩ Skipping already processed tab: Salisbury
+2025-10-29 14:49:56,191 - INFO - ⏩ Skipping already processed tab: Sandwell
+2025-10-29 14:49:56,191 - INFO - ⏩ Skipping already processed tab: Scarborough
+2025-10-29 14:49:56,192 - INFO - ⏩ Skipping already processed tab: Scottish Borders
+2025-10-29 14:49:56,192 - INFO - ⏩ Skipping already processed tab: Sefton
+2025-10-29 14:49:56,193 - INFO - ⏩ Skipping already processed tab: Sevenoaks
+2025-10-29 14:49:56,193 - INFO - ⏩ Skipping already processed tab: Sheffield
+2025-10-29 14:49:56,194 - INFO - ⏩ Skipping already processed tab: Slough
+2025-10-29 14:49:56,194 - INFO - ⏩ Skipping already processed tab: Solihull
+2025-10-29 14:49:56,195 - INFO - ⏩ Skipping already processed tab: Southampton
+2025-10-29 14:49:56,195 - INFO - ⏩ Skipping already processed tab: Southend-on-Sea
+2025-10-29 14:49:56,196 - INFO - ⏩ Skipping already processed tab: St Albans
+2025-10-29 14:49:56,196 - INFO - ⏩ Skipping already processed tab: St Helens
+2025-10-29 14:49:56,197 - INFO - ⏩ Skipping already processed tab: Stafford
+2025-10-29 14:49:56,197 - INFO - ⏩ Skipping already processed tab: Stockport
+2025-10-29 14:49:56,197 - INFO - ⏩ Skipping already processed tab: Stockton-on-Tees
+2025-10-29 14:49:56,198 - INFO - ⏩ Skipping already processed tab: Stratford-on-Avon
+2025-10-29 14:49:56,198 - INFO - ⏩ Skipping already processed tab: Stroud
+2025-10-29 14:49:56,198 - INFO - ⏩ Skipping already processed tab: Sunderland
+2025-10-29 14:49:56,198 - INFO - ⏩ Skipping already processed tab: Swale
+2025-10-29 14:49:56,199 - INFO - ⏩ Skipping already processed tab: Swansea
+2025-10-29 14:49:56,199 - INFO - ⏩ Skipping already processed tab: Swindon
+2025-10-29 14:49:56,199 - INFO - ⏩ Skipping already processed tab: Tameside
+2025-10-29 14:49:56,199 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-29 14:49:56,199 - INFO - ⏩ Skipping already processed tab: Teignbridge
+2025-10-29 14:49:56,200 - INFO - ⏩ Skipping already processed tab: Telford
+2025-10-29 14:49:56,200 - INFO - ⏩ Skipping already processed tab: Tendring
+2025-10-29 14:49:56,200 - INFO - ⏩ Skipping already processed tab: Test Valley
+2025-10-29 14:49:56,200 - INFO - Reading Thamesdown tab content...
+2025-10-29 14:49:58,109 - INFO - ✅ Page created successfully for Thamesdown!
+2025-10-29 14:49:58,109 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-thamesdown/
+2025-10-29 14:49:58,710 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 14:49:58,712 - INFO - ⏩ Skipping already processed tab: Thanet
+2025-10-29 14:49:58,712 - INFO - ⏩ Skipping already processed tab: The Wrekin
+2025-10-29 14:49:58,712 - INFO - ⏩ Skipping already processed tab: Thurrock
+2025-10-29 14:49:58,713 - INFO - ⏩ Skipping already processed tab: Torbay
+2025-10-29 14:49:58,713 - INFO - ⏩ Skipping already processed tab: Trafford
+2025-10-29 14:49:58,714 - INFO - ⏩ Skipping already processed tab: Vale of Glamorgan
+2025-10-29 14:49:58,714 - INFO - ⏩ Skipping already processed tab: Vale of White Horse
+2025-10-29 14:49:58,715 - INFO - ⏩ Skipping already processed tab: Vale Royal
+2025-10-29 14:49:58,716 - INFO - ⏩ Skipping already processed tab: Wakefield
+2025-10-29 14:49:58,716 - INFO - ⏩ Skipping already processed tab: Walsall
+2025-10-29 14:49:58,716 - INFO - ⏩ Skipping already processed tab: Warrington
+2025-10-29 14:49:58,718 - INFO - ⏩ Skipping already processed tab: Warwick
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Waverley
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Wealden
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Wigan
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Windsor & Maidenhead
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Wirral
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Wokingham
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Wolverhampton
+2025-10-29 14:49:58,719 - INFO - ⏩ Skipping already processed tab: Worthing
+2025-10-29 14:49:58,720 - INFO - ⏩ Skipping already processed tab: Wrexham Maelor
+2025-10-29 14:49:58,720 - INFO - ⏩ Skipping already processed tab: Wychavon
+2025-10-29 14:49:58,721 - INFO - ⏩ Skipping already processed tab: Wycombe
+2025-10-29 14:49:58,721 - INFO - ⏩ Skipping already processed tab: Breckland
+2025-10-29 14:49:58,721 - INFO - Reading Calderdale tab content...
+2025-10-29 14:49:58,723 - WARNING - 🚫 Skipping tab Calderdale due to invalid internal link: https://www.loclite.co.uk/about-us/. Check all the internal links.
+2025-10-29 14:49:58,723 - INFO - Reading Crewe & Nantwich tab content...
+2025-10-29 14:49:58,724 - WARNING - 🚫 Skipping tab Crewe & Nantwich due to invalid internal link: https://www.loclite.co.uk/blog/how-loclite-protects-customers-with-its-service-guarantee/. Check all the internal links.
+2025-10-29 14:49:58,724 - INFO - ⏩ Skipping already processed tab: Dover
+2025-10-29 14:49:58,725 - INFO - Reading Flintshire tab content...
+2025-10-29 14:49:59,469 - INFO - ✅ Page created successfully for Flintshire!
+2025-10-29 14:49:59,470 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-flintshire/
+2025-10-29 14:50:00,047 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 14:50:00,049 - INFO - Reading Halton tab content...
+2025-10-29 14:50:00,972 - INFO - ✅ Page created successfully for Halton!
+2025-10-29 14:50:00,973 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-halton/
+2025-10-29 14:50:01,802 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 14:50:01,805 - INFO - Reading Hastings tab content...
+2025-10-29 14:50:03,204 - INFO - ✅ Page created successfully for Hastings!
+2025-10-29 14:50:03,205 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-hastings/
+2025-10-29 14:50:04,113 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 14:50:04,114 - INFO - Reading Lisburn tab content...
+2025-10-29 14:50:05,647 - INFO - ✅ Page created successfully for Lisburn!
+2025-10-29 14:50:05,666 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-lisburn/
+2025-10-29 14:50:06,241 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 14:50:06,242 - INFO - Reading Newport tab content...
+2025-10-29 14:50:07,234 - INFO - ✅ Page created successfully for Newport!
+2025-10-29 14:50:07,235 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-newport/
+2025-10-29 14:50:07,790 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 14:50:07,792 - INFO - 📊 =========================Summary for Document: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE================
+2025-10-29 14:50:07,792 - INFO - 📄 This document has 75 tabs
+2025-10-29 14:50:07,792 - INFO - ✅ Processed new tabs: 6
+2025-10-29 14:50:07,793 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 14:50:07,793 - INFO - ⏩ Skipped already processed: 67
+2025-10-29 14:50:07,793 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 14:50:07,794 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 14:50:07,794 - INFO - ⚠️ Tabs with wrong internal links: 2
+2025-10-29 14:50:07,794 - WARNING - ⚠️ 2 tabs in the document 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE have wrong internal links in the content. Check all the internal links
+2025-10-29 14:50:07,794 - INFO - *************************************************************************************************************
+2025-10-29 14:50:07,794 - INFO - *************************************************************************************************************
+2025-10-29 15:02:05,031 - INFO - ✅ Logging initialized successfully.
+2025-10-29 15:02:15,930 - INFO - 📄 Document ID: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE has 75 tabs to process.
+2025-10-29 15:02:15,931 - INFO - ⏩ Skipping already processed tab: Pembrokeshire
+2025-10-29 15:02:15,931 - INFO - ⏩ Skipping already processed tab: Perth & Kinross
+2025-10-29 15:02:15,932 - INFO - ⏩ Skipping already processed tab: Peterborough
+2025-10-29 15:02:15,932 - INFO - ⏩ Skipping already processed tab: Plymouth
+2025-10-29 15:02:15,932 - INFO - ⏩ Skipping already processed tab: Poole
+2025-10-29 15:02:15,932 - INFO - ⏩ Skipping already processed tab: Portsmouth
+2025-10-29 15:02:15,933 - INFO - ⏩ Skipping already processed tab: Powys
+2025-10-29 15:02:15,933 - INFO - ⏩ Skipping already processed tab: Preston
+2025-10-29 15:02:15,933 - INFO - ⏩ Skipping already processed tab: Redcar & Cleveland
+2025-10-29 15:02:15,933 - INFO - ⏩ Skipping already processed tab: Reigate & Banstead
+2025-10-29 15:02:15,933 - INFO - ⏩ Skipping already processed tab: Renfrewshire
+2025-10-29 15:02:15,933 - INFO - ⏩ Skipping already processed tab: Rochdale
+2025-10-29 15:02:15,933 - INFO - ⏩ Skipping already processed tab: Rotherham
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Salford
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Salisbury
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Sandwell
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Scarborough
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Scottish Borders
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Sefton
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Sevenoaks
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Sheffield
+2025-10-29 15:02:15,934 - INFO - ⏩ Skipping already processed tab: Slough
+2025-10-29 15:02:15,944 - INFO - ⏩ Skipping already processed tab: Solihull
+2025-10-29 15:02:15,945 - INFO - ⏩ Skipping already processed tab: Southampton
+2025-10-29 15:02:15,945 - INFO - ⏩ Skipping already processed tab: Southend-on-Sea
+2025-10-29 15:02:15,945 - INFO - ⏩ Skipping already processed tab: St Albans
+2025-10-29 15:02:15,945 - INFO - ⏩ Skipping already processed tab: St Helens
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Stafford
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Stockport
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Stockton-on-Tees
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Stratford-on-Avon
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Stroud
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Sunderland
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Swale
+2025-10-29 15:02:15,946 - INFO - ⏩ Skipping already processed tab: Swansea
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Swindon
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Tameside
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Teignbridge
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Telford
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Tendring
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Test Valley
+2025-10-29 15:02:15,947 - INFO - ⏩ Skipping already processed tab: Thamesdown
+2025-10-29 15:02:15,948 - INFO - ⏩ Skipping already processed tab: Thanet
+2025-10-29 15:02:15,948 - INFO - ⏩ Skipping already processed tab: The Wrekin
+2025-10-29 15:02:15,948 - INFO - ⏩ Skipping already processed tab: Thurrock
+2025-10-29 15:02:15,948 - INFO - ⏩ Skipping already processed tab: Torbay
+2025-10-29 15:02:15,948 - INFO - ⏩ Skipping already processed tab: Trafford
+2025-10-29 15:02:15,948 - INFO - ⏩ Skipping already processed tab: Vale of Glamorgan
+2025-10-29 15:02:15,948 - INFO - ⏩ Skipping already processed tab: Vale of White Horse
+2025-10-29 15:02:15,949 - INFO - ⏩ Skipping already processed tab: Vale Royal
+2025-10-29 15:02:15,949 - INFO - ⏩ Skipping already processed tab: Wakefield
+2025-10-29 15:02:15,949 - INFO - ⏩ Skipping already processed tab: Walsall
+2025-10-29 15:02:15,949 - INFO - ⏩ Skipping already processed tab: Warrington
+2025-10-29 15:02:15,949 - INFO - ⏩ Skipping already processed tab: Warwick
+2025-10-29 15:02:15,949 - INFO - ⏩ Skipping already processed tab: Waverley
+2025-10-29 15:02:15,949 - INFO - ⏩ Skipping already processed tab: Wealden
+2025-10-29 15:02:15,950 - INFO - ⏩ Skipping already processed tab: Wigan
+2025-10-29 15:02:15,950 - INFO - ⏩ Skipping already processed tab: Windsor & Maidenhead
+2025-10-29 15:02:15,950 - INFO - ⏩ Skipping already processed tab: Wirral
+2025-10-29 15:02:15,950 - INFO - ⏩ Skipping already processed tab: Wokingham
+2025-10-29 15:02:15,950 - INFO - ⏩ Skipping already processed tab: Wolverhampton
+2025-10-29 15:02:15,959 - INFO - ⏩ Skipping already processed tab: Worthing
+2025-10-29 15:02:15,960 - INFO - ⏩ Skipping already processed tab: Wrexham Maelor
+2025-10-29 15:02:15,960 - INFO - ⏩ Skipping already processed tab: Wychavon
+2025-10-29 15:02:15,961 - INFO - ⏩ Skipping already processed tab: Wycombe
+2025-10-29 15:02:15,961 - INFO - ⏩ Skipping already processed tab: Breckland
+2025-10-29 15:02:15,961 - INFO - Reading Calderdale tab content...
+2025-10-29 15:02:15,964 - WARNING - 🚫 Skipping tab Calderdale due to invalid internal link: https://www.loclite.co.uk/about-us/. Check all the internal links.
+2025-10-29 15:02:15,964 - INFO - Reading Crewe & Nantwich tab content...
+2025-10-29 15:02:15,976 - WARNING - 🚫 Skipping tab Crewe & Nantwich due to invalid internal link: https://www.loclite.co.uk/blog/how-loclite-protects-customers-with-its-service-guarantee/. Check all the internal links.
+2025-10-29 15:02:15,977 - INFO - ⏩ Skipping already processed tab: Dover
+2025-10-29 15:02:15,977 - INFO - ⏩ Skipping already processed tab: Flintshire
+2025-10-29 15:02:15,977 - INFO - ⏩ Skipping already processed tab: Halton
+2025-10-29 15:02:15,977 - INFO - ⏩ Skipping already processed tab: Hastings
+2025-10-29 15:02:15,977 - INFO - ⏩ Skipping already processed tab: Lisburn
+2025-10-29 15:02:15,977 - INFO - ⏩ Skipping already processed tab: Newport
+2025-10-29 15:02:15,977 - INFO - 📊 =========================Summary for Document: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE================
+2025-10-29 15:02:15,978 - INFO - 📄 This document has 75 tabs
+2025-10-29 15:02:15,978 - INFO - ✅ Processed new tabs: 0
+2025-10-29 15:02:15,978 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 15:02:15,978 - INFO - ⏩ Skipped already processed: 73
+2025-10-29 15:02:15,978 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 15:02:15,978 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 15:02:15,978 - INFO - ⚠️ Tabs with wrong internal links: 2
+2025-10-29 15:02:15,978 - WARNING - ⚠️ 2 tabs in the document 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE have wrong internal links in the content. Check all the internal links
+2025-10-29 15:02:15,978 - INFO - *************************************************************************************************************
+2025-10-29 15:02:15,978 - INFO - *************************************************************************************************************
+2025-10-29 15:03:54,116 - INFO - ✅ Logging initialized successfully.
+2025-10-29 15:04:03,627 - INFO - 📄 Document ID: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE has 75 tabs to process.
+2025-10-29 15:04:03,628 - INFO - ⏩ Skipping already processed tab: Pembrokeshire
+2025-10-29 15:04:03,629 - INFO - ⏩ Skipping already processed tab: Perth & Kinross
+2025-10-29 15:04:03,629 - INFO - ⏩ Skipping already processed tab: Peterborough
+2025-10-29 15:04:03,629 - INFO - ⏩ Skipping already processed tab: Plymouth
+2025-10-29 15:04:03,630 - INFO - ⏩ Skipping already processed tab: Poole
+2025-10-29 15:04:03,630 - INFO - ⏩ Skipping already processed tab: Portsmouth
+2025-10-29 15:04:03,630 - INFO - ⏩ Skipping already processed tab: Powys
+2025-10-29 15:04:03,630 - INFO - ⏩ Skipping already processed tab: Preston
+2025-10-29 15:04:03,630 - INFO - ⏩ Skipping already processed tab: Redcar & Cleveland
+2025-10-29 15:04:03,630 - INFO - ⏩ Skipping already processed tab: Reigate & Banstead
+2025-10-29 15:04:03,630 - INFO - ⏩ Skipping already processed tab: Renfrewshire
+2025-10-29 15:04:03,631 - INFO - ⏩ Skipping already processed tab: Rochdale
+2025-10-29 15:04:03,631 - INFO - ⏩ Skipping already processed tab: Rotherham
+2025-10-29 15:04:03,631 - INFO - ⏩ Skipping already processed tab: Salford
+2025-10-29 15:04:03,631 - INFO - ⏩ Skipping already processed tab: Salisbury
+2025-10-29 15:04:03,631 - INFO - ⏩ Skipping already processed tab: Sandwell
+2025-10-29 15:04:03,631 - INFO - ⏩ Skipping already processed tab: Scarborough
+2025-10-29 15:04:03,631 - INFO - ⏩ Skipping already processed tab: Scottish Borders
+2025-10-29 15:04:03,632 - INFO - ⏩ Skipping already processed tab: Sefton
+2025-10-29 15:04:03,632 - INFO - ⏩ Skipping already processed tab: Sevenoaks
+2025-10-29 15:04:03,633 - INFO - ⏩ Skipping already processed tab: Sheffield
+2025-10-29 15:04:03,633 - INFO - ⏩ Skipping already processed tab: Slough
+2025-10-29 15:04:03,634 - INFO - ⏩ Skipping already processed tab: Solihull
+2025-10-29 15:04:03,634 - INFO - ⏩ Skipping already processed tab: Southampton
+2025-10-29 15:04:03,636 - INFO - ⏩ Skipping already processed tab: Southend-on-Sea
+2025-10-29 15:04:03,636 - INFO - ⏩ Skipping already processed tab: St Albans
+2025-10-29 15:04:03,637 - INFO - ⏩ Skipping already processed tab: St Helens
+2025-10-29 15:04:03,637 - INFO - ⏩ Skipping already processed tab: Stafford
+2025-10-29 15:04:03,637 - INFO - ⏩ Skipping already processed tab: Stockport
+2025-10-29 15:04:03,637 - INFO - ⏩ Skipping already processed tab: Stockton-on-Tees
+2025-10-29 15:04:03,637 - INFO - ⏩ Skipping already processed tab: Stratford-on-Avon
+2025-10-29 15:04:03,637 - INFO - ⏩ Skipping already processed tab: Stroud
+2025-10-29 15:04:03,638 - INFO - ⏩ Skipping already processed tab: Sunderland
+2025-10-29 15:04:03,638 - INFO - ⏩ Skipping already processed tab: Swale
+2025-10-29 15:04:03,638 - INFO - ⏩ Skipping already processed tab: Swansea
+2025-10-29 15:04:03,638 - INFO - ⏩ Skipping already processed tab: Swindon
+2025-10-29 15:04:03,638 - INFO - ⏩ Skipping already processed tab: Tameside
+2025-10-29 15:04:03,639 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-29 15:04:03,639 - INFO - ⏩ Skipping already processed tab: Teignbridge
+2025-10-29 15:04:03,639 - INFO - ⏩ Skipping already processed tab: Telford
+2025-10-29 15:04:03,639 - INFO - ⏩ Skipping already processed tab: Tendring
+2025-10-29 15:04:03,639 - INFO - ⏩ Skipping already processed tab: Test Valley
+2025-10-29 15:04:03,639 - INFO - ⏩ Skipping already processed tab: Thamesdown
+2025-10-29 15:04:03,639 - INFO - ⏩ Skipping already processed tab: Thanet
+2025-10-29 15:04:03,640 - INFO - ⏩ Skipping already processed tab: The Wrekin
+2025-10-29 15:04:03,640 - INFO - ⏩ Skipping already processed tab: Thurrock
+2025-10-29 15:04:03,640 - INFO - ⏩ Skipping already processed tab: Torbay
+2025-10-29 15:04:03,640 - INFO - ⏩ Skipping already processed tab: Trafford
+2025-10-29 15:04:03,640 - INFO - ⏩ Skipping already processed tab: Vale of Glamorgan
+2025-10-29 15:04:03,640 - INFO - ⏩ Skipping already processed tab: Vale of White Horse
+2025-10-29 15:04:03,640 - INFO - ⏩ Skipping already processed tab: Vale Royal
+2025-10-29 15:04:03,641 - INFO - ⏩ Skipping already processed tab: Wakefield
+2025-10-29 15:04:03,641 - INFO - ⏩ Skipping already processed tab: Walsall
+2025-10-29 15:04:03,641 - INFO - ⏩ Skipping already processed tab: Warrington
+2025-10-29 15:04:03,641 - INFO - ⏩ Skipping already processed tab: Warwick
+2025-10-29 15:04:03,642 - INFO - ⏩ Skipping already processed tab: Waverley
+2025-10-29 15:04:03,642 - INFO - ⏩ Skipping already processed tab: Wealden
+2025-10-29 15:04:03,642 - INFO - ⏩ Skipping already processed tab: Wigan
+2025-10-29 15:04:03,642 - INFO - ⏩ Skipping already processed tab: Windsor & Maidenhead
+2025-10-29 15:04:03,642 - INFO - ⏩ Skipping already processed tab: Wirral
+2025-10-29 15:04:03,642 - INFO - ⏩ Skipping already processed tab: Wokingham
+2025-10-29 15:04:03,642 - INFO - ⏩ Skipping already processed tab: Wolverhampton
+2025-10-29 15:04:03,643 - INFO - ⏩ Skipping already processed tab: Worthing
+2025-10-29 15:04:03,643 - INFO - ⏩ Skipping already processed tab: Wrexham Maelor
+2025-10-29 15:04:03,643 - INFO - ⏩ Skipping already processed tab: Wychavon
+2025-10-29 15:04:03,643 - INFO - ⏩ Skipping already processed tab: Wycombe
+2025-10-29 15:04:03,643 - INFO - ⏩ Skipping already processed tab: Breckland
+2025-10-29 15:04:03,643 - INFO - Reading Calderdale tab content...
+2025-10-29 15:04:03,649 - WARNING - 🚫 Skipping tab Calderdale due to invalid internal link: https://www.loclite.co.uk/about-us/. Check all the internal links.
+2025-10-29 15:04:03,650 - INFO - Reading Crewe & Nantwich tab content...
+2025-10-29 15:04:03,652 - WARNING - 🚫 Skipping tab Crewe & Nantwich due to invalid internal link: https://www.loclite.co.uk/blog/how-loclite-protects-customers-with-its-service-guarantee/. Check all the internal links.
+2025-10-29 15:04:03,653 - INFO - ⏩ Skipping already processed tab: Dover
+2025-10-29 15:04:03,653 - INFO - ⏩ Skipping already processed tab: Flintshire
+2025-10-29 15:04:03,653 - INFO - ⏩ Skipping already processed tab: Halton
+2025-10-29 15:04:03,653 - INFO - ⏩ Skipping already processed tab: Hastings
+2025-10-29 15:04:03,653 - INFO - ⏩ Skipping already processed tab: Lisburn
+2025-10-29 15:04:03,653 - INFO - ⏩ Skipping already processed tab: Newport
+2025-10-29 15:04:03,653 - INFO - 📊 =========================Summary for Document: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE================
+2025-10-29 15:04:03,654 - INFO - 📄 This document has 75 tabs
+2025-10-29 15:04:03,654 - INFO - ✅ Processed new tabs: 0
+2025-10-29 15:04:03,654 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 15:04:03,654 - INFO - ⏩ Skipped already processed: 73
+2025-10-29 15:04:03,654 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 15:04:03,654 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 15:04:03,654 - INFO - ⚠️ Tabs with wrong internal links: 2
+2025-10-29 15:04:03,654 - WARNING - ⚠️ 2 tabs in the document 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE have wrong internal links in the content. Check all the internal links
+2025-10-29 15:04:03,654 - INFO - *************************************************************************************************************
+2025-10-29 15:04:03,654 - INFO - *************************************************************************************************************
+2025-10-29 15:07:27,127 - INFO - ✅ Logging initialized successfully.
+2025-10-29 15:07:36,695 - INFO - 📄 Document ID: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE has 75 tabs to process.
+2025-10-29 15:07:36,696 - INFO - ⏩ Skipping already processed tab: Pembrokeshire
+2025-10-29 15:07:36,696 - INFO - ⏩ Skipping already processed tab: Perth & Kinross
+2025-10-29 15:07:36,696 - INFO - ⏩ Skipping already processed tab: Peterborough
+2025-10-29 15:07:36,696 - INFO - ⏩ Skipping already processed tab: Plymouth
+2025-10-29 15:07:36,696 - INFO - ⏩ Skipping already processed tab: Poole
+2025-10-29 15:07:36,697 - INFO - ⏩ Skipping already processed tab: Portsmouth
+2025-10-29 15:07:36,697 - INFO - ⏩ Skipping already processed tab: Powys
+2025-10-29 15:07:36,697 - INFO - ⏩ Skipping already processed tab: Preston
+2025-10-29 15:07:36,697 - INFO - ⏩ Skipping already processed tab: Redcar & Cleveland
+2025-10-29 15:07:36,697 - INFO - ⏩ Skipping already processed tab: Reigate & Banstead
+2025-10-29 15:07:36,697 - INFO - ⏩ Skipping already processed tab: Renfrewshire
+2025-10-29 15:07:36,698 - INFO - ⏩ Skipping already processed tab: Rochdale
+2025-10-29 15:07:36,698 - INFO - ⏩ Skipping already processed tab: Rotherham
+2025-10-29 15:07:36,698 - INFO - ⏩ Skipping already processed tab: Salford
+2025-10-29 15:07:36,698 - INFO - ⏩ Skipping already processed tab: Salisbury
+2025-10-29 15:07:36,698 - INFO - ⏩ Skipping already processed tab: Sandwell
+2025-10-29 15:07:36,698 - INFO - ⏩ Skipping already processed tab: Scarborough
+2025-10-29 15:07:36,698 - INFO - ⏩ Skipping already processed tab: Scottish Borders
+2025-10-29 15:07:36,699 - INFO - ⏩ Skipping already processed tab: Sefton
+2025-10-29 15:07:36,700 - INFO - ⏩ Skipping already processed tab: Sevenoaks
+2025-10-29 15:07:36,700 - INFO - ⏩ Skipping already processed tab: Sheffield
+2025-10-29 15:07:36,700 - INFO - ⏩ Skipping already processed tab: Slough
+2025-10-29 15:07:36,700 - INFO - ⏩ Skipping already processed tab: Solihull
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: Southampton
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: Southend-on-Sea
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: St Albans
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: St Helens
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: Stafford
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: Stockport
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: Stockton-on-Tees
+2025-10-29 15:07:36,701 - INFO - ⏩ Skipping already processed tab: Stratford-on-Avon
+2025-10-29 15:07:36,702 - INFO - ⏩ Skipping already processed tab: Stroud
+2025-10-29 15:07:36,702 - INFO - ⏩ Skipping already processed tab: Sunderland
+2025-10-29 15:07:36,702 - INFO - ⏩ Skipping already processed tab: Swale
+2025-10-29 15:07:36,702 - INFO - ⏩ Skipping already processed tab: Swansea
+2025-10-29 15:07:36,702 - INFO - ⏩ Skipping already processed tab: Swindon
+2025-10-29 15:07:36,703 - INFO - ⏩ Skipping already processed tab: Tameside
+2025-10-29 15:07:36,703 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-29 15:07:36,703 - INFO - ⏩ Skipping already processed tab: Teignbridge
+2025-10-29 15:07:36,704 - INFO - ⏩ Skipping already processed tab: Telford
+2025-10-29 15:07:36,704 - INFO - ⏩ Skipping already processed tab: Tendring
+2025-10-29 15:07:36,704 - INFO - ⏩ Skipping already processed tab: Test Valley
+2025-10-29 15:07:36,705 - INFO - ⏩ Skipping already processed tab: Thamesdown
+2025-10-29 15:07:36,705 - INFO - ⏩ Skipping already processed tab: Thanet
+2025-10-29 15:07:36,705 - INFO - ⏩ Skipping already processed tab: The Wrekin
+2025-10-29 15:07:36,706 - INFO - ⏩ Skipping already processed tab: Thurrock
+2025-10-29 15:07:36,706 - INFO - ⏩ Skipping already processed tab: Torbay
+2025-10-29 15:07:36,706 - INFO - ⏩ Skipping already processed tab: Trafford
+2025-10-29 15:07:36,706 - INFO - ⏩ Skipping already processed tab: Vale of Glamorgan
+2025-10-29 15:07:36,708 - INFO - ⏩ Skipping already processed tab: Vale of White Horse
+2025-10-29 15:07:36,708 - INFO - ⏩ Skipping already processed tab: Vale Royal
+2025-10-29 15:07:36,708 - INFO - ⏩ Skipping already processed tab: Wakefield
+2025-10-29 15:07:36,708 - INFO - ⏩ Skipping already processed tab: Walsall
+2025-10-29 15:07:36,709 - INFO - ⏩ Skipping already processed tab: Warrington
+2025-10-29 15:07:36,709 - INFO - ⏩ Skipping already processed tab: Warwick
+2025-10-29 15:07:36,709 - INFO - ⏩ Skipping already processed tab: Waverley
+2025-10-29 15:07:36,709 - INFO - ⏩ Skipping already processed tab: Wealden
+2025-10-29 15:07:36,710 - INFO - ⏩ Skipping already processed tab: Wigan
+2025-10-29 15:07:36,710 - INFO - ⏩ Skipping already processed tab: Windsor & Maidenhead
+2025-10-29 15:07:36,711 - INFO - ⏩ Skipping already processed tab: Wirral
+2025-10-29 15:07:36,711 - INFO - ⏩ Skipping already processed tab: Wokingham
+2025-10-29 15:07:36,711 - INFO - ⏩ Skipping already processed tab: Wolverhampton
+2025-10-29 15:07:36,711 - INFO - ⏩ Skipping already processed tab: Worthing
+2025-10-29 15:07:36,711 - INFO - ⏩ Skipping already processed tab: Wrexham Maelor
+2025-10-29 15:07:36,711 - INFO - ⏩ Skipping already processed tab: Wychavon
+2025-10-29 15:07:36,712 - INFO - ⏩ Skipping already processed tab: Wycombe
+2025-10-29 15:07:36,712 - INFO - ⏩ Skipping already processed tab: Breckland
+2025-10-29 15:07:36,712 - INFO - Reading Calderdale tab content...
+2025-10-29 15:07:36,715 - WARNING - 🚫 Skipping tab Calderdale due to invalid internal link: https://www.loclite.co.uk/about-us/. Check all the internal links.
+2025-10-29 15:07:36,715 - INFO - Reading Crewe & Nantwich tab content...
+2025-10-29 15:07:36,716 - WARNING - 🚫 Skipping tab Crewe & Nantwich due to invalid internal link: https://www.loclite.co.uk/blog/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-10-29 15:07:36,717 - INFO - ⏩ Skipping already processed tab: Dover
+2025-10-29 15:07:36,717 - INFO - ⏩ Skipping already processed tab: Flintshire
+2025-10-29 15:07:36,717 - INFO - ⏩ Skipping already processed tab: Halton
+2025-10-29 15:07:36,717 - INFO - ⏩ Skipping already processed tab: Hastings
+2025-10-29 15:07:36,717 - INFO - ⏩ Skipping already processed tab: Lisburn
+2025-10-29 15:07:36,717 - INFO - ⏩ Skipping already processed tab: Newport
+2025-10-29 15:07:36,717 - INFO - 📊 =========================Summary for Document: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE================
+2025-10-29 15:07:36,717 - INFO - 📄 This document has 75 tabs
+2025-10-29 15:07:36,717 - INFO - ✅ Processed new tabs: 0
+2025-10-29 15:07:36,717 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 15:07:36,717 - INFO - ⏩ Skipped already processed: 73
+2025-10-29 15:07:36,718 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 15:07:36,718 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 15:07:36,718 - INFO - ⚠️ Tabs with wrong internal links: 2
+2025-10-29 15:07:36,718 - WARNING - ⚠️ 2 tabs in the document 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE have wrong internal links in the content. Check all the internal links
+2025-10-29 15:07:36,718 - INFO - *************************************************************************************************************
+2025-10-29 15:07:36,718 - INFO - *************************************************************************************************************
+2025-10-29 15:11:59,934 - INFO - ✅ Logging initialized successfully.
+2025-10-29 15:12:10,361 - INFO - 📄 Document ID: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE has 75 tabs to process.
+2025-10-29 15:12:10,361 - INFO - ⏩ Skipping already processed tab: Pembrokeshire
+2025-10-29 15:12:10,362 - INFO - ⏩ Skipping already processed tab: Perth & Kinross
+2025-10-29 15:12:10,362 - INFO - ⏩ Skipping already processed tab: Peterborough
+2025-10-29 15:12:10,362 - INFO - ⏩ Skipping already processed tab: Plymouth
+2025-10-29 15:12:10,362 - INFO - ⏩ Skipping already processed tab: Poole
+2025-10-29 15:12:10,362 - INFO - ⏩ Skipping already processed tab: Portsmouth
+2025-10-29 15:12:10,363 - INFO - ⏩ Skipping already processed tab: Powys
+2025-10-29 15:12:10,363 - INFO - ⏩ Skipping already processed tab: Preston
+2025-10-29 15:12:10,363 - INFO - ⏩ Skipping already processed tab: Redcar & Cleveland
+2025-10-29 15:12:10,363 - INFO - ⏩ Skipping already processed tab: Reigate & Banstead
+2025-10-29 15:12:10,363 - INFO - ⏩ Skipping already processed tab: Renfrewshire
+2025-10-29 15:12:10,364 - INFO - ⏩ Skipping already processed tab: Rochdale
+2025-10-29 15:12:10,364 - INFO - ⏩ Skipping already processed tab: Rotherham
+2025-10-29 15:12:10,364 - INFO - ⏩ Skipping already processed tab: Salford
+2025-10-29 15:12:10,364 - INFO - ⏩ Skipping already processed tab: Salisbury
+2025-10-29 15:12:10,364 - INFO - ⏩ Skipping already processed tab: Sandwell
+2025-10-29 15:12:10,364 - INFO - ⏩ Skipping already processed tab: Scarborough
+2025-10-29 15:12:10,364 - INFO - ⏩ Skipping already processed tab: Scottish Borders
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: Sefton
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: Sevenoaks
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: Sheffield
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: Slough
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: Solihull
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: Southampton
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: Southend-on-Sea
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: St Albans
+2025-10-29 15:12:10,365 - INFO - ⏩ Skipping already processed tab: St Helens
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Stafford
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Stockport
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Stockton-on-Tees
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Stratford-on-Avon
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Stroud
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Sunderland
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Swale
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Swansea
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Swindon
+2025-10-29 15:12:10,366 - INFO - ⏩ Skipping already processed tab: Tameside
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Teesside
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Teignbridge
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Telford
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Tendring
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Test Valley
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Thamesdown
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Thanet
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: The Wrekin
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Thurrock
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Torbay
+2025-10-29 15:12:10,367 - INFO - ⏩ Skipping already processed tab: Trafford
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Vale of Glamorgan
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Vale of White Horse
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Vale Royal
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Wakefield
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Walsall
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Warrington
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Warwick
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Waverley
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Wealden
+2025-10-29 15:12:10,368 - INFO - ⏩ Skipping already processed tab: Wigan
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Windsor & Maidenhead
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Wirral
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Wokingham
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Wolverhampton
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Worthing
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Wrexham Maelor
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Wychavon
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Wycombe
+2025-10-29 15:12:10,369 - INFO - ⏩ Skipping already processed tab: Breckland
+2025-10-29 15:12:10,369 - INFO - Reading Crewe & Nantwich tab content...
+2025-10-29 15:12:12,111 - INFO - ✅ Page created successfully for Crewe & Nantwich!
+2025-10-29 15:12:12,112 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-crewe-nantwich/
+2025-10-29 15:12:12,840 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 15:12:12,842 - INFO - Reading Calderdale tab content...
+2025-10-29 15:12:12,855 - WARNING - 🚫 Skipping tab Calderdale due to invalid internal link: https://www.loclite.co.uk/about-us/. Check all the internal links.
+2025-10-29 15:12:12,856 - INFO - ⏩ Skipping already processed tab: Dover
+2025-10-29 15:12:12,857 - INFO - ⏩ Skipping already processed tab: Flintshire
+2025-10-29 15:12:12,857 - INFO - ⏩ Skipping already processed tab: Halton
+2025-10-29 15:12:12,857 - INFO - ⏩ Skipping already processed tab: Hastings
+2025-10-29 15:12:12,857 - INFO - ⏩ Skipping already processed tab: Lisburn
+2025-10-29 15:12:12,857 - INFO - ⏩ Skipping already processed tab: Newport
+2025-10-29 15:12:12,857 - INFO - 📊 =========================Summary for Document: 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE================
+2025-10-29 15:12:12,858 - INFO - 📄 This document has 75 tabs
+2025-10-29 15:12:12,858 - INFO - ✅ Processed new tabs: 1
+2025-10-29 15:12:12,858 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 15:12:12,858 - INFO - ⏩ Skipped already processed: 73
+2025-10-29 15:12:12,858 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 15:12:12,858 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 15:12:12,858 - INFO - ⚠️ Tabs with wrong internal links: 1
+2025-10-29 15:12:12,858 - WARNING - ⚠️ 1 tabs in the document 1ygeYKTuLX0P4lHbcEYZbcINFKeIa-7HNM82LHYb-rNE have wrong internal links in the content. Check all the internal links
+2025-10-29 15:12:12,859 - INFO - *************************************************************************************************************
+2025-10-29 15:12:12,859 - INFO - *************************************************************************************************************
+2025-10-29 15:58:56,835 - INFO - ✅ Logging initialized successfully.
+2025-10-29 15:59:02,501 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 3 tabs to process.
+2025-10-29 15:59:02,501 - INFO - Reading Aberdeen tab content...
+2025-10-29 15:59:04,876 - INFO - ✅ Page created successfully for Aberdeen!
+2025-10-29 15:59:04,877 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-aberdeen-2/
+2025-10-29 15:59:05,546 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 15:59:05,548 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-10-29 15:59:05,549 - INFO - ⏩ Skipping already processed tab: Aldershot and Farnborough
+2025-10-29 15:59:05,549 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-29 15:59:05,550 - INFO - 📄 This document has 3 tabs
+2025-10-29 15:59:05,550 - INFO - ✅ Processed new tabs: 1
+2025-10-29 15:59:05,550 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 15:59:05,550 - INFO - ⏩ Skipped already processed: 2
+2025-10-29 15:59:05,551 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 15:59:05,551 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 15:59:05,551 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-29 15:59:05,551 - INFO - ✅ All the 3 tabs with 0 subtabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-29 15:59:05,551 - INFO - *************************************************************************************************************
+2025-10-29 15:59:05,551 - INFO - *************************************************************************************************************
+2025-10-29 16:06:04,344 - INFO - ✅ Logging initialized successfully.
+2025-10-29 16:06:08,864 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 3 tabs to process.
+2025-10-29 16:06:08,865 - INFO - ⏩ Skipping already processed tab: Aberdeen
+2025-10-29 16:06:08,866 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-10-29 16:06:08,866 - INFO - Reading Aldershot and Farnborough tab content...
+2025-10-29 16:06:10,473 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-10-29 16:06:10,473 - INFO - Page URL: https://www.loclite.co.uk/top-rated-plumbers-in-aldershot-and-farnborough-2/
+2025-10-29 16:06:11,204 - INFO - ✅ Link updated in the sheet successfully!
+2025-10-29 16:06:11,206 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-10-29 16:06:11,206 - INFO - 📄 This document has 3 tabs
+2025-10-29 16:06:11,207 - INFO - ✅ Processed new tabs: 1
+2025-10-29 16:06:11,207 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-10-29 16:06:11,207 - INFO - ⏩ Skipped already processed: 2
+2025-10-29 16:06:11,208 - INFO - ⚠️ Tabs with wrong city names: 0
+2025-10-29 16:06:11,208 - INFO - ⚠️ Empty tabs skipped: 0
+2025-10-29 16:06:11,208 - INFO - ⚠️ Tabs with wrong internal links: 0
+2025-10-29 16:06:11,208 - INFO - ✅ All the 3 tabs with 0 subtabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-10-29 16:06:11,208 - INFO - *************************************************************************************************************
+2025-10-29 16:06:11,208 - INFO - *************************************************************************************************************
