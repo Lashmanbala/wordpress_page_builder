@@ -30,7 +30,6 @@ def remove_emojis_and_symbols(text):
         "]+",
         flags=re.UNICODE
     )
-
     # Pattern to remove special logo-like symbols (™️, ©, ®, ℠)
     logo_symbols_pattern = re.compile(r"[™©®℠]+", flags=re.UNICODE)
 
@@ -40,7 +39,25 @@ def remove_emojis_and_symbols(text):
 
     return text.strip()
 
- 
+
+def fix_url(url):
+    # Remove all extra https:// and www.
+    url = re.sub(r"(https://)+", "https://", url)
+    url = re.sub(r"(www\.)+", "www.", url)
+
+    # Ensure it starts correctly
+    if not url.startswith("https://www."):
+        # Remove stray prefixes if present
+        url = re.sub(r"^(https://)?(www\.)?", "", url)
+        url = "https://www." + url
+
+    # Ensure it ends with /
+    if not url.endswith("/"):
+        url += "/"
+
+    return url
+
+
 def text_to_html(paragraph, valid_urls):
     text_parts = []
     for element in paragraph.get("elements", []):
@@ -55,6 +72,7 @@ def text_to_html(paragraph, valid_urls):
             # Handle hyperlinks
             if "link" in style and style["link"].get("url"):
                 url = style["link"]["url"]
+                url = fix_url(url)
 
                 if url not in valid_urls:      # stops processing the tab bcz of invalid url
                     raise ValueError(f'{url}')
