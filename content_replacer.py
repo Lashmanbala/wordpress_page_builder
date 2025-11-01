@@ -5,9 +5,8 @@ import os
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
-import gspread
 
-load_dotenv()  # loads .env into environment
+# load_dotenv()  # loads .env into environment
 
 wp_username = os.getenv("WP_USERNAME")
 wp_app_pasword = os.getenv("WP_APP_PASSWORD")
@@ -24,14 +23,18 @@ sheet_name = 'Sheet1'
 sheet_service = build("sheets", "v4", credentials=creds)
 sheet = sheet_service.spreadsheets().values().get(
                         spreadsheetId=spreadsheetId,
-                        range=f"{sheet_name}!A1:B"  # Column A
+                        range=f"{sheet_name}!A1:B"  # Column A to B
                     ).execute()
 
 cities = sheet.get("values", [])   # it gives list of lists
 
-flat_cities_list = [cell for row in cities for cell in row]
-print(cities)
+l = 'Mumbai'
 
+link = None
+for city, url in cities:
+    if l == city:
+        link = url
+        print(f'{city} found and its link is {link}')
 
 
 # sheet_service.spreadsheets().values().update(
