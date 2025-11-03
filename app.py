@@ -20,6 +20,7 @@ social_image = os.getenv("SOCIAL_IMAGE_URL")
 doc_id = os.getenv("DOC_ID")
 spreadsheetId = os.getenv("SPREADSHEET_ID")
 sheet_name = os.getenv("SHEET_NAME")  
+url_column = os.getenv("URL_COLUMN")  
 valid_urls = os.getenv("VALID_URLS").split(", ")   # returns a list
 
 google_credentisals_file = "doc-reader.json"
@@ -52,8 +53,8 @@ sheet = sheet_service.spreadsheets().values().get(
 
 cities = sheet.get("values", [])   # it gives list of lists
 
-flat_cities_list = [cell for row in cities for cell in row]
-# print(flat_cities_list)
+flattened_cities_list = [cell for row in cities for cell in row]
+# print(flattened_cities_list)
 
 PROGRESS_FILE = "progress.json"
 
@@ -83,10 +84,10 @@ logger.info(f"📄 Document ID: {doc_id} has {total_tab_count} tabs to process."
 # Loop through all tabs
 for tab in tabs:
     
-    html_content_dict = process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_id, logger, counter)
+    html_content_dict = process_tab_and_child_tabs(tab, progress, flattened_cities_list, valid_urls, doc_id, logger, counter)
     
     for city_name, html_content in html_content_dict.items():
-            
+
         page_title_format = os.getenv("page_title_format")
         key_phrase_format = os.getenv("key_phrase_format")
         description_format = os.getenv("description_format")
@@ -108,7 +109,7 @@ for tab in tabs:
             logger.info(f"✅ Page created successfully for {city_name}!")
             logger.info(f"Page URL: {page_url}")
 
-            write_res = write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, page_url, city_name, cities)
+            write_res = write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, url_column, page_url, city_name, flattened_cities_list)
             logger.info(write_res)
 
             # Update progress
@@ -128,9 +129,12 @@ logger.info(f"📄 This document has {total_tab_count} tabs")
 logger.info(f"✅ Processed new tabs: {counter['processed_count']}")
 logger.info(f"📄 Subtabs processed (not counted as new): {counter['subtab_count']}")
 logger.info(f"⏩ Skipped already processed: {counter['skipped_count']}")
-logger.info(f"⚠️ Tabs with wrong city names: {counter['wrong_city_name_count']}")
-logger.info(f"⚠️ Empty tabs skipped: {counter['empty_tab_count']}")
-logger.info(f"⚠️ Tabs with wrong internal links: {counter['wrong_internal_link_content_count']}")
+if counter['wrong_city_name_count'] > 0:
+    logger.info(f"⚠️ Tabs with wrong city names: {counter['wrong_city_name_count']}")
+if counter['empty_tab_count'] > 0:
+    logger.info(f"⚠️ Empty tabs skipped: {counter['empty_tab_count']}")
+if counter['wrong_internal_link_content_count'] > 0:
+    logger.info(f"⚠️ Tabs with wrong internal links: {counter['wrong_internal_link_content_count']}")
 
 
 if (counter['processed_count'] - counter['subtab_count'] == total_tab_count and counter['wrong_city_name_count'] == 0 and counter['wrong_internal_link_content_count'] == 0) or (counter['processed_count'] + counter['skipped_count'] == total_tab_count and counter['wrong_city_name_count'] == 0 and counter['wrong_internal_link_content_count'] == 0 and counter['processed_count'] > 0 and counter['empty_tab_count'] == 0):
