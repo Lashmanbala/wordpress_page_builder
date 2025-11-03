@@ -109,8 +109,7 @@ for tab in tabs:
             logger.info(f"✅ Page created successfully for {city_name}!")
             logger.info(f"Page URL: {page_url}")
 
-            write_res = write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, url_column, page_url, city_name, flattened_cities_list)
-            logger.info(write_res)
+            write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, url_column, page_url, city_name, flattened_cities_list, logger)
 
             # Update progress
             progress[doc_id].append(city_name)
@@ -130,11 +129,11 @@ logger.info(f"✅ Processed new tabs: {counter['processed_count']}")
 logger.info(f"📄 Subtabs processed (not counted as new): {counter['subtab_count']}")
 logger.info(f"⏩ Skipped already processed: {counter['skipped_count']}")
 if counter['wrong_city_name_count'] > 0:
-    logger.info(f"⚠️ Tabs with wrong city names: {counter['wrong_city_name_count']}")
+    logger.warning(f"⚠️ Tabs with wrong city names: {counter['wrong_city_name_count']}")
 if counter['empty_tab_count'] > 0:
-    logger.info(f"⚠️ Empty tabs skipped: {counter['empty_tab_count']}")
+    logger.warning(f"⚠️ Empty tabs skipped: {counter['empty_tab_count']}")
 if counter['wrong_internal_link_content_count'] > 0:
-    logger.info(f"⚠️ Tabs with wrong internal links: {counter['wrong_internal_link_content_count']}")
+    logger.warning(f"⚠️ Tabs with wrong internal links: {counter['wrong_internal_link_content_count']}")
 
 
 if (counter['processed_count'] - counter['subtab_count'] == total_tab_count and counter['wrong_city_name_count'] == 0 and counter['wrong_internal_link_content_count'] == 0) or (counter['processed_count'] + counter['skipped_count'] == total_tab_count and counter['wrong_city_name_count'] == 0 and counter['wrong_internal_link_content_count'] == 0 and counter['processed_count'] > 0 and counter['empty_tab_count'] == 0):

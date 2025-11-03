@@ -1,4 +1,4 @@
-def write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, column, page_url, city_name, cities):
+def write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, column, page_url, city_name, cities, logger):
 
     row_index = None
 
@@ -15,6 +15,6 @@ def write_url_to_sheet(sheet_service, spreadsheetId, sheet_name, column, page_ur
             valueInputOption="RAW",
             body={"values": [[page_url]]}
         ).execute()
-        return f"✅ Link updated in the sheet successfully!"
+        logger.info(f"✅ Link updated in the sheet successfully!") 
     else:
-        return f"⚠️ City '{city_name}' not found in sheet!"                                                     
+        logger.info(f"⚠️ City '{city_name}' not found in sheet!")                                                 
