@@ -1,0 +1,761 @@
+2025-11-05 09:39:11,530 - INFO - ✅ Logging initialized successfully.
+2025-11-05 09:39:21,188 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 09:39:21,188 - INFO - Reading Aberdeen tab content...
+2025-11-05 09:39:21,214 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 09:39:21,215 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 09:39:21,220 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 09:39:21,221 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 09:39:32,005 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 09:39:32,006 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-2/
+2025-11-05 09:42:38,069 - INFO - ✅ Logging initialized successfully.
+2025-11-05 09:42:50,072 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 09:42:50,073 - INFO - Reading Aberdeen tab content...
+2025-11-05 09:42:50,083 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 09:42:50,084 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 09:42:50,090 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 09:42:50,091 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 09:42:51,025 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 09:42:51,025 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-2/
+2025-11-05 09:42:51,753 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 09:43:02,101 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 09:43:02,102 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-2/
+2025-11-05 09:43:02,723 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 09:43:02,727 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 09:43:02,727 - INFO - 📄 This document has 2 tabs
+2025-11-05 09:43:02,727 - INFO - ✅ Processed new tabs: 2
+2025-11-05 09:43:02,728 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 09:43:02,728 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 09:43:02,728 - INFO - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 09:43:02,728 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 09:43:02,728 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 09:43:02,729 - INFO - *************************************************************************************************************
+2025-11-05 09:43:02,729 - INFO - *************************************************************************************************************
+2025-11-05 09:49:48,072 - INFO - ✅ Logging initialized successfully.
+2025-11-05 09:50:08,202 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 09:50:08,203 - INFO - Reading Aberdeen tab content...
+2025-11-05 09:50:08,221 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 09:50:08,221 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-11-05 09:50:08,222 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 09:50:08,222 - INFO - 📄 This document has 2 tabs
+2025-11-05 09:50:08,223 - INFO - ✅ Processed new tabs: 0
+2025-11-05 09:50:08,223 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-11-05 09:50:08,224 - INFO - ⏩ Skipped already processed: 1
+2025-11-05 09:50:08,224 - INFO - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 09:50:08,225 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 09:50:08,225 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 09:50:08,226 - INFO - *************************************************************************************************************
+2025-11-05 09:50:08,226 - INFO - *************************************************************************************************************
+2025-11-05 09:55:43,156 - INFO - ✅ Logging initialized successfully.
+2025-11-05 09:56:08,227 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 09:56:08,227 - INFO - Reading Aberdeen tab content...
+2025-11-05 09:56:08,236 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 09:56:08,236 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 09:56:08,239 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 09:56:08,240 - INFO - ⏩ Skipping already processed tab: Aldershot and Farnborough
+2025-11-05 09:57:45,220 - INFO - ✅ Logging initialized successfully.
+2025-11-05 09:57:57,327 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 09:57:57,328 - INFO - Reading Aberdeen tab content...
+2025-11-05 09:57:57,343 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 09:57:57,344 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 09:57:57,346 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 09:57:57,347 - INFO - ⏩ Skipping already processed tab: Aldershot and Farnborough
+2025-11-05 09:57:58,921 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 09:57:58,922 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-2/
+2025-11-05 09:57:59,628 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 09:57:59,630 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 09:57:59,631 - INFO - 📄 This document has 2 tabs
+2025-11-05 09:57:59,631 - INFO - ✅ Processed new tabs: 1
+2025-11-05 09:57:59,632 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 09:57:59,632 - INFO - ⏩ Skipped already processed: 1
+2025-11-05 09:57:59,632 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 09:57:59,632 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 09:57:59,632 - INFO - *************************************************************************************************************
+2025-11-05 09:57:59,632 - INFO - *************************************************************************************************************
+2025-11-05 10:16:15,738 - INFO - ✅ Logging initialized successfully.
+2025-11-05 10:16:15,984 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 10:16:28,581 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 10:16:28,581 - INFO - Reading Aberdeen tab content...
+2025-11-05 10:16:28,598 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 10:16:28,599 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 10:16:28,602 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 10:16:28,603 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 10:16:28,607 - INFO - Aberdeenshire found and its link is https://www.loclite.co.uk/test_page_2/
+2025-11-05 10:16:32,185 - INFO - ✅ Content updated for page: https://www.loclite.co.uk/test_page_2/
+2025-11-05 10:16:33,182 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 10:16:33,185 - INFO - Aldershot and Farnborough found and its link is https://www.loclite.co.uk/test_page_3/
+2025-11-05 10:16:42,605 - INFO - ✅ Content updated for page: https://www.loclite.co.uk/test_page_3/
+2025-11-05 10:16:43,395 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 10:16:43,397 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 10:16:43,397 - INFO - 📄 This document has 2 tabs
+2025-11-05 10:16:43,397 - INFO - ✅ Processed new tabs: 2
+2025-11-05 10:16:43,397 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 10:16:43,397 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 10:16:43,398 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 10:16:43,398 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 10:16:43,398 - INFO - *************************************************************************************************************
+2025-11-05 10:16:43,398 - INFO - *************************************************************************************************************
+2025-11-05 10:48:45,541 - INFO - ✅ Logging initialized successfully.
+2025-11-05 10:48:52,380 - ERROR - ❌ country_name or category_name is not correct. please check them in the .env file... Or you have given wrong document...check the doc name
+2025-11-05 11:06:20,524 - INFO - ✅ Logging initialized successfully.
+2025-11-05 11:06:25,123 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 11:06:25,124 - INFO - Reading Aberdeen tab content...
+2025-11-05 11:06:25,142 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,143 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,144 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,144 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,145 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,146 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,146 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,147 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,147 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,148 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,149 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,149 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,151 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,151 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,152 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,154 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,154 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,155 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,155 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,156 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,156 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,157 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,157 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,158 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,158 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,159 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,159 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,160 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,160 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,160 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,161 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,161 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,161 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,162 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,162 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,163 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,163 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,164 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,164 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,164 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,165 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,165 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,166 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,166 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,166 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,166 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,167 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,167 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,168 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,168 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,169 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,169 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,170 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,170 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,171 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,171 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,172 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 11:06:25,172 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 11:06:25,172 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,173 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,173 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,173 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,174 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,174 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,175 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,175 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,176 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,176 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,176 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,177 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,177 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,178 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,178 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,179 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,179 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,180 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,180 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,180 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,181 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,181 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,182 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,182 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,183 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,183 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,184 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,184 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,185 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,185 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,185 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,186 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,186 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,187 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,187 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,188 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,188 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,188 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,189 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,189 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,189 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,190 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,190 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,191 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,191 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,192 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,192 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,192 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,193 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,193 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,193 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,194 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,194 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,195 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,195 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,195 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,196 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,196 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,197 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,197 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,197 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,198 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,198 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,199 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,199 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,200 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,200 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 11:06:25,200 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,201 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,202 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,202 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,202 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,202 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,202 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,202 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,202 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,203 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,204 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,205 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,205 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,205 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,205 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,205 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,205 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,206 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,207 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,207 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,207 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,207 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,207 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,207 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:25,207 - INFO - ✅ Found Emojis and symbols in the content. Removed successfully.
+2025-11-05 11:06:27,072 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 11:06:27,073 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-2/
+2025-11-05 11:06:27,592 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 11:06:28,435 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 11:06:28,436 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-2/
+2025-11-05 11:06:30,541 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 11:06:30,543 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 11:06:30,543 - INFO - 📄 This document has 2 tabs
+2025-11-05 11:06:30,543 - INFO - ✅ Processed new tabs: 2
+2025-11-05 11:06:30,543 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 11:06:30,543 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 11:06:30,543 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 11:06:30,543 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 11:06:30,543 - INFO - *************************************************************************************************************
+2025-11-05 11:06:30,543 - INFO - *************************************************************************************************************
+2025-11-05 11:16:04,442 - INFO - ✅ Logging initialized successfully.
+2025-11-05 11:16:08,223 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 11:16:08,223 - INFO - Reading Aberdeen tab content...
+2025-11-05 11:16:08,239 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 11:16:08,240 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 11:16:08,245 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 11:16:08,245 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 11:16:09,602 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 11:16:09,603 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-3/
+2025-11-05 11:16:10,064 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 11:16:10,631 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 11:16:10,632 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-3/
+2025-11-05 11:16:11,269 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 11:16:11,281 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 11:16:11,281 - INFO - 📄 This document has 2 tabs
+2025-11-05 11:16:11,281 - INFO - ✅ Processed new tabs: 2
+2025-11-05 11:16:11,281 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 11:16:11,281 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 11:16:11,281 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 11:16:11,282 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 11:16:11,282 - INFO - *************************************************************************************************************
+2025-11-05 11:16:11,282 - INFO - *************************************************************************************************************
+2025-11-05 11:36:52,252 - INFO - ✅ Logging initialized successfully.
+2025-11-05 11:36:57,340 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 11:36:57,341 - INFO - Reading Aberdeen tab content...
+2025-11-05 11:36:57,358 - ERROR - ❌ Error in text_to_html: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/
+2025-11-05 11:36:58,962 - INFO - ✅ Page created successfully for Aberdeen!
+2025-11-05 11:36:58,962 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeen-2/
+2025-11-05 11:36:59,738 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 11:36:59,741 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 11:36:59,745 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 11:36:59,753 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 11:37:00,619 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 11:37:00,620 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-4/
+2025-11-05 11:37:01,216 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 11:37:01,893 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 11:37:01,893 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-4/
+2025-11-05 11:37:02,613 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 11:37:02,640 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 11:37:02,640 - INFO - 📄 This document has 2 tabs
+2025-11-05 11:37:02,641 - INFO - ✅ Processed new tabs: 3
+2025-11-05 11:37:02,641 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 11:37:02,641 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 11:37:02,641 - INFO - ✅ All the 2 tabs with 1 subtabs of the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processed successfully.
+2025-11-05 11:37:02,641 - INFO - *************************************************************************************************************
+2025-11-05 11:37:02,641 - INFO - *************************************************************************************************************
+2025-11-05 12:03:13,386 - INFO - ✅ Logging initialized successfully.
+2025-11-05 12:03:18,596 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 12:03:18,597 - INFO - Reading Aberdeen tab content...
+2025-11-05 12:03:18,612 - ERROR - ❌ Error in read_tab: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/
+2025-11-05 12:03:18,612 - WARNING - 🈳 Tab 'Aberdeen' is empty. Skipping...
+2025-11-05 12:03:18,614 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 12:03:18,617 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 12:03:18,618 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 12:03:20,237 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 12:03:20,237 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-5/
+2025-11-05 12:03:20,714 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 12:03:22,315 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 12:03:22,315 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-5/
+2025-11-05 12:03:22,900 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 12:03:22,903 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 12:03:22,904 - INFO - 📄 This document has 2 tabs
+2025-11-05 12:03:22,904 - INFO - ✅ Processed new tabs: 2
+2025-11-05 12:03:22,904 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 12:03:22,904 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 12:03:22,904 - WARNING - ⚠️ Empty tabs skipped: 1
+2025-11-05 12:03:22,905 - WARNING - ⚠️ Empty tabs skipped: 1
+2025-11-05 12:03:22,905 - INFO - *************************************************************************************************************
+2025-11-05 12:03:22,905 - INFO - *************************************************************************************************************
+2025-11-05 12:11:34,522 - INFO - ✅ Logging initialized successfully.
+2025-11-05 12:11:39,598 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 12:11:39,599 - INFO - Reading Aberdeen tab content...
+2025-11-05 12:11:39,610 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 12:11:39,610 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 12:11:39,613 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 12:11:39,618 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 12:11:41,199 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 12:11:41,200 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-6/
+2025-11-05 12:11:41,787 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 12:11:42,514 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 12:11:42,514 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-6/
+2025-11-05 12:11:43,534 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 12:11:43,536 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 12:11:43,537 - INFO - 📄 This document has 2 tabs
+2025-11-05 12:11:43,537 - INFO - ✅ Processed new tabs: 2
+2025-11-05 12:11:43,537 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 12:11:43,537 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 12:11:43,538 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 12:11:43,538 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 12:11:43,538 - INFO - *************************************************************************************************************
+2025-11-05 12:11:43,538 - INFO - *************************************************************************************************************
+2025-11-05 12:36:27,320 - INFO - ✅ Logging initialized successfully.
+2025-11-05 12:36:35,015 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 12:36:35,016 - INFO - Reading Aberdeen tab content...
+2025-11-05 12:36:35,035 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 12:36:35,045 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 12:36:35,049 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 12:36:35,049 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 12:36:36,709 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 12:36:36,710 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-7/
+2025-11-05 12:36:37,426 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 12:36:38,083 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 12:36:38,083 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-7/
+2025-11-05 12:36:38,687 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-05 12:36:38,689 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 12:36:38,689 - INFO - 📄 This document has 2 tabs
+2025-11-05 12:36:38,689 - INFO - ✅ Processed new tabs: 2
+2025-11-05 12:36:38,690 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 12:36:38,690 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 12:36:38,690 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 12:36:38,690 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 12:36:38,691 - INFO - *************************************************************************************************************
+2025-11-05 12:36:38,691 - INFO - *************************************************************************************************************
+2025-11-05 12:44:43,122 - INFO - ✅ Logging initialized successfully.
+2025-11-05 12:44:48,664 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 12:44:48,665 - INFO - Reading Aberdeen tab content...
+2025-11-05 12:44:48,681 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 12:44:48,682 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 12:44:48,686 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 12:44:48,687 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 12:44:50,601 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 12:44:50,603 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-8/
+2025-11-05 12:44:50,605 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet!
+2025-11-05 12:44:51,271 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 12:44:51,271 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-8/
+2025-11-05 12:44:51,272 - INFO - ⚠️ City 'Aldershot and Farnborough' not found in sheet!
+2025-11-05 12:44:51,278 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 12:44:51,279 - INFO - 📄 This document has 2 tabs
+2025-11-05 12:44:51,279 - INFO - ✅ Processed new tabs: 2
+2025-11-05 12:44:51,279 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 12:44:51,279 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 12:44:51,279 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 12:44:51,279 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 12:44:51,279 - INFO - *************************************************************************************************************
+2025-11-05 12:44:51,280 - INFO - *************************************************************************************************************
+2025-11-05 12:52:10,821 - INFO - ✅ Logging initialized successfully.
+2025-11-05 12:52:30,220 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 12:53:48,106 - INFO - ✅ Logging initialized successfully.
+2025-11-05 12:54:10,888 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 12:54:10,889 - INFO - Reading Aberdeen tab content...
+2025-11-05 12:54:10,903 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 12:54:10,903 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 12:54:10,907 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 12:54:10,907 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 12:54:14,554 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 12:54:14,555 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-9/
+2025-11-05 12:54:14,555 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet!
+2025-11-05 12:54:15,267 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 12:54:15,268 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-9/
+2025-11-05 12:54:15,269 - INFO - ⚠️ City 'Aldershot and Farnborough' not found in sheet!
+2025-11-05 12:54:15,270 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 12:54:15,270 - INFO - 📄 This document has 2 tabs
+2025-11-05 12:54:15,270 - INFO - ✅ Processed new tabs: 2
+2025-11-05 12:54:15,270 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 12:54:15,270 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 12:54:15,271 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 12:54:15,271 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 12:54:15,271 - INFO - *************************************************************************************************************
+2025-11-05 12:54:15,271 - INFO - *************************************************************************************************************
+2025-11-05 13:04:33,949 - INFO - ✅ Logging initialized successfully.
+2025-11-05 13:04:40,484 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 13:04:40,484 - INFO - Reading Aberdeen tab content...
+2025-11-05 13:04:40,500 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 13:04:40,500 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 13:04:40,505 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 13:04:40,506 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 13:04:42,129 - INFO - ✅ Page created successfully for Aberdeenshire!
+2025-11-05 13:04:42,130 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-10/
+2025-11-05 13:04:42,885 - INFO - ✅ Link updated in the sheet successfully in Cities!B3!
+2025-11-05 13:04:43,775 - INFO - ✅ Page created successfully for Aldershot and Farnborough!
+2025-11-05 13:04:43,776 - INFO - Page URL: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-10/
+2025-11-05 13:04:46,238 - INFO - ✅ Link updated in the sheet successfully in Cities!B4!
+2025-11-05 13:04:46,241 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 13:04:46,242 - INFO - 📄 This document has 2 tabs
+2025-11-05 13:04:46,242 - INFO - ✅ Processed new tabs: 2
+2025-11-05 13:04:46,242 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 13:04:46,242 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 13:04:46,242 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 13:04:46,243 - WARNING - ⚠️ 1 tabs in the document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo have wrong internal links in the content. Check all the internal links
+2025-11-05 13:04:46,243 - INFO - *************************************************************************************************************
+2025-11-05 13:04:46,243 - INFO - *************************************************************************************************************
+2025-11-05 13:20:19,524 - INFO - ✅ Logging initialized successfully.
+2025-11-05 13:21:40,837 - INFO - ✅ Logging initialized successfully.
+2025-11-05 13:21:50,470 - INFO - 📄 Loaded document 'co.uk Carpenters' successfully.
+2025-11-05 13:22:01,937 - INFO - 📊 Retrieved 179 cities from 'Cities'.
+2025-11-05 13:22:01,939 - INFO - 📄 Document contains 2 tabs.
+2025-11-05 13:22:01,939 - INFO - Reading Aberdeen tab content...
+2025-11-05 13:22:01,955 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 13:22:01,955 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 13:22:01,961 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 13:22:01,961 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 13:22:03,412 - INFO - ✅ Created page for Aberdeenshire: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-11/
+2025-11-05 13:22:04,703 - INFO - ✅ Link updated in the sheet successfully in Cities!B3
+2025-11-05 13:22:07,673 - INFO - ✅ Created page for Aldershot and Farnborough: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-11/
+2025-11-05 13:22:10,297 - INFO - ✅ Link updated in the sheet successfully in Cities!B4
+2025-11-05 13:22:10,300 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 13:22:10,300 - INFO - 📄 Total tabs: 2 
+2025-11-05 13:22:10,300 - INFO - ✅ Processed new tabs: 2
+2025-11-05 13:22:10,301 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 13:22:10,301 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 13:22:10,301 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 13:22:10,301 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-11-05 13:22:10,301 - INFO - *************************************************************************************************************
+2025-11-05 13:22:10,301 - INFO - *************************************************************************************************************
+2025-11-05 14:13:00,160 - INFO - ✅ Logging initialized successfully.
+2025-11-05 14:13:06,158 - INFO - 📄 Loaded document 'co.uk Carpenters' successfully.
+2025-11-05 14:13:08,169 - INFO - 📊 Retrieved 179 cities from 'Cities'.
+2025-11-05 14:13:08,178 - INFO - 📄 Document contains 2 tabs.
+2025-11-05 14:13:08,179 - INFO - Reading Aberdeen tab content...
+2025-11-05 14:13:08,189 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 14:13:08,189 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-11-05 14:13:08,189 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 14:13:08,190 - INFO - 📄 Total tabs: 2 
+2025-11-05 14:13:08,190 - INFO - ✅ Processed new tabs: 0
+2025-11-05 14:13:08,190 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-11-05 14:13:08,190 - INFO - ⏩ Skipped already processed: 1
+2025-11-05 14:13:08,190 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 14:13:08,190 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-11-05 14:13:08,190 - INFO - *************************************************************************************************************
+2025-11-05 14:13:08,190 - INFO - *************************************************************************************************************
+2025-11-05 14:16:18,565 - INFO - ✅ Logging initialized successfully.
+2025-11-05 14:16:22,016 - INFO - 📄 Loaded document 'co.uk Carpenters' successfully.
+2025-11-05 14:16:23,635 - INFO - 📊 Retrieved 179 cities from 'Cities'.
+2025-11-05 14:16:23,636 - INFO - 📄 Document contains 2 tabs.
+2025-11-05 14:16:23,636 - INFO - Reading Aberdeen tab content...
+2025-11-05 14:16:23,656 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 14:16:23,657 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 14:16:23,663 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 14:16:23,664 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 14:16:25,235 - INFO - ✅ Created page for Aberdeenshire: https://www.loclite.co.uk/top-rated-carpenters-in-aberdeenshire-12/
+2025-11-05 14:16:25,952 - INFO - ✅ Link updated in the sheet successfully in Cities!B3
+2025-11-05 14:16:26,539 - INFO - ✅ Created page for Aldershot and Farnborough: https://www.loclite.co.uk/top-rated-carpenters-in-aldershot-and-farnborough-12/
+2025-11-05 14:16:27,280 - INFO - ✅ Link updated in the sheet successfully in Cities!B4
+2025-11-05 14:16:27,282 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 14:16:27,282 - INFO - 📄 Total tabs: 2 
+2025-11-05 14:16:27,282 - INFO - ✅ Processed new tabs: 2
+2025-11-05 14:16:27,282 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 14:16:27,282 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 14:16:27,282 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 14:16:27,282 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-11-05 14:16:27,282 - INFO - *************************************************************************************************************
+2025-11-05 14:16:27,282 - INFO - *************************************************************************************************************
+2025-11-05 14:25:47,254 - INFO - ✅ Logging initialized successfully.
+2025-11-05 14:28:34,262 - INFO - ✅ Logging initialized successfully.
+2025-11-05 14:28:34,705 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 14:28:38,018 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 14:28:40,050 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 14:28:40,051 - INFO - Reading Aberdeen tab content...
+2025-11-05 14:28:40,066 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 14:28:40,066 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-11-05 14:28:40,067 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 14:28:40,067 - INFO - 📄 Total tabs: 2
+2025-11-05 14:28:40,067 - INFO - Processed Count: 0
+2025-11-05 14:28:40,067 - INFO - Skipped Count: 1
+2025-11-05 14:28:40,067 - INFO - Wrong City Name Count: 0
+2025-11-05 14:28:40,067 - INFO - Wrong Internal Link Content Count: 1
+2025-11-05 14:28:40,067 - INFO - Empty Tab Count: 0
+2025-11-05 14:28:40,067 - INFO - Subtab Count: 0
+2025-11-05 14:28:40,067 - INFO - *************************************************************************************************************
+2025-11-05 14:28:40,067 - INFO - *************************************************************************************************************
+2025-11-05 14:31:06,302 - INFO - ✅ Logging initialized successfully.
+2025-11-05 14:31:06,621 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 14:31:11,696 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 14:31:13,216 - ERROR - ⚠️ Failed to load progress file (progress.json): Expecting value: line 58 column 5 (char 1190)
+2025-11-05 14:31:13,216 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-05 14:31:13,217 - INFO - Reading Aberdeen tab content...
+2025-11-05 14:31:13,233 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 14:31:13,234 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 14:31:13,241 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 14:31:13,241 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 14:31:15,176 - INFO - ✅ Successfully updated post ID 7850.
+2025-11-05 14:31:15,177 - INFO - ✅ Updated WP page ID 7850
+2025-11-05 14:31:15,935 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-05 14:31:18,406 - INFO - ✅ Successfully updated post ID 7852.
+2025-11-05 14:31:18,407 - INFO - ✅ Updated WP page ID 7852
+2025-11-05 14:31:19,246 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C4
+2025-11-05 14:31:19,248 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 14:31:19,248 - INFO - 📄 Total tabs: 2
+2025-11-05 14:31:19,248 - INFO - Processed Count: 2
+2025-11-05 14:31:19,248 - INFO - Skipped Count: 0
+2025-11-05 14:31:19,248 - INFO - Wrong City Name Count: 0
+2025-11-05 14:31:19,248 - INFO - Wrong Internal Link Content Count: 1
+2025-11-05 14:31:19,249 - INFO - Empty Tab Count: 0
+2025-11-05 14:31:19,249 - INFO - Subtab Count: 1
+2025-11-05 14:31:19,249 - INFO - *************************************************************************************************************
+2025-11-05 14:31:19,249 - INFO - *************************************************************************************************************
+
+2025-11-05 15:36:29,939 - INFO - ✅ Logging initialized successfully.
+2025-11-05 15:36:35,341 - INFO - 📄 Loaded document 'co.uk Carpenters' successfully.
+2025-11-05 15:36:37,379 - INFO - 📊 Retrieved 179 cities from 'Cities'.
+2025-11-05 15:36:37,392 - INFO - 📄 Document contains 2 tabs.
+2025-11-05 15:36:37,393 - INFO - Reading Aberdeen tab content...
+2025-11-05 15:36:37,403 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 15:36:37,404 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-11-05 15:36:37,406 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 15:36:37,406 - INFO - 📄 Total tabs: 2 
+2025-11-05 15:36:37,406 - INFO - ✅ Processed new tabs: 0
+2025-11-05 15:36:37,406 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-11-05 15:36:37,406 - INFO - ⏩ Skipped already processed: 1
+2025-11-05 15:36:37,406 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 15:36:37,406 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-11-05 15:36:37,406 - INFO - *************************************************************************************************************
+2025-11-05 15:36:37,407 - INFO - *************************************************************************************************************
+2025-11-05 15:37:12,149 - INFO - ✅ Logging initialized successfully.
+2025-11-05 15:37:17,631 - INFO - 📄 Loaded document 'co.uk Carpenters' successfully.
+2025-11-05 15:37:19,724 - INFO - 📊 Retrieved 179 cities from 'Cities'.
+2025-11-05 15:37:19,725 - INFO - 📄 Document contains 2 tabs.
+2025-11-05 15:37:19,728 - INFO - Reading Aberdeen tab content...
+2025-11-05 15:37:19,741 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 15:37:19,742 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 15:37:19,746 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 15:37:19,747 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 15:37:20,943 - WARNING - ⚠️ No response for Aberdeenshire. Skipping.
+2025-11-05 15:37:27,959 - WARNING - ⚠️ No response for Aldershot and Farnborough. Skipping.
+2025-11-05 15:37:27,961 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 15:37:27,961 - INFO - 📄 Total tabs: 2 
+2025-11-05 15:37:27,962 - INFO - ✅ Processed new tabs: 0
+2025-11-05 15:37:27,962 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 15:37:27,962 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 15:37:27,963 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 15:37:27,963 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-11-05 15:37:27,963 - INFO - *************************************************************************************************************
+2025-11-05 15:37:27,963 - INFO - *************************************************************************************************************
+2025-11-05 15:54:27,617 - INFO - ✅ Logging initialized successfully.
+2025-11-05 15:54:31,278 - INFO - 📄 Loaded document 'co.uk Carpenters' successfully.
+2025-11-05 15:54:33,098 - INFO - 📊 Retrieved 179 cities from 'Cities'.
+2025-11-05 15:54:33,101 - INFO - 📄 Document contains 2 tabs.
+2025-11-05 15:54:33,101 - INFO - Reading Aberdeen tab content...
+2025-11-05 15:54:33,122 - WARNING - 🚫 Skipping tab Aberdeen due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-05 15:54:33,122 - INFO - Reading Aberdeenshire tab content...
+2025-11-05 15:54:33,135 - INFO - Found 1 child tab/tabs in Aberdeenshire. Recursing...
+2025-11-05 15:54:33,136 - INFO - Reading Aldershot and Farnborough tab content...
+2025-11-05 15:54:34,726 - WARNING - ⚠️ No response for Aberdeenshire. Skipping.
+2025-11-05 15:54:35,758 - WARNING - ⚠️ No response for Aldershot and Farnborough. Skipping.
+2025-11-05 15:54:35,760 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-05 15:54:35,760 - INFO - 📄 Total tabs: 2 
+2025-11-05 15:54:35,760 - INFO - ✅ Processed new tabs: 0
+2025-11-05 15:54:35,761 - INFO - 📄 Subtabs processed (not counted as new): 1
+2025-11-05 15:54:35,761 - INFO - ⏩ Skipped already processed: 0
+2025-11-05 15:54:35,761 - WARNING - ⚠️ Tabs with wrong internal links: 1
+2025-11-05 15:54:35,762 - WARNING - ⚠️ Document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo processing completed with mixed results. Something wrong with processing this doc. Check manually.
+2025-11-05 15:54:35,763 - INFO - *************************************************************************************************************
+2025-11-05 15:54:35,763 - INFO - *************************************************************************************************************
+2025-11-05 16:06:31,756 - INFO - ✅ Logging initialized successfully.
+2025-11-05 16:06:32,291 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 16:06:35,827 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 16:06:37,725 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-05 16:06:37,725 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-05 16:06:37,726 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-05 16:06:37,726 - INFO - Reading Mumbai tab content...
+2025-11-05 16:06:37,739 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: https://www.satheesseo.com/about-us/. Check all the internal links.
+2025-11-05 16:06:37,740 - INFO - Reading Delhi tab content...
+2025-11-05 16:06:37,741 - WARNING - 🚫 Skipping tab Delhi due to invalid internal link: https://www.satheesseo.com/best-seo-strategies-for-local-businesses/. Check all the internal links.
+2025-11-05 16:06:37,741 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 16:06:37,742 - INFO - 📄 Total tabs: 4
+2025-11-05 16:06:37,742 - INFO - Processed Count: 0
+2025-11-05 16:06:37,743 - INFO - Skipped Count: 0
+2025-11-05 16:06:37,743 - INFO - Wrong City Name Count: 2
+2025-11-05 16:06:37,743 - INFO - Wrong Internal Link Content Count: 2
+2025-11-05 16:06:37,744 - INFO - Empty Tab Count: 0
+2025-11-05 16:06:37,744 - INFO - Subtab Count: 0
+2025-11-05 16:06:37,744 - INFO - *************************************************************************************************************
+2025-11-05 16:06:37,745 - INFO - *************************************************************************************************************
+2025-11-05 16:15:20,575 - INFO - ✅ Logging initialized successfully.
+2025-11-05 16:15:21,894 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 16:15:26,608 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 16:15:29,854 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-05 16:15:29,856 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-05 16:15:29,857 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-05 16:15:29,860 - INFO - Reading Mumbai tab content...
+2025-11-05 16:15:29,877 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: https://www.satheesseo.com/about-us/. Check all the internal links.
+2025-11-05 16:15:29,878 - INFO - Reading Delhi tab content...
+2025-11-05 16:15:29,883 - WARNING - 🚫 Skipping tab Delhi due to invalid internal link: https://www.satheesseo.com/book-appointment/. Check all the internal links.
+2025-11-05 16:15:29,884 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 16:15:29,884 - INFO - 📄 Total tabs: 4
+2025-11-05 16:15:29,885 - INFO - Processed Count: 0
+2025-11-05 16:15:29,885 - INFO - Skipped Count: 0
+2025-11-05 16:15:29,885 - INFO - Wrong City Name Count: 2
+2025-11-05 16:15:29,885 - INFO - Wrong Internal Link Content Count: 2
+2025-11-05 16:15:29,885 - INFO - Empty Tab Count: 0
+2025-11-05 16:15:29,885 - INFO - Subtab Count: 0
+2025-11-05 16:15:29,885 - INFO - *************************************************************************************************************
+2025-11-05 16:15:29,885 - INFO - *************************************************************************************************************
+2025-11-05 16:17:08,261 - INFO - ✅ Logging initialized successfully.
+2025-11-05 16:17:09,706 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 16:17:18,819 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 16:17:21,440 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-05 16:17:21,518 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-05 16:17:21,519 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-05 16:17:21,519 - INFO - Reading Mumbai tab content...
+2025-11-05 16:17:21,533 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: https://www.satheesseo.com/proof-of-results-my-customers-keywords-result/. Check all the internal links.
+2025-11-05 16:17:21,533 - INFO - Reading Delhi tab content...
+2025-11-05 16:17:24,748 - INFO - ✅ Successfully updated post ID 14010.
+2025-11-05 16:17:24,750 - INFO - ✅ Updated WP page ID 14010 for city 'Delhi'
+2025-11-05 16:17:25,653 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-05 16:17:25,753 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 16:17:25,754 - INFO - 📄 Total tabs: 4
+2025-11-05 16:17:25,754 - INFO - Processed Count: 1
+2025-11-05 16:17:25,754 - INFO - Skipped Count: 0
+2025-11-05 16:17:25,754 - INFO - Wrong City Name Count: 2
+2025-11-05 16:17:25,754 - INFO - Wrong Internal Link Content Count: 1
+2025-11-05 16:17:25,754 - INFO - Empty Tab Count: 0
+2025-11-05 16:17:25,754 - INFO - Subtab Count: 0
+2025-11-05 16:17:25,754 - INFO - *************************************************************************************************************
+2025-11-05 16:17:25,755 - INFO - *************************************************************************************************************
+2025-11-05 16:28:04,976 - INFO - ✅ Logging initialized successfully.
+2025-11-05 16:28:05,299 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 16:28:09,529 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 16:28:11,418 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-05 16:28:11,419 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-05 16:28:11,420 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-05 16:28:11,420 - INFO - Reading Mumbai tab content...
+2025-11-05 16:28:11,443 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: https://www.linkedin.com/in/seo-expert-consultant-india/. Check all the internal links.
+2025-11-05 16:28:11,443 - INFO - ⏩ Skipping already processed tab: Delhi
+2025-11-05 16:28:11,444 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 16:28:11,444 - INFO - 📄 Total tabs: 4
+2025-11-05 16:28:11,444 - INFO - Processed Count: 0
+2025-11-05 16:28:11,444 - INFO - Skipped Count: 1
+2025-11-05 16:28:11,444 - INFO - Wrong City Name Count: 2
+2025-11-05 16:28:11,445 - INFO - Wrong Internal Link Content Count: 1
+2025-11-05 16:28:11,445 - INFO - Empty Tab Count: 0
+2025-11-05 16:28:11,445 - INFO - Subtab Count: 0
+2025-11-05 16:28:11,445 - INFO - *************************************************************************************************************
+2025-11-05 16:28:11,445 - INFO - *************************************************************************************************************
+2025-11-05 16:29:06,278 - INFO - ✅ Logging initialized successfully.
+2025-11-05 16:29:06,748 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 16:29:10,697 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 16:29:12,386 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-05 16:29:12,386 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-05 16:29:12,387 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-05 16:29:12,387 - INFO - Reading Mumbai tab content...
+2025-11-05 16:29:14,837 - INFO - ✅ Successfully updated post ID 10.
+2025-11-05 16:29:14,838 - INFO - ✅ Updated WP page ID 10 for city 'Mumbai'
+2025-11-05 16:29:15,660 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C2
+2025-11-05 16:29:15,662 - INFO - ⏩ Skipping already processed tab: Delhi
+2025-11-05 16:29:15,662 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 16:29:15,662 - INFO - 📄 Total tabs: 4
+2025-11-05 16:29:15,662 - INFO - Processed Count: 1
+2025-11-05 16:29:15,662 - INFO - Skipped Count: 1
+2025-11-05 16:29:15,662 - INFO - Wrong City Name Count: 2
+2025-11-05 16:29:15,662 - INFO - Wrong Internal Link Content Count: 0
+2025-11-05 16:29:15,662 - INFO - Empty Tab Count: 0
+2025-11-05 16:29:15,663 - INFO - Subtab Count: 0
+2025-11-05 16:29:15,663 - INFO - *************************************************************************************************************
+2025-11-05 16:29:15,663 - INFO - *************************************************************************************************************
+2025-11-05 16:39:49,601 - INFO - ✅ Logging initialized successfully.
+2025-11-05 16:39:50,674 - INFO - ****************** Starting Content Updation ******************
+2025-11-05 16:39:53,955 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-05 16:39:56,248 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-05 16:39:56,249 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-05 16:39:56,249 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-05 16:39:56,250 - INFO - Reading Mumbai tab content...
+2025-11-05 16:39:56,270 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: https://www.http://www.satheesseo.com/. Check all the internal links.
+2025-11-05 16:39:56,272 - INFO - ⏩ Skipping already processed tab: Delhi
+2025-11-05 16:39:56,273 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-05 16:39:56,273 - INFO - 📄 Total tabs: 4
+2025-11-05 16:39:56,273 - INFO - Processed Count: 0
+2025-11-05 16:39:56,273 - INFO - Skipped Count: 1
+2025-11-05 16:39:56,274 - INFO - Wrong City Name Count: 2
+2025-11-05 16:39:56,274 - INFO - Wrong Internal Link Content Count: 1
+2025-11-05 16:39:56,274 - INFO - Empty Tab Count: 0
+2025-11-05 16:39:56,274 - INFO - Subtab Count: 0
+2025-11-05 16:39:56,274 - INFO - *************************************************************************************************************
+2025-11-05 16:39:56,275 - INFO - *************************************************************************************************************

@@ -1,0 +1,60 @@
+2025-11-01 09:39:24,479 - INFO - ✅ Logging initialized successfully.
+2025-11-01 09:39:27,689 - ERROR - ❌ country_name or category_name is not correct. please check them in the .env file... Or you have given wrong document...check the doc name
+2025-11-01 09:42:11,457 - INFO - ✅ Logging initialized successfully.
+2025-11-01 09:42:18,318 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 09:42:18,319 - INFO - ⏩ Skipping already processed tab: Aberdeen
+2025-11-01 09:42:18,319 - INFO - ⏩ Skipping already processed tab: Aberdeenshire
+2025-11-01 09:42:18,320 - INFO - 📊 =========================Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo================
+2025-11-01 09:42:18,320 - INFO - 📄 This document has 2 tabs
+2025-11-01 09:42:18,320 - INFO - ✅ Processed new tabs: 0
+2025-11-01 09:42:18,320 - INFO - 📄 Subtabs processed (not counted as new): 0
+2025-11-01 09:42:18,320 - INFO - ⏩ Skipped already processed: 2
+2025-11-01 09:42:18,320 - INFO - ℹ️ All tabs already processed for this document 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo.
+2025-11-01 09:42:18,320 - INFO - *************************************************************************************************************
+2025-11-01 09:42:18,320 - INFO - *************************************************************************************************************
+2025-11-01 13:25:04,663 - INFO - ✅ Logging initialized successfully.
+2025-11-01 13:26:35,296 - INFO - ✅ Logging initialized successfully.
+2025-11-01 13:26:43,534 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 13:26:43,535 - INFO - Mumbai found and its link is https://www.satheesseo.com/seo-consultant-in-mumbai-india/
+2025-11-01 13:26:43,536 - INFO - Delhi found and its link is https://www.satheesseo.com/top-seo-consultant-in-delhi-india/
+2025-11-01 14:57:25,499 - INFO - ✅ Logging initialized successfully.
+2025-11-01 14:57:30,520 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 14:57:30,520 - INFO - Mumbai found and its link is https://www.satheesseo.com/seo-consultant-in-mumbai-india/
+2025-11-01 14:57:30,520 - INFO - ⚠️ City 'Mumbai' not found in sheet!
+2025-11-01 14:57:30,520 - INFO - Delhi found and its link is https://www.satheesseo.com/top-seo-consultant-in-delhi-india/
+2025-11-01 14:57:30,521 - INFO - ⚠️ City 'Delhi' not found in sheet!
+2025-11-01 15:03:21,177 - INFO - ✅ Logging initialized successfully.
+2025-11-01 15:03:28,831 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 15:03:28,832 - INFO - Mumbai found and its link is https://www.satheesseo.com/seo-consultant-in-mumbai-india/
+2025-11-01 15:03:28,832 - INFO - ⚠️ City 'Mumbai' not found in sheet!
+2025-11-01 15:03:28,832 - INFO - Delhi found and its link is https://www.satheesseo.com/top-seo-consultant-in-delhi-india/
+2025-11-01 15:03:28,833 - INFO - ⚠️ City 'Delhi' not found in sheet!
+2025-11-01 15:21:11,238 - INFO - ✅ Logging initialized successfully.
+2025-11-01 15:21:17,240 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 15:21:17,241 - INFO - Mumbai found and its link is https://www.satheesseo.com/seo-consultant-in-mumbai-india/
+2025-11-01 15:21:17,939 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-01 15:21:17,940 - INFO - Delhi found and its link is https://www.satheesseo.com/top-seo-consultant-in-delhi-india/
+2025-11-01 15:21:18,750 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-01 15:32:10,855 - INFO - ✅ Logging initialized successfully.
+2025-11-01 15:32:17,246 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 15:32:17,247 - INFO - Mumbai found and its link is https://www.satheesseo.com/seo-consultant-in-mumbai-india/
+2025-11-01 15:32:17,885 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-01 15:32:17,886 - INFO - Delhi found and its link is https://www.satheesseo.com/top-seo-consultant-in-delhi-india/
+2025-11-01 15:32:18,634 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-01 15:59:43,956 - INFO - ✅ Logging initialized successfully.
+2025-11-01 15:59:48,946 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 15:59:48,946 - INFO - Reading Mumbai tab content...
+2025-11-01 15:59:48,984 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-01 15:59:48,985 - INFO - Reading Delhi tab content...
+2025-11-01 15:59:48,986 - WARNING - 🚫 Skipping tab Delhi due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-carpenters-in-the-uk/. Check all the internal links.
+2025-11-01 16:01:36,324 - INFO - ✅ Logging initialized successfully.
+2025-11-01 16:01:41,267 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 2 tabs to process.
+2025-11-01 16:01:41,268 - INFO - Reading Mumbai tab content...
+2025-11-01 16:01:41,285 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: https://www.loclite.co.uk/why-you-should-always-hire-local-plumbers-in-the-uk/. Check all the internal links.
+2025-11-01 16:01:41,285 - INFO - Reading Delhi tab content...
+2025-11-01 16:01:41,297 - INFO - Found 1 child tab/tabs in Delhi. Recursing...
+2025-11-01 16:01:41,298 - INFO - Reading Bengaluru tab content...
+2025-11-01 16:01:41,301 - INFO - Delhi found and its link is https://www.loclite.co.uk/test_page2/
+2025-11-01 16:01:44,082 - INFO - ✅ Link updated in the sheet successfully!
+2025-11-01 16:01:44,082 - INFO - Bengaluru found and its link is https://www.loclite.co.uk/test_page3/
+2025-11-01 16:01:45,906 - INFO - ✅ Link updated in the sheet successfully!
