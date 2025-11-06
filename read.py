@@ -1,6 +1,4 @@
 import re
-import os
-from post import post_to_wp
 from logging_config import logger
 
 def validate_meta_details(doc_title, country_name, category_name):
@@ -56,12 +54,12 @@ def remove_emojis_and_symbols(text):
 def fix_url(url):
     """Normalize URLs to a standard https://www. format."""
     try:  
-        url = re.sub(r"(https://)+", "https://", url)   # Remove all extra https:// and www.
-        url = re.sub(r"(www\.)+", "www.", url)
+#         url = re.sub(r"(https://)+", "https://", url)   # Remove all extra https:// and www.
+#         url = re.sub(r"(www\.)+", "www.", url)
 
-        if not url.startswith("https://www."):      # Ensure it starts correctly
-            url = re.sub(r"^(https://)?(www\.)?", "", url)   # Remove stray prefixes if present
-            url = "https://www." + url
+#         if not url.startswith("https://www."):      # Ensure it starts correctly
+#             url = re.sub(r"^(https://)?(www\.)?", "", url)   # Remove stray prefixes if present
+#             url = "https://www." + url
 
         if not url.endswith("/"):       # Ensure it ends with /
             url += "/"
@@ -173,7 +171,7 @@ def process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_
     city_name = tab["tabProperties"]["title"]
         
     if city_name in progress[doc_id]:
-        logger.info(f"⏩ Skipping already processed tab: {city_name}")
+        logger.info(f"⏩ Skipping already processed tab: '{city_name}'")
         counter['skipped_count'] += 1
         return {}
 
@@ -183,7 +181,7 @@ def process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_
         return {}
 
     try:
-        logger.info(f"Reading {city_name} tab content...")
+        logger.info(f"Reading '{city_name}' tab content...")
         tab_content = tab["documentTab"]["body"]["content"]
 
         html_content = read_tab(tab_content, valid_urls)
@@ -199,7 +197,7 @@ def process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_
         subtabs_list = tab.get("childTabs")
 
         if subtabs_list:
-            logger.info(f"Found {len(subtabs_list)} child tab/tabs in {city_name}. Recursing...")
+            logger.info(f"Found {len(subtabs_list)} child tab/tabs in '{city_name}'. Recursing...")
 
             for subtab in subtabs_list:
                subtab_html_dict = process_tab_and_child_tabs(subtab, progress, flat_cities_list, valid_urls, doc_id, logger, counter)
@@ -209,6 +207,6 @@ def process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_
         return html_content_dict
 
     except ValueError as ve:
-        logger.warning(f"🚫 Skipping tab {city_name} due to invalid internal link: {ve}. Check all the internal links.")
+        logger.warning(f"🚫 Skipping tab '{city_name}' due to invalid internal link: {ve}. Check all the internal links.")
         counter['wrong_internal_link_content_count'] += 1
         return {}
