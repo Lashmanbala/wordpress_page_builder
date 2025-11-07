@@ -6,6 +6,7 @@ from requests.auth import HTTPBasicAuth
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
+from googleapiclient.errors import HttpError
 
 from logging_config import logger
 from read import read_tab, validate_meta_details, process_tab_and_child_tabs
@@ -77,8 +78,12 @@ def setup_google_services(google_credentials_file):
 
 def read_document(doc_service, doc_id, country_name, category_name):
     """Read Google Doc and validate metadata."""
+
+    doc_title = None  # ✅ define upfront to avoid UnboundLocalError
+
     try:
         doc = doc_service.documents().get(documentId=doc_id, includeTabsContent=True).execute()
+        
         doc_title = doc.get("title", "Untitled Document")
 
         if not validate_meta_details(doc_title, country_name, category_name):
@@ -86,6 +91,26 @@ def read_document(doc_service, doc_id, country_name, category_name):
 
         logger.info(f"✅ Document '{doc_title}' validated successfully.")
         return doc, doc_title
+    
+    except HttpError as e:
+        # Handle specific API permission errors
+        if e.resp.status == 403:
+            logger.error(
+                f"🚫 Permission denied for Google Doc ID '{doc_id}'. "
+                "Ensure the service account has access (shared or proper OAuth scope)."
+            )
+        elif e.resp.status == 404:
+            logger.error(
+                f"📄 Google Doc ID '{doc_id}' not found. Double-check the document ID or sharing settings."
+            )
+        else:
+            logger.exception(f"❌ Google Docs API error for doc '{doc_title or doc_id}': {e}")
+        exit(1)
+
+    except Exception as e:
+        logger.exception(f"❌ Failed to read or validate document '{doc_title or doc_id}': {e}")
+        exit(1)
+
     except Exception as e:
         logger.exception(f"❌ Failed to read or validate document '{doc_title}': {e}")
         exit(1)
