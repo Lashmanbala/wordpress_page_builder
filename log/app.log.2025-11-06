@@ -1,0 +1,2017 @@
+2025-11-06 10:43:23,748 - INFO - ✅ Logging initialized successfully.
+2025-11-06 10:43:25,459 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 10:43:32,985 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-06 10:43:40,347 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-06 10:43:40,348 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-06 10:43:40,348 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-06 10:43:40,349 - INFO - Reading Mumbai tab content...
+2025-11-06 10:43:40,784 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: http://www.satheesseo.com. Check all the internal links.
+2025-11-06 10:43:40,784 - INFO - ⏩ Skipping already processed tab: Delhi
+2025-11-06 10:43:40,785 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-06 10:43:40,785 - INFO - 📄 Total tabs: 4
+2025-11-06 10:43:40,785 - INFO - Processed Count: 0
+2025-11-06 10:43:40,785 - INFO - Skipped Count: 1
+2025-11-06 10:43:40,786 - INFO - Wrong City Name Count: 2
+2025-11-06 10:43:40,786 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 10:43:40,786 - INFO - Empty Tab Count: 0
+2025-11-06 10:43:40,787 - INFO - Subtab Count: 0
+2025-11-06 10:43:40,788 - INFO - *************************************************************************************************************
+2025-11-06 10:43:40,788 - INFO - *************************************************************************************************************
+2025-11-06 10:48:08,098 - INFO - ✅ Logging initialized successfully.
+2025-11-06 10:48:08,720 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 10:48:14,012 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-06 10:48:17,116 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-06 10:48:17,117 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-06 10:48:17,117 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-06 10:48:17,117 - INFO - Reading Mumbai tab content...
+2025-11-06 10:48:17,138 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: http://www.satheesseo.com. Check all the internal links.
+2025-11-06 10:48:17,139 - INFO - Reading Delhi tab content...
+2025-11-06 10:48:20,013 - INFO - ✅ Successfully updated post ID 14010.
+2025-11-06 10:48:20,014 - INFO - ✅ Updated WP page ID 14010 for city 'Delhi'
+2025-11-06 10:48:20,999 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-06 10:48:21,009 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-06 10:48:21,009 - INFO - 📄 Total tabs: 4
+2025-11-06 10:48:21,009 - INFO - Processed Count: 1
+2025-11-06 10:48:21,009 - INFO - Skipped Count: 0
+2025-11-06 10:48:21,009 - INFO - Wrong City Name Count: 2
+2025-11-06 10:48:21,010 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 10:48:21,010 - INFO - Empty Tab Count: 0
+2025-11-06 10:48:21,010 - INFO - Subtab Count: 0
+2025-11-06 10:48:21,010 - INFO - *************************************************************************************************************
+2025-11-06 10:48:21,010 - INFO - *************************************************************************************************************
+2025-11-06 10:57:29,046 - INFO - ✅ Logging initialized successfully.
+2025-11-06 10:57:29,534 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 10:57:33,507 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-06 10:57:35,246 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-06 10:57:35,247 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-06 10:57:35,248 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-06 10:57:35,248 - INFO - Reading Mumbai tab content...
+2025-11-06 10:57:35,265 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: http://www.satheesseo.com. Check all the internal links.
+2025-11-06 10:57:35,265 - INFO - ⏩ Skipping already processed tab: Delhi
+2025-11-06 10:57:35,266 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-06 10:57:35,266 - INFO - 📄 Total tabs: 4
+2025-11-06 10:57:35,266 - INFO - Processed Count: 0
+2025-11-06 10:57:35,266 - INFO - Skipped Count: 1
+2025-11-06 10:57:35,266 - INFO - Wrong City Name Count: 2
+2025-11-06 10:57:35,266 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 10:57:35,266 - INFO - Empty Tab Count: 0
+2025-11-06 10:57:35,266 - INFO - Subtab Count: 0
+2025-11-06 10:57:35,266 - INFO - *************************************************************************************************************
+2025-11-06 10:57:35,266 - INFO - *************************************************************************************************************
+2025-11-06 10:58:32,724 - INFO - ✅ Logging initialized successfully.
+2025-11-06 10:58:33,073 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 10:58:35,586 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-06 10:58:37,236 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-06 10:58:37,237 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-06 10:58:37,237 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-06 10:58:37,237 - INFO - Reading Mumbai tab content...
+2025-11-06 10:58:37,250 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: http://www.satheesseo.com. Check all the internal links.
+2025-11-06 10:58:37,250 - INFO - Reading Delhi tab content...
+2025-11-06 10:58:38,845 - INFO - ✅ Successfully updated Delhi with page ID 14010.
+2025-11-06 10:58:38,846 - INFO - ✅ Updated WP page ID 14010 for city 'Delhi'
+2025-11-06 10:58:39,632 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-06 10:58:39,635 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-06 10:58:39,635 - INFO - 📄 Total tabs: 4
+2025-11-06 10:58:39,636 - INFO - Processed Count: 1
+2025-11-06 10:58:39,636 - INFO - Skipped Count: 0
+2025-11-06 10:58:39,636 - INFO - Wrong City Name Count: 2
+2025-11-06 10:58:39,636 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 10:58:39,636 - INFO - Empty Tab Count: 0
+2025-11-06 10:58:39,637 - INFO - Subtab Count: 0
+2025-11-06 10:58:39,637 - INFO - *************************************************************************************************************
+2025-11-06 10:58:39,637 - INFO - *************************************************************************************************************
+2025-11-06 11:01:55,486 - INFO - ✅ Logging initialized successfully.
+2025-11-06 11:01:55,949 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 11:02:00,884 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-06 11:02:05,384 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-06 11:02:05,384 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-06 11:02:05,384 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-06 11:02:05,384 - INFO - Reading Mumbai tab content...
+2025-11-06 11:02:05,414 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: http://www.satheesseo.com. Check all the internal links.
+2025-11-06 11:02:05,415 - INFO - Reading Delhi tab content...
+2025-11-06 11:02:08,535 - INFO - ✅ Successfully updated 'Delhi' with page ID 14010.
+2025-11-06 11:02:08,539 - INFO - ✅ Updated WP page ID 14010 for city 'Delhi'
+2025-11-06 11:02:09,510 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-06 11:02:09,512 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-06 11:02:09,513 - INFO - 📄 Total tabs: 4
+2025-11-06 11:02:09,513 - INFO - Processed Count: 1
+2025-11-06 11:02:09,513 - INFO - Skipped Count: 0
+2025-11-06 11:02:09,513 - INFO - Wrong City Name Count: 2
+2025-11-06 11:02:09,513 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 11:02:09,513 - INFO - Empty Tab Count: 0
+2025-11-06 11:02:09,513 - INFO - Subtab Count: 0
+2025-11-06 11:02:09,513 - INFO - *************************************************************************************************************
+2025-11-06 11:02:09,514 - INFO - *************************************************************************************************************
+2025-11-06 11:06:00,274 - INFO - ✅ Logging initialized successfully.
+2025-11-06 11:06:00,796 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 11:06:03,226 - INFO - ✅ Document 'co.uk Carpenters' validated successfully.
+2025-11-06 11:06:04,858 - INFO - 📄 Document ID: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo has 4 tabs to process.
+2025-11-06 11:06:04,858 - INFO - ⚠️ City 'Aberdeen' not found in sheet. Skipping tab.
+2025-11-06 11:06:04,858 - INFO - ⚠️ City 'Aberdeenshire' not found in sheet. Skipping tab.
+2025-11-06 11:06:04,859 - INFO - Reading Mumbai tab content...
+2025-11-06 11:06:04,871 - WARNING - 🚫 Skipping tab Mumbai due to invalid internal link: http://www.satheesseo.com. Check all the internal links.
+2025-11-06 11:06:04,871 - INFO - Reading Delhi tab content...
+2025-11-06 11:06:06,591 - INFO - ✅ Updated WP page ID 14010 for city 'Delhi'
+2025-11-06 11:06:07,478 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-06 11:06:07,481 - INFO - 📊 ===== Summary for Document: 1ADZc32YGPNHNYerCxwiRdZYEPOLJ8IXtqS-NLgxf9qo =====
+2025-11-06 11:06:07,482 - INFO - 📄 Total tabs: 4
+2025-11-06 11:06:07,482 - INFO - Processed Count: 1
+2025-11-06 11:06:07,483 - INFO - Skipped Count: 0
+2025-11-06 11:06:07,483 - INFO - Wrong City Name Count: 2
+2025-11-06 11:06:07,483 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 11:06:07,484 - INFO - Empty Tab Count: 0
+2025-11-06 11:06:07,484 - INFO - Subtab Count: 0
+2025-11-06 11:06:07,485 - INFO - *************************************************************************************************************
+2025-11-06 11:06:07,485 - INFO - *************************************************************************************************************
+2025-11-06 11:22:25,287 - INFO - ✅ Logging initialized successfully.
+2025-11-06 11:22:26,509 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 11:22:33,951 - ERROR - ❌ Failed to read or validate document 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ: Meta validation failed — wrong doc, country, or category name.
+Traceback (most recent call last):
+  File "/home/bala/code/wp_page_builder/content_replacer.py", line 252, in read_document
+    raise ValueError("Meta validation failed — wrong doc, country, or category name.")
+ValueError: Meta validation failed — wrong doc, country, or category name.
+2025-11-06 11:27:12,863 - INFO - ✅ Logging initialized successfully.
+2025-11-06 11:27:13,265 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 11:27:21,219 - ERROR - ❌ Failed to read or validate document India-SEO consultant-Harish: Meta validation failed — wrong doc, country, or category name.
+Traceback (most recent call last):
+  File "/home/bala/code/wp_page_builder/content_replacer.py", line 252, in read_document
+    raise ValueError("Meta validation failed — wrong doc, country, or category name.")
+ValueError: Meta validation failed — wrong doc, country, or category name.
+2025-11-06 11:27:59,234 - INFO - ✅ Logging initialized successfully.
+2025-11-06 11:27:59,569 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 11:28:06,135 - ERROR - ❌ Failed to read or validate document 'India-SEO consultant-Harish': Meta validation failed — wrong doc, country, or category name.
+Traceback (most recent call last):
+  File "/home/bala/code/wp_page_builder/content_replacer.py", line 252, in read_document
+    raise ValueError("Meta validation failed — wrong doc, country, or category name.")
+ValueError: Meta validation failed — wrong doc, country, or category name.
+2025-11-06 11:30:18,699 - INFO - ✅ Logging initialized successfully.
+2025-11-06 11:30:19,168 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 11:30:25,393 - INFO - ✅ Document 'India-SEO consultant-Harish' validated successfully.
+2025-11-06 11:30:27,173 - INFO - 📄 Document ID: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ has 100 tabs to process.
+2025-11-06 11:30:27,173 - INFO - Reading 'Mumbai' tab content...
+2025-11-06 11:30:32,272 - INFO - ✅ Updated WP page ID 10 for city 'Mumbai'
+2025-11-06 11:30:33,120 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C2
+2025-11-06 11:30:33,122 - INFO - Reading 'Delhi' tab content...
+2025-11-06 11:30:34,944 - INFO - ✅ Updated WP page ID 14010 for city 'Delhi'
+2025-11-06 11:30:35,628 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-06 11:30:35,642 - INFO - ⚠️ City 'Bangalore' not found in sheet. Skipping tab.
+2025-11-06 11:30:35,642 - INFO - Reading 'Hyderabad' tab content...
+2025-11-06 11:30:37,462 - INFO - ✅ Updated WP page ID 297 for city 'Hyderabad'
+2025-11-06 11:30:38,238 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C5
+2025-11-06 11:30:38,241 - INFO - Reading 'Ahmedabad' tab content...
+2025-11-06 11:30:44,573 - INFO - ✅ Updated WP page ID 19662 for city 'Ahmedabad'
+2025-11-06 11:30:45,218 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C6
+2025-11-06 11:30:45,222 - INFO - Reading 'Chennai' tab content...
+2025-11-06 11:30:46,778 - INFO - ✅ Updated WP page ID 42 for city 'Chennai'
+2025-11-06 11:30:47,542 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C7
+2025-11-06 11:30:47,545 - INFO - Reading 'Kolkata' tab content...
+2025-11-06 11:30:50,001 - INFO - ✅ Updated WP page ID 302 for city 'Kolkata'
+2025-11-06 11:30:50,734 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C8
+2025-11-06 11:30:50,737 - INFO - Reading 'Surat' tab content...
+2025-11-06 11:30:54,193 - INFO - ✅ Updated WP page ID 311 for city 'Surat'
+2025-11-06 11:30:55,333 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C9
+2025-11-06 11:30:55,336 - INFO - Reading 'Pune' tab content...
+2025-11-06 11:30:57,925 - INFO - ✅ Updated WP page ID 314 for city 'Pune'
+2025-11-06 11:30:58,459 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C10
+2025-11-06 11:30:58,461 - INFO - Reading 'Jaipur' tab content...
+2025-11-06 11:31:00,346 - INFO - ✅ Updated WP page ID 319 for city 'Jaipur'
+2025-11-06 11:31:00,889 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C11
+2025-11-06 11:31:00,892 - INFO - Reading 'Lucknow' tab content...
+2025-11-06 11:31:04,022 - INFO - ✅ Updated WP page ID 14544 for city 'Lucknow'
+2025-11-06 11:31:04,533 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C12
+2025-11-06 11:31:04,536 - INFO - Reading 'Kanpur' tab content...
+2025-11-06 11:31:06,181 - INFO - ✅ Updated WP page ID 72 for city 'Kanpur'
+2025-11-06 11:31:06,842 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C13
+2025-11-06 11:31:06,845 - INFO - Reading 'Nagpur' tab content...
+2025-11-06 11:31:08,705 - INFO - ✅ Updated WP page ID 76 for city 'Nagpur'
+2025-11-06 11:31:09,240 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C14
+2025-11-06 11:31:09,243 - INFO - Reading 'Indore' tab content...
+2025-11-06 11:31:13,378 - INFO - ✅ Updated WP page ID 78 for city 'Indore'
+2025-11-06 11:31:13,900 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C15
+2025-11-06 11:31:13,903 - INFO - Reading 'Thane' tab content...
+2025-11-06 11:31:16,061 - INFO - ✅ Updated WP page ID 80 for city 'Thane'
+2025-11-06 11:31:16,569 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C16
+2025-11-06 11:31:16,571 - INFO - Reading 'Bhopal' tab content...
+2025-11-06 11:31:18,488 - INFO - ✅ Updated WP page ID 25687 for city 'Bhopal'
+2025-11-06 11:31:18,999 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C17
+2025-11-06 11:31:19,002 - INFO - Reading 'Visakhapatnam' tab content...
+2025-11-06 11:31:20,691 - INFO - ✅ Updated WP page ID 20867 for city 'Visakhapatnam'
+2025-11-06 11:31:21,357 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C18
+2025-11-06 11:31:21,360 - INFO - Reading 'Pimpri-Chinchwad' tab content...
+2025-11-06 11:31:23,166 - INFO - ✅ Updated WP page ID 94 for city 'Pimpri-Chinchwad'
+2025-11-06 11:31:23,719 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C19
+2025-11-06 11:31:23,740 - INFO - Reading 'Patna' tab content...
+2025-11-06 11:31:25,501 - INFO - ✅ Updated WP page ID 97 for city 'Patna'
+2025-11-06 11:31:26,044 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C20
+2025-11-06 11:31:26,047 - INFO - Reading 'Vadodara' tab content...
+2025-11-06 11:31:29,180 - INFO - ✅ Updated WP page ID 100 for city 'Vadodara'
+2025-11-06 11:31:29,785 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C21
+2025-11-06 11:31:29,787 - INFO - Reading 'Ghaziabad' tab content...
+2025-11-06 11:31:31,608 - INFO - ✅ Updated WP page ID 102 for city 'Ghaziabad'
+2025-11-06 11:31:32,119 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C22
+2025-11-06 11:31:32,123 - INFO - Reading 'Ludhiana' tab content...
+2025-11-06 11:31:34,528 - INFO - ✅ Updated WP page ID 14845 for city 'Ludhiana'
+2025-11-06 11:31:35,143 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C23
+2025-11-06 11:31:35,145 - INFO - Reading 'Agra' tab content...
+2025-11-06 11:31:39,278 - INFO - ✅ Updated WP page ID 115 for city 'Agra'
+2025-11-06 11:31:39,840 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C24
+2025-11-06 11:31:39,843 - INFO - Reading 'Faridabad' tab content...
+2025-11-06 11:31:41,756 - INFO - ✅ Updated WP page ID 126 for city 'Faridabad'
+2025-11-06 11:31:42,289 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C25
+2025-11-06 11:31:42,403 - INFO - Reading 'Nashik' tab content...
+2025-11-06 11:31:44,864 - INFO - ✅ Updated WP page ID 122 for city 'Nashik'
+2025-11-06 11:31:45,383 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C26
+2025-11-06 11:31:45,400 - INFO - Reading 'Meerut' tab content...
+2025-11-06 11:31:47,240 - INFO - ✅ Updated WP page ID 376 for city 'Meerut'
+2025-11-06 11:31:47,819 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C27
+2025-11-06 11:31:47,822 - INFO - Reading 'Rajkot' tab content...
+2025-11-06 11:31:49,492 - INFO - ✅ Updated WP page ID 144 for city 'Rajkot'
+2025-11-06 11:31:50,073 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C28
+2025-11-06 11:31:50,076 - INFO - Reading 'Kalyan-Dombivli' tab content...
+2025-11-06 11:31:52,728 - INFO - ✅ Updated WP page ID 380 for city 'Kalyan-Dombivli'
+2025-11-06 11:31:53,456 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C29
+2025-11-06 11:31:53,459 - INFO - Reading 'Vasai-Virar' tab content...
+2025-11-06 11:31:55,629 - INFO - ✅ Updated WP page ID 383 for city 'Vasai-Virar'
+2025-11-06 11:31:56,638 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C30
+2025-11-06 11:31:56,640 - INFO - Reading 'Varanasi' tab content...
+2025-11-06 11:32:00,001 - INFO - ✅ Updated WP page ID 386 for city 'Varanasi'
+2025-11-06 11:32:00,507 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C31
+2025-11-06 11:32:00,509 - INFO - Reading 'Srinagar' tab content...
+2025-11-06 11:32:02,313 - INFO - ✅ Updated WP page ID 395 for city 'Srinagar'
+2025-11-06 11:32:02,819 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C32
+2025-11-06 11:32:02,822 - INFO - Reading 'Aurangabad' tab content...
+2025-11-06 11:32:05,693 - INFO - ✅ Updated WP page ID 405 for city 'Aurangabad'
+2025-11-06 11:32:06,232 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C33
+2025-11-06 11:32:06,235 - INFO - Reading 'Dhanbad' tab content...
+2025-11-06 11:32:07,970 - INFO - ✅ Updated WP page ID 412 for city 'Dhanbad'
+2025-11-06 11:32:08,575 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C34
+2025-11-06 11:32:08,577 - INFO - Reading 'Amritsar' tab content...
+2025-11-06 11:32:12,634 - INFO - ✅ Updated WP page ID 414 for city 'Amritsar'
+2025-11-06 11:32:13,439 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C35
+2025-11-06 11:32:13,443 - INFO - Reading 'Navi Mumbai' tab content...
+2025-11-06 11:32:15,722 - INFO - ✅ Updated WP page ID 418 for city 'Navi Mumbai'
+2025-11-06 11:32:16,367 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C36
+2025-11-06 11:32:16,369 - INFO - Reading 'Prayagraj' tab content...
+2025-11-06 11:32:19,882 - INFO - ✅ Updated WP page ID 422 for city 'Prayagraj'
+2025-11-06 11:32:20,504 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C37
+2025-11-06 11:32:20,658 - INFO - Reading 'Howrah' tab content...
+2025-11-06 11:32:24,095 - INFO - ✅ Updated WP page ID 425 for city 'Howrah'
+2025-11-06 11:32:24,788 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C38
+2025-11-06 11:32:24,792 - INFO - Reading 'Ranchi' tab content...
+2025-11-06 11:32:26,807 - INFO - ✅ Updated WP page ID 427 for city 'Ranchi'
+2025-11-06 11:32:27,418 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C39
+2025-11-06 11:32:27,421 - INFO - Reading 'Jabalpur' tab content...
+2025-11-06 11:32:29,065 - INFO - ✅ Updated WP page ID 432 for city 'Jabalpur'
+2025-11-06 11:32:29,581 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C40
+2025-11-06 11:32:29,584 - INFO - Reading 'Gwalior' tab content...
+2025-11-06 11:32:31,977 - INFO - ✅ Updated WP page ID 434 for city 'Gwalior'
+2025-11-06 11:32:32,686 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C41
+2025-11-06 11:32:32,689 - INFO - Reading 'Coimbatore' tab content...
+2025-11-06 11:32:34,637 - INFO - ✅ Updated WP page ID 7 for city 'Coimbatore'
+2025-11-06 11:32:35,168 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C42
+2025-11-06 11:32:35,170 - INFO - Reading 'Vijayawada' tab content...
+2025-11-06 11:32:36,916 - INFO - ✅ Updated WP page ID 439 for city 'Vijayawada'
+2025-11-06 11:32:37,514 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C43
+2025-11-06 11:32:37,517 - INFO - Reading 'Jodhpur' tab content...
+2025-11-06 11:32:39,104 - INFO - ✅ Updated WP page ID 441 for city 'Jodhpur'
+2025-11-06 11:32:39,635 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C44
+2025-11-06 11:32:39,638 - INFO - Reading 'Madurai' tab content...
+2025-11-06 11:32:42,272 - INFO - ✅ Updated WP page ID 443 for city 'Madurai'
+2025-11-06 11:32:42,846 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C45
+2025-11-06 11:32:42,850 - INFO - Reading 'Raipur' tab content...
+2025-11-06 11:32:47,919 - INFO - ✅ Updated WP page ID 447 for city 'Raipur'
+2025-11-06 11:32:48,619 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C46
+2025-11-06 11:32:48,623 - INFO - Reading 'Kota' tab content...
+2025-11-06 11:32:51,901 - INFO - ✅ Updated WP page ID 453 for city 'Kota'
+2025-11-06 11:32:52,572 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C47
+2025-11-06 11:32:52,576 - INFO - Reading 'Guwahati' tab content...
+2025-11-06 11:32:54,959 - INFO - ✅ Updated WP page ID 457 for city 'Guwahati'
+2025-11-06 11:32:56,060 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C48
+2025-11-06 11:32:56,075 - INFO - Reading 'Chandigarh' tab content...
+2025-11-06 11:32:58,436 - INFO - ✅ Updated WP page ID 513 for city 'Chandigarh'
+2025-11-06 11:32:58,974 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C49
+2025-11-06 11:32:59,004 - INFO - Reading 'Solapur' tab content...
+2025-11-06 11:32:59,008 - WARNING - 🚫 Skipping tab 'Solapur' due to invalid internal link: https://www.satheesseo.com/blog/. Check all the internal links.
+2025-11-06 11:32:59,008 - INFO - Reading 'Hubli–Dharwad' tab content...
+2025-11-06 11:33:00,960 - INFO - ✅ Updated WP page ID 518 for city 'Hubli–Dharwad'
+2025-11-06 11:33:01,527 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C51
+2025-11-06 11:33:01,530 - INFO - Reading 'Tiruchirappalli' tab content...
+2025-11-06 11:33:04,024 - INFO - ✅ Updated WP page ID 521 for city 'Tiruchirappalli'
+2025-11-06 11:33:04,552 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C52
+2025-11-06 11:33:04,555 - INFO - Reading 'Tiruppur' tab content...
+2025-11-06 11:33:06,798 - INFO - ✅ Updated WP page ID 523 for city 'Tiruppur'
+2025-11-06 11:33:07,436 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C53
+2025-11-06 11:33:07,439 - INFO - Reading 'Moradabad' tab content...
+2025-11-06 11:33:09,647 - INFO - ✅ Updated WP page ID 525 for city 'Moradabad'
+2025-11-06 11:33:10,266 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C54
+2025-11-06 11:33:10,270 - INFO - Reading 'Mysore' tab content...
+2025-11-06 11:33:12,229 - INFO - ✅ Updated WP page ID 527 for city 'Mysore'
+2025-11-06 11:33:12,716 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C55
+2025-11-06 11:33:12,719 - INFO - Reading 'Bareilly' tab content...
+2025-11-06 11:33:14,174 - INFO - ✅ Updated WP page ID 529 for city 'Bareilly'
+2025-11-06 11:33:14,825 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C56
+2025-11-06 11:33:14,829 - INFO - Reading 'Gurgaon' tab content...
+2025-11-06 11:33:17,584 - INFO - ✅ Updated WP page ID 531 for city 'Gurgaon'
+2025-11-06 11:33:18,266 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C57
+2025-11-06 11:33:19,492 - INFO - Reading 'Aligarh' tab content...
+2025-11-06 11:33:22,604 - INFO - ✅ Updated WP page ID 533 for city 'Aligarh'
+2025-11-06 11:33:23,267 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C58
+2025-11-06 11:33:23,270 - INFO - Reading 'Jalandhar' tab content...
+2025-11-06 11:33:25,342 - INFO - ✅ Updated WP page ID 536 for city 'Jalandhar'
+2025-11-06 11:33:25,894 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C59
+2025-11-06 11:33:25,897 - INFO - Reading 'Bhubaneswar' tab content...
+2025-11-06 11:33:27,233 - INFO - ✅ Updated WP page ID 539 for city 'Bhubaneswar'
+2025-11-06 11:33:27,743 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C60
+2025-11-06 11:33:27,746 - INFO - Reading 'Salem' tab content...
+2025-11-06 11:33:29,388 - INFO - ✅ Updated WP page ID 541 for city 'Salem'
+2025-11-06 11:33:29,940 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C61
+2025-11-06 11:33:29,943 - INFO - Reading 'Mira-Bhayandar' tab content...
+2025-11-06 11:33:31,913 - INFO - ✅ Updated WP page ID 543 for city 'Mira-Bhayandar'
+2025-11-06 11:33:32,587 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C62
+2025-11-06 11:33:32,591 - INFO - Reading 'Warangal' tab content...
+2025-11-06 11:33:35,838 - INFO - ✅ Updated WP page ID 545 for city 'Warangal'
+2025-11-06 11:33:36,504 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C63
+2025-11-06 11:33:36,516 - INFO - Reading 'Thiruvananthapuram' tab content...
+2025-11-06 11:33:38,963 - INFO - ✅ Updated WP page ID 547 for city 'Thiruvananthapuram'
+2025-11-06 11:33:39,656 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C64
+2025-11-06 11:33:39,660 - INFO - Reading 'Guntur' tab content...
+2025-11-06 11:33:39,663 - WARNING - 🚫 Skipping tab 'Guntur' due to invalid internal link: https://www.satheesseo.com/about. Check all the internal links.
+2025-11-06 11:33:39,663 - INFO - Reading 'Bhiwandi' tab content...
+2025-11-06 11:33:41,340 - INFO - ✅ Updated WP page ID 551 for city 'Bhiwandi'
+2025-11-06 11:33:41,850 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C66
+2025-11-06 11:33:41,855 - INFO - Reading 'Saharanpur' tab content...
+2025-11-06 11:33:44,891 - INFO - ✅ Updated WP page ID 553 for city 'Saharanpur'
+2025-11-06 11:33:45,406 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C67
+2025-11-06 11:33:45,411 - INFO - Reading 'Gorakhpur' tab content...
+2025-11-06 11:33:47,599 - INFO - ✅ Updated WP page ID 555 for city 'Gorakhpur'
+2025-11-06 11:33:48,131 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C68
+2025-11-06 11:33:48,134 - INFO - Reading 'Bikaner' tab content...
+2025-11-06 11:33:51,693 - INFO - ✅ Updated WP page ID 557 for city 'Bikaner'
+2025-11-06 11:33:53,808 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C69
+2025-11-06 11:33:53,866 - INFO - Reading 'Amravati' tab content...
+2025-11-06 11:33:56,060 - INFO - ✅ Updated WP page ID 559 for city 'Amravati'
+2025-11-06 11:33:56,632 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C70
+2025-11-06 11:33:56,636 - INFO - Reading 'Noida' tab content...
+2025-11-06 11:33:58,430 - INFO - ✅ Updated WP page ID 561 for city 'Noida'
+2025-11-06 11:33:58,942 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C71
+2025-11-06 11:33:58,947 - INFO - Reading 'Jamshedpur' tab content...
+2025-11-06 11:34:00,759 - INFO - ✅ Updated WP page ID 563 for city 'Jamshedpur'
+2025-11-06 11:34:01,294 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C72
+2025-11-06 11:34:01,297 - INFO - Reading 'Bhilai' tab content...
+2025-11-06 11:34:02,894 - INFO - ✅ Updated WP page ID 565 for city 'Bhilai'
+2025-11-06 11:34:03,430 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C73
+2025-11-06 11:34:03,434 - INFO - Reading 'Cuttack' tab content...
+2025-11-06 11:34:05,571 - INFO - ✅ Updated WP page ID 567 for city 'Cuttack'
+2025-11-06 11:34:06,145 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C74
+2025-11-06 11:34:06,148 - INFO - Reading 'Firozabad' tab content...
+2025-11-06 11:34:07,966 - INFO - ✅ Updated WP page ID 569 for city 'Firozabad'
+2025-11-06 11:34:08,492 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C75
+2025-11-06 11:34:08,496 - INFO - Reading 'Kochi' tab content...
+2025-11-06 11:34:10,294 - INFO - ✅ Updated WP page ID 571 for city 'Kochi'
+2025-11-06 11:34:10,884 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C76
+2025-11-06 11:34:10,887 - INFO - Reading 'Nellore' tab content...
+2025-11-06 11:34:13,529 - INFO - ✅ Updated WP page ID 573 for city 'Nellore'
+2025-11-06 11:34:14,204 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C77
+2025-11-06 11:34:14,208 - INFO - Reading 'Bhavnagar' tab content...
+2025-11-06 11:34:15,865 - INFO - ✅ Updated WP page ID 575 for city 'Bhavnagar'
+2025-11-06 11:34:16,429 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C78
+2025-11-06 11:34:16,432 - INFO - Reading 'Dehradun' tab content...
+2025-11-06 11:34:18,081 - INFO - ✅ Updated WP page ID 577 for city 'Dehradun'
+2025-11-06 11:34:18,659 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C79
+2025-11-06 11:34:18,662 - INFO - Reading 'Durgapur' tab content...
+2025-11-06 11:34:20,349 - INFO - ✅ Updated WP page ID 579 for city 'Durgapur'
+2025-11-06 11:34:20,866 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C80
+2025-11-06 11:34:20,870 - INFO - Reading 'Asansol' tab content...
+2025-11-06 11:34:22,495 - INFO - ✅ Updated WP page ID 581 for city 'Asansol'
+2025-11-06 11:34:23,027 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C81
+2025-11-06 11:34:23,031 - INFO - Reading 'Nanded' tab content...
+2025-11-06 11:34:25,359 - INFO - ✅ Updated WP page ID 583 for city 'Nanded'
+2025-11-06 11:34:27,538 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C82
+2025-11-06 11:34:27,542 - INFO - Reading 'Kolhapur' tab content...
+2025-11-06 11:34:32,163 - INFO - ✅ Updated WP page ID 585 for city 'Kolhapur'
+2025-11-06 11:34:32,701 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C83
+2025-11-06 11:34:32,704 - INFO - Reading 'Ajmer' tab content...
+2025-11-06 11:34:34,854 - INFO - ✅ Updated WP page ID 587 for city 'Ajmer'
+2025-11-06 11:34:35,511 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C84
+2025-11-06 11:34:35,518 - INFO - Reading 'Gulbarga' tab content...
+2025-11-06 11:34:37,775 - INFO - ✅ Updated WP page ID 589 for city 'Gulbarga'
+2025-11-06 11:34:38,286 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C85
+2025-11-06 11:34:38,290 - INFO - Reading 'Jamnagar' tab content...
+2025-11-06 11:34:40,408 - INFO - ✅ Updated WP page ID 591 for city 'Jamnagar'
+2025-11-06 11:34:40,999 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C86
+2025-11-06 11:34:41,002 - INFO - Reading 'Ujjain' tab content...
+2025-11-06 11:34:43,058 - INFO - ✅ Updated WP page ID 593 for city 'Ujjain'
+2025-11-06 11:34:43,618 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C87
+2025-11-06 11:34:43,643 - INFO - Reading 'Loni' tab content...
+2025-11-06 11:34:45,377 - INFO - ✅ Updated WP page ID 595 for city 'Loni'
+2025-11-06 11:34:45,930 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C88
+2025-11-06 11:34:45,933 - INFO - Reading 'Jhansi' tab content...
+2025-11-06 11:34:47,641 - INFO - ✅ Updated WP page ID 599 for city 'Jhansi'
+2025-11-06 11:34:48,131 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C89
+2025-11-06 11:34:48,134 - INFO - Reading 'Ulhasnagar' tab content...
+2025-11-06 11:34:50,877 - INFO - ✅ Updated WP page ID 601 for city 'Ulhasnagar'
+2025-11-06 11:34:51,391 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C90
+2025-11-06 11:34:51,394 - INFO - Reading 'Jammu' tab content...
+2025-11-06 11:34:53,185 - INFO - ✅ Updated WP page ID 603 for city 'Jammu'
+2025-11-06 11:34:53,747 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C91
+2025-11-06 11:34:53,750 - INFO - Reading 'Sangli-Miraj & Kupwad' tab content...
+2025-11-06 11:34:54,645 - ERROR - ❌ Failed to fetch WP page for slug 'wp-admin/post.php': Invalid WordPress page response format.
+2025-11-06 11:34:54,646 - WARNING - ⚠️ Invalid page_id for 'Sangli-Miraj & Kupwad': https://www.satheesseo.com/wp-admin/post.php?post=605&action=edit
+2025-11-06 11:34:54,646 - INFO - Reading 'Mangalore' tab content...
+2025-11-06 11:34:57,039 - INFO - ✅ Updated WP page ID 607 for city 'Mangalore'
+2025-11-06 11:34:57,726 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C93
+2025-11-06 11:34:57,729 - INFO - Reading 'Erode' tab content...
+2025-11-06 11:35:00,745 - INFO - ✅ Updated WP page ID 609 for city 'Erode'
+2025-11-06 11:35:01,234 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C94
+2025-11-06 11:35:01,237 - INFO - Reading 'Belgaum' tab content...
+2025-11-06 11:35:04,522 - INFO - ✅ Updated WP page ID 611 for city 'Belgaum'
+2025-11-06 11:35:05,358 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C95
+2025-11-06 11:35:05,362 - INFO - Reading 'Ambattur' tab content...
+2025-11-06 11:35:07,636 - INFO - ✅ Updated WP page ID 613 for city 'Ambattur'
+2025-11-06 11:35:08,276 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C96
+2025-11-06 11:35:08,280 - INFO - Reading 'Tirunelveli' tab content...
+2025-11-06 11:35:10,043 - INFO - ✅ Updated WP page ID 638 for city 'Tirunelveli'
+2025-11-06 11:35:10,544 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C97
+2025-11-06 11:35:10,547 - INFO - Reading 'Malegaon' tab content...
+2025-11-06 11:35:10,549 - WARNING - 🚫 Skipping tab 'Malegaon' due to invalid internal link: https://www.satheesseo.com/about-sathees. Check all the internal links.
+2025-11-06 11:35:10,549 - INFO - Reading 'Gaya' tab content...
+2025-11-06 11:35:12,841 - INFO - ✅ Updated WP page ID 643 for city 'Gaya'
+2025-11-06 11:35:13,414 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C99
+2025-11-06 11:35:13,417 - INFO - Reading 'Jalgaon' tab content...
+2025-11-06 11:35:15,098 - INFO - ✅ Updated WP page ID 645 for city 'Jalgaon'
+2025-11-06 11:35:15,614 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C100
+2025-11-06 11:35:15,617 - INFO - Reading 'Udaipur' tab content...
+2025-11-06 11:35:17,388 - INFO - ✅ Updated WP page ID 647 for city 'Udaipur'
+2025-11-06 11:35:18,146 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C101
+2025-11-06 11:35:18,150 - INFO - 📊 ===== Summary for Document: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ =====
+2025-11-06 11:35:18,150 - INFO - 📄 Total tabs: 100
+2025-11-06 11:35:18,150 - INFO - Processed Count: 95
+2025-11-06 11:35:18,150 - INFO - Skipped Count: 1
+2025-11-06 11:35:18,151 - INFO - Wrong City Name Count: 1
+2025-11-06 11:35:18,151 - INFO - Wrong Internal Link Content Count: 3
+2025-11-06 11:35:18,151 - INFO - Empty Tab Count: 0
+2025-11-06 11:35:18,151 - INFO - Subtab Count: 0
+2025-11-06 11:35:18,151 - INFO - *************************************************************************************************************
+2025-11-06 11:35:18,152 - INFO - *************************************************************************************************************
+2025-11-06 12:28:20,868 - INFO - ✅ Logging initialized successfully.
+2025-11-06 12:28:21,672 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 12:28:31,771 - INFO - ✅ Document 'India-SEO consultant-Harish' validated successfully.
+2025-11-06 12:28:33,554 - INFO - 📄 Document ID: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ has 100 tabs to process.
+2025-11-06 12:28:33,555 - INFO - ⏩ Skipping already processed tab: 'Mumbai'
+2025-11-06 12:28:33,555 - INFO - ⏩ Skipping already processed tab: 'Delhi'
+2025-11-06 12:28:33,555 - INFO - Reading 'Bengaluru' tab content...
+2025-11-06 12:28:35,698 - INFO - ✅ Updated WP page ID 14029 for city 'Bengaluru'
+2025-11-06 12:28:36,604 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C4
+2025-11-06 12:28:36,613 - INFO - ⏩ Skipping already processed tab: 'Hyderabad'
+2025-11-06 12:28:36,613 - INFO - ⏩ Skipping already processed tab: 'Ahmedabad'
+2025-11-06 12:28:36,613 - INFO - ⏩ Skipping already processed tab: 'Chennai'
+2025-11-06 12:28:36,614 - INFO - ⏩ Skipping already processed tab: 'Kolkata'
+2025-11-06 12:28:36,614 - INFO - ⏩ Skipping already processed tab: 'Surat'
+2025-11-06 12:28:36,614 - INFO - ⏩ Skipping already processed tab: 'Pune'
+2025-11-06 12:28:36,614 - INFO - ⏩ Skipping already processed tab: 'Jaipur'
+2025-11-06 12:28:36,614 - INFO - ⏩ Skipping already processed tab: 'Lucknow'
+2025-11-06 12:28:36,615 - INFO - ⏩ Skipping already processed tab: 'Kanpur'
+2025-11-06 12:28:36,615 - INFO - ⏩ Skipping already processed tab: 'Nagpur'
+2025-11-06 12:28:36,615 - INFO - ⏩ Skipping already processed tab: 'Indore'
+2025-11-06 12:28:36,615 - INFO - ⏩ Skipping already processed tab: 'Thane'
+2025-11-06 12:28:36,615 - INFO - ⏩ Skipping already processed tab: 'Bhopal'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Visakhapatnam'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Pimpri-Chinchwad'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Patna'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Vadodara'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Ghaziabad'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Ludhiana'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Agra'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Faridabad'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Nashik'
+2025-11-06 12:28:36,616 - INFO - ⏩ Skipping already processed tab: 'Meerut'
+2025-11-06 12:28:36,620 - INFO - ⏩ Skipping already processed tab: 'Rajkot'
+2025-11-06 12:28:36,620 - INFO - ⏩ Skipping already processed tab: 'Kalyan-Dombivli'
+2025-11-06 12:28:36,620 - INFO - ⏩ Skipping already processed tab: 'Vasai-Virar'
+2025-11-06 12:28:36,620 - INFO - ⏩ Skipping already processed tab: 'Varanasi'
+2025-11-06 12:28:36,621 - INFO - ⏩ Skipping already processed tab: 'Srinagar'
+2025-11-06 12:28:36,621 - INFO - ⏩ Skipping already processed tab: 'Aurangabad'
+2025-11-06 12:28:36,621 - INFO - ⏩ Skipping already processed tab: 'Dhanbad'
+2025-11-06 12:28:36,621 - INFO - ⏩ Skipping already processed tab: 'Amritsar'
+2025-11-06 12:28:36,621 - INFO - ⏩ Skipping already processed tab: 'Navi Mumbai'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Prayagraj'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Howrah'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Ranchi'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Jabalpur'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Gwalior'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Coimbatore'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Vijayawada'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Jodhpur'
+2025-11-06 12:28:36,622 - INFO - ⏩ Skipping already processed tab: 'Madurai'
+2025-11-06 12:28:36,623 - INFO - ⏩ Skipping already processed tab: 'Raipur'
+2025-11-06 12:28:36,623 - INFO - ⏩ Skipping already processed tab: 'Kota'
+2025-11-06 12:28:36,623 - INFO - ⏩ Skipping already processed tab: 'Guwahati'
+2025-11-06 12:28:36,623 - INFO - ⏩ Skipping already processed tab: 'Chandigarh'
+2025-11-06 12:28:36,623 - INFO - Reading 'Solapur' tab content...
+2025-11-06 12:28:38,676 - INFO - ✅ Updated WP page ID 515 for city 'Solapur'
+2025-11-06 12:28:39,506 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C50
+2025-11-06 12:28:39,509 - INFO - ⏩ Skipping already processed tab: 'Hubli–Dharwad'
+2025-11-06 12:28:39,509 - INFO - ⏩ Skipping already processed tab: 'Tiruchirappalli'
+2025-11-06 12:28:39,509 - INFO - ⏩ Skipping already processed tab: 'Tiruppur'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Moradabad'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Mysore'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Bareilly'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Gurgaon'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Aligarh'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Jalandhar'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Bhubaneswar'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Salem'
+2025-11-06 12:28:39,510 - INFO - ⏩ Skipping already processed tab: 'Mira-Bhayandar'
+2025-11-06 12:28:39,511 - INFO - ⏩ Skipping already processed tab: 'Warangal'
+2025-11-06 12:28:39,511 - INFO - ⏩ Skipping already processed tab: 'Thiruvananthapuram'
+2025-11-06 12:28:39,511 - INFO - Reading 'Guntur' tab content...
+2025-11-06 12:28:39,514 - WARNING - 🚫 Skipping tab 'Guntur' due to invalid internal link: https://www.satheesseo.com/contact. Check all the internal links.
+2025-11-06 12:28:39,514 - INFO - ⏩ Skipping already processed tab: 'Bhiwandi'
+2025-11-06 12:28:39,515 - INFO - ⏩ Skipping already processed tab: 'Saharanpur'
+2025-11-06 12:28:39,516 - INFO - ⏩ Skipping already processed tab: 'Gorakhpur'
+2025-11-06 12:28:39,516 - INFO - ⏩ Skipping already processed tab: 'Bikaner'
+2025-11-06 12:28:39,516 - INFO - ⏩ Skipping already processed tab: 'Amravati'
+2025-11-06 12:28:39,516 - INFO - ⏩ Skipping already processed tab: 'Noida'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Jamshedpur'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Bhilai'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Cuttack'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Firozabad'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Kochi'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Nellore'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Bhavnagar'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Dehradun'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Durgapur'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Asansol'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Nanded'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Kolhapur'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Ajmer'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Gulbarga'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Jamnagar'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Ujjain'
+2025-11-06 12:28:39,517 - INFO - ⏩ Skipping already processed tab: 'Loni'
+2025-11-06 12:28:39,518 - INFO - ⏩ Skipping already processed tab: 'Jhansi'
+2025-11-06 12:28:39,518 - INFO - ⏩ Skipping already processed tab: 'Ulhasnagar'
+2025-11-06 12:28:39,518 - INFO - ⏩ Skipping already processed tab: 'Jammu'
+2025-11-06 12:28:39,518 - INFO - Reading 'Sangli-Miraj & Kupwad' tab content...
+2025-11-06 12:28:41,433 - INFO - ✅ Updated WP page ID 605 for city 'Sangli-Miraj & Kupwad'
+2025-11-06 12:28:42,401 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C92
+2025-11-06 12:28:42,403 - INFO - ⏩ Skipping already processed tab: 'Mangalore'
+2025-11-06 12:28:42,404 - INFO - ⏩ Skipping already processed tab: 'Erode'
+2025-11-06 12:28:42,404 - INFO - ⏩ Skipping already processed tab: 'Belgaum'
+2025-11-06 12:28:42,404 - INFO - ⏩ Skipping already processed tab: 'Ambattur'
+2025-11-06 12:28:42,404 - INFO - ⏩ Skipping already processed tab: 'Tirunelveli'
+2025-11-06 12:28:42,404 - INFO - Reading 'Malegaon' tab content...
+2025-11-06 12:28:42,405 - WARNING - 🚫 Skipping tab 'Malegaon' due to invalid internal link: https://www.satheesseo.com/about-sathees. Check all the internal links.
+2025-11-06 12:28:42,405 - INFO - ⏩ Skipping already processed tab: 'Gaya'
+2025-11-06 12:28:42,405 - INFO - ⏩ Skipping already processed tab: 'Jalgaon'
+2025-11-06 12:28:42,406 - INFO - ⏩ Skipping already processed tab: 'Udaipur'
+2025-11-06 12:28:42,406 - INFO - 📊 ===== Summary for Document: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ =====
+2025-11-06 12:28:42,406 - INFO - 📄 Total tabs: 100
+2025-11-06 12:28:42,407 - INFO - Processed Count: 3
+2025-11-06 12:28:42,407 - INFO - Skipped Count: 95
+2025-11-06 12:28:42,407 - INFO - Wrong City Name Count: 0
+2025-11-06 12:28:42,407 - INFO - Wrong Internal Link Content Count: 2
+2025-11-06 12:28:42,408 - INFO - Empty Tab Count: 0
+2025-11-06 12:28:42,408 - INFO - Subtab Count: 0
+2025-11-06 12:28:42,408 - INFO - *************************************************************************************************************
+2025-11-06 12:28:42,409 - INFO - *************************************************************************************************************
+2025-11-06 12:34:28,699 - INFO - ✅ Logging initialized successfully.
+2025-11-06 12:34:29,027 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 12:34:37,142 - INFO - ✅ Document 'India-SEO consultant-Harish' validated successfully.
+2025-11-06 12:34:39,069 - INFO - 📄 Document ID: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ has 100 tabs to process.
+2025-11-06 12:34:39,070 - INFO - ⏩ Skipping already processed tab: 'Mumbai'
+2025-11-06 12:34:39,070 - INFO - ⏩ Skipping already processed tab: 'Delhi'
+2025-11-06 12:34:39,071 - INFO - ⏩ Skipping already processed tab: 'Bengaluru'
+2025-11-06 12:34:39,071 - INFO - ⏩ Skipping already processed tab: 'Hyderabad'
+2025-11-06 12:34:39,072 - INFO - ⏩ Skipping already processed tab: 'Ahmedabad'
+2025-11-06 12:34:39,072 - INFO - ⏩ Skipping already processed tab: 'Chennai'
+2025-11-06 12:34:39,073 - INFO - ⏩ Skipping already processed tab: 'Kolkata'
+2025-11-06 12:34:39,073 - INFO - ⏩ Skipping already processed tab: 'Surat'
+2025-11-06 12:34:39,073 - INFO - ⏩ Skipping already processed tab: 'Pune'
+2025-11-06 12:34:39,074 - INFO - ⏩ Skipping already processed tab: 'Jaipur'
+2025-11-06 12:34:39,074 - INFO - ⏩ Skipping already processed tab: 'Lucknow'
+2025-11-06 12:34:39,074 - INFO - ⏩ Skipping already processed tab: 'Kanpur'
+2025-11-06 12:34:39,075 - INFO - ⏩ Skipping already processed tab: 'Nagpur'
+2025-11-06 12:34:39,075 - INFO - ⏩ Skipping already processed tab: 'Indore'
+2025-11-06 12:34:39,075 - INFO - ⏩ Skipping already processed tab: 'Thane'
+2025-11-06 12:34:39,075 - INFO - ⏩ Skipping already processed tab: 'Bhopal'
+2025-11-06 12:34:39,075 - INFO - ⏩ Skipping already processed tab: 'Visakhapatnam'
+2025-11-06 12:34:39,076 - INFO - ⏩ Skipping already processed tab: 'Pimpri-Chinchwad'
+2025-11-06 12:34:39,083 - INFO - ⏩ Skipping already processed tab: 'Patna'
+2025-11-06 12:34:39,084 - INFO - ⏩ Skipping already processed tab: 'Vadodara'
+2025-11-06 12:34:39,084 - INFO - ⏩ Skipping already processed tab: 'Ghaziabad'
+2025-11-06 12:34:39,084 - INFO - ⏩ Skipping already processed tab: 'Ludhiana'
+2025-11-06 12:34:39,084 - INFO - ⏩ Skipping already processed tab: 'Agra'
+2025-11-06 12:34:39,084 - INFO - ⏩ Skipping already processed tab: 'Faridabad'
+2025-11-06 12:34:39,084 - INFO - ⏩ Skipping already processed tab: 'Nashik'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Meerut'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Rajkot'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Kalyan-Dombivli'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Vasai-Virar'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Varanasi'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Srinagar'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Aurangabad'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Dhanbad'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Amritsar'
+2025-11-06 12:34:39,085 - INFO - ⏩ Skipping already processed tab: 'Navi Mumbai'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Prayagraj'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Howrah'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Ranchi'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Jabalpur'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Gwalior'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Coimbatore'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Vijayawada'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Jodhpur'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Madurai'
+2025-11-06 12:34:39,086 - INFO - ⏩ Skipping already processed tab: 'Raipur'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Kota'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Guwahati'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Chandigarh'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Solapur'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Hubli–Dharwad'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Tiruchirappalli'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Tiruppur'
+2025-11-06 12:34:39,087 - INFO - ⏩ Skipping already processed tab: 'Moradabad'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Mysore'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Bareilly'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Gurgaon'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Aligarh'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Jalandhar'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Bhubaneswar'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Salem'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Mira-Bhayandar'
+2025-11-06 12:34:39,088 - INFO - ⏩ Skipping already processed tab: 'Warangal'
+2025-11-06 12:34:39,089 - INFO - ⏩ Skipping already processed tab: 'Thiruvananthapuram'
+2025-11-06 12:34:39,089 - INFO - Reading 'Guntur' tab content...
+2025-11-06 12:34:40,619 - INFO - ✅ Updated WP page ID 549 for city 'Guntur'
+2025-11-06 12:34:41,473 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C65
+2025-11-06 12:34:41,476 - INFO - ⏩ Skipping already processed tab: 'Bhiwandi'
+2025-11-06 12:34:41,476 - INFO - ⏩ Skipping already processed tab: 'Saharanpur'
+2025-11-06 12:34:41,477 - INFO - ⏩ Skipping already processed tab: 'Gorakhpur'
+2025-11-06 12:34:41,477 - INFO - ⏩ Skipping already processed tab: 'Bikaner'
+2025-11-06 12:34:41,477 - INFO - ⏩ Skipping already processed tab: 'Amravati'
+2025-11-06 12:34:41,478 - INFO - ⏩ Skipping already processed tab: 'Noida'
+2025-11-06 12:34:41,478 - INFO - ⏩ Skipping already processed tab: 'Jamshedpur'
+2025-11-06 12:34:41,478 - INFO - ⏩ Skipping already processed tab: 'Bhilai'
+2025-11-06 12:34:41,478 - INFO - ⏩ Skipping already processed tab: 'Cuttack'
+2025-11-06 12:34:41,479 - INFO - ⏩ Skipping already processed tab: 'Firozabad'
+2025-11-06 12:34:41,479 - INFO - ⏩ Skipping already processed tab: 'Kochi'
+2025-11-06 12:34:41,480 - INFO - ⏩ Skipping already processed tab: 'Nellore'
+2025-11-06 12:34:41,480 - INFO - ⏩ Skipping already processed tab: 'Bhavnagar'
+2025-11-06 12:34:41,480 - INFO - ⏩ Skipping already processed tab: 'Dehradun'
+2025-11-06 12:34:41,481 - INFO - ⏩ Skipping already processed tab: 'Durgapur'
+2025-11-06 12:34:41,481 - INFO - ⏩ Skipping already processed tab: 'Asansol'
+2025-11-06 12:34:41,481 - INFO - ⏩ Skipping already processed tab: 'Nanded'
+2025-11-06 12:34:41,482 - INFO - ⏩ Skipping already processed tab: 'Kolhapur'
+2025-11-06 12:34:41,482 - INFO - ⏩ Skipping already processed tab: 'Ajmer'
+2025-11-06 12:34:41,482 - INFO - ⏩ Skipping already processed tab: 'Gulbarga'
+2025-11-06 12:34:41,483 - INFO - ⏩ Skipping already processed tab: 'Jamnagar'
+2025-11-06 12:34:41,483 - INFO - ⏩ Skipping already processed tab: 'Ujjain'
+2025-11-06 12:34:41,484 - INFO - ⏩ Skipping already processed tab: 'Loni'
+2025-11-06 12:34:41,484 - INFO - ⏩ Skipping already processed tab: 'Jhansi'
+2025-11-06 12:34:41,484 - INFO - ⏩ Skipping already processed tab: 'Ulhasnagar'
+2025-11-06 12:34:41,484 - INFO - ⏩ Skipping already processed tab: 'Jammu'
+2025-11-06 12:34:41,484 - INFO - ⏩ Skipping already processed tab: 'Sangli-Miraj & Kupwad'
+2025-11-06 12:34:41,486 - INFO - ⏩ Skipping already processed tab: 'Mangalore'
+2025-11-06 12:34:41,486 - INFO - ⏩ Skipping already processed tab: 'Erode'
+2025-11-06 12:34:41,486 - INFO - ⏩ Skipping already processed tab: 'Belgaum'
+2025-11-06 12:34:41,486 - INFO - ⏩ Skipping already processed tab: 'Ambattur'
+2025-11-06 12:34:41,486 - INFO - ⏩ Skipping already processed tab: 'Tirunelveli'
+2025-11-06 12:34:41,486 - INFO - Reading 'Malegaon' tab content...
+2025-11-06 12:34:41,487 - WARNING - 🚫 Skipping tab 'Malegaon' due to invalid internal link: https://www.satheesseo.com/about-sathees. Check all the internal links.
+2025-11-06 12:34:41,487 - INFO - ⏩ Skipping already processed tab: 'Gaya'
+2025-11-06 12:34:41,488 - INFO - ⏩ Skipping already processed tab: 'Jalgaon'
+2025-11-06 12:34:41,488 - INFO - ⏩ Skipping already processed tab: 'Udaipur'
+2025-11-06 12:34:41,488 - INFO - 📊 ===== Summary for Document: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ =====
+2025-11-06 12:34:41,488 - INFO - 📄 Total tabs: 100
+2025-11-06 12:34:41,488 - INFO - Processed Count: 1
+2025-11-06 12:34:41,488 - INFO - Skipped Count: 98
+2025-11-06 12:34:41,488 - INFO - Wrong City Name Count: 0
+2025-11-06 12:34:41,488 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 12:34:41,488 - INFO - Empty Tab Count: 0
+2025-11-06 12:34:41,488 - INFO - Subtab Count: 0
+2025-11-06 12:34:41,488 - INFO - *************************************************************************************************************
+2025-11-06 12:34:41,488 - INFO - *************************************************************************************************************
+2025-11-06 12:36:03,599 - INFO - ✅ Logging initialized successfully.
+2025-11-06 12:36:03,973 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 12:36:11,466 - INFO - ✅ Document 'India-SEO consultant-Harish' validated successfully.
+2025-11-06 12:36:13,373 - INFO - 📄 Document ID: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ has 100 tabs to process.
+2025-11-06 12:36:13,373 - INFO - ⏩ Skipping already processed tab: 'Mumbai'
+2025-11-06 12:36:13,373 - INFO - ⏩ Skipping already processed tab: 'Delhi'
+2025-11-06 12:36:13,373 - INFO - ⏩ Skipping already processed tab: 'Bengaluru'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Hyderabad'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Ahmedabad'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Chennai'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Kolkata'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Surat'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Pune'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Jaipur'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Lucknow'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Kanpur'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Nagpur'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Indore'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Thane'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Bhopal'
+2025-11-06 12:36:13,374 - INFO - ⏩ Skipping already processed tab: 'Visakhapatnam'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Pimpri-Chinchwad'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Patna'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Vadodara'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Ghaziabad'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Ludhiana'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Agra'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Faridabad'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Nashik'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Meerut'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Rajkot'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Kalyan-Dombivli'
+2025-11-06 12:36:13,375 - INFO - ⏩ Skipping already processed tab: 'Vasai-Virar'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Varanasi'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Srinagar'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Aurangabad'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Dhanbad'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Amritsar'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Navi Mumbai'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Prayagraj'
+2025-11-06 12:36:13,376 - INFO - ⏩ Skipping already processed tab: 'Howrah'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Ranchi'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Jabalpur'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Gwalior'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Coimbatore'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Vijayawada'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Jodhpur'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Madurai'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Raipur'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Kota'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Guwahati'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Chandigarh'
+2025-11-06 12:36:13,377 - INFO - ⏩ Skipping already processed tab: 'Solapur'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Hubli–Dharwad'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Tiruchirappalli'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Tiruppur'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Moradabad'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Mysore'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Bareilly'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Gurgaon'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Aligarh'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Jalandhar'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Bhubaneswar'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Salem'
+2025-11-06 12:36:13,378 - INFO - ⏩ Skipping already processed tab: 'Mira-Bhayandar'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Warangal'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Thiruvananthapuram'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Guntur'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Bhiwandi'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Saharanpur'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Gorakhpur'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Bikaner'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Amravati'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Noida'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Jamshedpur'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Bhilai'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Cuttack'
+2025-11-06 12:36:13,379 - INFO - ⏩ Skipping already processed tab: 'Firozabad'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Kochi'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Nellore'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Bhavnagar'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Dehradun'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Durgapur'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Asansol'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Nanded'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Kolhapur'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Ajmer'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Gulbarga'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Jamnagar'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Ujjain'
+2025-11-06 12:36:13,380 - INFO - ⏩ Skipping already processed tab: 'Loni'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Jhansi'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Ulhasnagar'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Jammu'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Sangli-Miraj & Kupwad'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Mangalore'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Erode'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Belgaum'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Ambattur'
+2025-11-06 12:36:13,381 - INFO - ⏩ Skipping already processed tab: 'Tirunelveli'
+2025-11-06 12:36:13,381 - INFO - Reading 'Malegaon' tab content...
+2025-11-06 12:36:13,389 - WARNING - 🚫 Skipping tab 'Malegaon' due to invalid internal link: https://www.satheesseo.com/best-seo-strategies-for-local-businesses. Check all the internal links.
+2025-11-06 12:36:13,390 - INFO - ⏩ Skipping already processed tab: 'Gaya'
+2025-11-06 12:36:13,390 - INFO - ⏩ Skipping already processed tab: 'Jalgaon'
+2025-11-06 12:36:13,390 - INFO - ⏩ Skipping already processed tab: 'Udaipur'
+2025-11-06 12:36:13,390 - INFO - 📊 ===== Summary for Document: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ =====
+2025-11-06 12:36:13,390 - INFO - 📄 Total tabs: 100
+2025-11-06 12:36:13,390 - INFO - Processed Count: 0
+2025-11-06 12:36:13,390 - INFO - Skipped Count: 99
+2025-11-06 12:36:13,390 - INFO - Wrong City Name Count: 0
+2025-11-06 12:36:13,390 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 12:36:13,390 - INFO - Empty Tab Count: 0
+2025-11-06 12:36:13,391 - INFO - Subtab Count: 0
+2025-11-06 12:36:13,391 - INFO - *************************************************************************************************************
+2025-11-06 12:36:13,391 - INFO - *************************************************************************************************************
+2025-11-06 12:38:44,453 - INFO - ✅ Logging initialized successfully.
+2025-11-06 12:38:45,387 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 12:38:52,908 - INFO - ✅ Document 'India-SEO consultant-Harish' validated successfully.
+2025-11-06 12:38:54,695 - INFO - 📄 Document ID: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ has 100 tabs to process.
+2025-11-06 12:38:54,695 - INFO - ⏩ Skipping already processed tab: 'Mumbai'
+2025-11-06 12:38:54,695 - INFO - ⏩ Skipping already processed tab: 'Delhi'
+2025-11-06 12:38:54,695 - INFO - ⏩ Skipping already processed tab: 'Bengaluru'
+2025-11-06 12:38:54,695 - INFO - ⏩ Skipping already processed tab: 'Hyderabad'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Ahmedabad'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Chennai'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Kolkata'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Surat'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Pune'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Jaipur'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Lucknow'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Kanpur'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Nagpur'
+2025-11-06 12:38:54,696 - INFO - ⏩ Skipping already processed tab: 'Indore'
+2025-11-06 12:38:54,697 - INFO - ⏩ Skipping already processed tab: 'Thane'
+2025-11-06 12:38:54,697 - INFO - ⏩ Skipping already processed tab: 'Bhopal'
+2025-11-06 12:38:54,697 - INFO - ⏩ Skipping already processed tab: 'Visakhapatnam'
+2025-11-06 12:38:54,697 - INFO - ⏩ Skipping already processed tab: 'Pimpri-Chinchwad'
+2025-11-06 12:38:54,697 - INFO - ⏩ Skipping already processed tab: 'Patna'
+2025-11-06 12:38:54,698 - INFO - ⏩ Skipping already processed tab: 'Vadodara'
+2025-11-06 12:38:54,698 - INFO - ⏩ Skipping already processed tab: 'Ghaziabad'
+2025-11-06 12:38:54,698 - INFO - ⏩ Skipping already processed tab: 'Ludhiana'
+2025-11-06 12:38:54,698 - INFO - ⏩ Skipping already processed tab: 'Agra'
+2025-11-06 12:38:54,698 - INFO - ⏩ Skipping already processed tab: 'Faridabad'
+2025-11-06 12:38:54,698 - INFO - ⏩ Skipping already processed tab: 'Nashik'
+2025-11-06 12:38:54,698 - INFO - ⏩ Skipping already processed tab: 'Meerut'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Rajkot'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Kalyan-Dombivli'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Vasai-Virar'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Varanasi'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Srinagar'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Aurangabad'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Dhanbad'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Amritsar'
+2025-11-06 12:38:54,699 - INFO - ⏩ Skipping already processed tab: 'Navi Mumbai'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Prayagraj'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Howrah'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Ranchi'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Jabalpur'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Gwalior'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Coimbatore'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Vijayawada'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Jodhpur'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Madurai'
+2025-11-06 12:38:54,700 - INFO - ⏩ Skipping already processed tab: 'Raipur'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Kota'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Guwahati'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Chandigarh'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Solapur'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Hubli–Dharwad'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Tiruchirappalli'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Tiruppur'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Moradabad'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Mysore'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Bareilly'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Gurgaon'
+2025-11-06 12:38:54,701 - INFO - ⏩ Skipping already processed tab: 'Aligarh'
+2025-11-06 12:38:54,702 - INFO - ⏩ Skipping already processed tab: 'Jalandhar'
+2025-11-06 12:38:54,702 - INFO - ⏩ Skipping already processed tab: 'Bhubaneswar'
+2025-11-06 12:38:54,702 - INFO - ⏩ Skipping already processed tab: 'Salem'
+2025-11-06 12:38:54,702 - INFO - ⏩ Skipping already processed tab: 'Mira-Bhayandar'
+2025-11-06 12:38:54,702 - INFO - ⏩ Skipping already processed tab: 'Warangal'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Thiruvananthapuram'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Guntur'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Bhiwandi'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Saharanpur'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Gorakhpur'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Bikaner'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Amravati'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Noida'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Jamshedpur'
+2025-11-06 12:38:54,711 - INFO - ⏩ Skipping already processed tab: 'Bhilai'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Cuttack'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Firozabad'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Kochi'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Nellore'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Bhavnagar'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Dehradun'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Durgapur'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Asansol'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Nanded'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Kolhapur'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Ajmer'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Gulbarga'
+2025-11-06 12:38:54,712 - INFO - ⏩ Skipping already processed tab: 'Jamnagar'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Ujjain'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Loni'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Jhansi'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Ulhasnagar'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Jammu'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Sangli-Miraj & Kupwad'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Mangalore'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Erode'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Belgaum'
+2025-11-06 12:38:54,713 - INFO - ⏩ Skipping already processed tab: 'Ambattur'
+2025-11-06 12:38:54,714 - INFO - ⏩ Skipping already processed tab: 'Tirunelveli'
+2025-11-06 12:38:54,714 - INFO - Reading 'Malegaon' tab content...
+2025-11-06 12:38:57,800 - INFO - ✅ Updated WP page ID 641 for city 'Malegaon'
+2025-11-06 12:39:00,107 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C98
+2025-11-06 12:39:00,110 - INFO - ⏩ Skipping already processed tab: 'Gaya'
+2025-11-06 12:39:00,111 - INFO - ⏩ Skipping already processed tab: 'Jalgaon'
+2025-11-06 12:39:00,111 - INFO - ⏩ Skipping already processed tab: 'Udaipur'
+2025-11-06 12:39:00,111 - INFO - 📊 ===== Summary for Document: 18taICbarlvSyiQQ7xf10lGXTucO-5u81B1Iq9IXTpDQ =====
+2025-11-06 12:39:00,112 - INFO - 📄 Total tabs: 100
+2025-11-06 12:39:00,112 - INFO - Processed Count: 1
+2025-11-06 12:39:00,112 - INFO - Skipped Count: 99
+2025-11-06 12:39:00,112 - INFO - Wrong City Name Count: 0
+2025-11-06 12:39:00,112 - INFO - Wrong Internal Link Content Count: 0
+2025-11-06 12:39:00,112 - INFO - Empty Tab Count: 0
+2025-11-06 12:39:00,112 - INFO - Subtab Count: 0
+2025-11-06 12:39:00,113 - INFO - *************************************************************************************************************
+2025-11-06 12:39:00,113 - INFO - *************************************************************************************************************
+2025-11-06 13:20:11,883 - INFO - ✅ Logging initialized successfully.
+2025-11-06 13:20:12,457 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 13:20:25,375 - ERROR - ❌ Failed to read or validate document 'India-SEO consultant-Harish': Meta validation failed — wrong doc, country, or category name.
+Traceback (most recent call last):
+  File "/home/bala/code/wp_page_builder/content_replacer.py", line 85, in read_document
+    raise ValueError("Meta validation failed — wrong doc, country, or category name.")
+ValueError: Meta validation failed — wrong doc, country, or category name.
+2025-11-06 14:53:15,157 - INFO - ✅ Logging initialized successfully.
+2025-11-06 14:53:15,800 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 14:53:25,667 - INFO - ✅ Document ' SEO Consultant- canada-1 -jaivarman ' validated successfully.
+2025-11-06 14:53:28,086 - INFO - 📄 Document ID: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c has 99 tabs to process.
+2025-11-06 14:53:28,086 - INFO - Reading 'Toronto' tab content...
+2025-11-06 14:53:31,109 - INFO - ✅ Updated WP page ID 871 for city 'Toronto'
+2025-11-06 14:53:31,861 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C2
+2025-11-06 14:53:31,878 - INFO - Reading 'Montreal' tab content...
+2025-11-06 14:53:35,039 - INFO - ✅ Updated WP page ID 20691 for city 'Montreal'
+2025-11-06 14:53:35,634 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C3
+2025-11-06 14:53:35,637 - INFO - Reading 'Calgary' tab content...
+2025-11-06 14:53:37,548 - INFO - ✅ Updated WP page ID 878 for city 'Calgary'
+2025-11-06 14:53:39,324 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C4
+2025-11-06 14:53:39,339 - INFO - Reading 'Ottawa' tab content...
+2025-11-06 14:53:45,185 - INFO - ✅ Updated WP page ID 881 for city 'Ottawa'
+2025-11-06 14:53:46,251 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C5
+2025-11-06 14:53:46,253 - INFO - Reading 'Edmonton' tab content...
+2025-11-06 14:53:52,021 - INFO - ✅ Updated WP page ID 883 for city 'Edmonton'
+2025-11-06 14:53:53,123 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C6
+2025-11-06 14:53:53,141 - INFO - Reading 'Winnipeg' tab content...
+2025-11-06 14:53:57,409 - INFO - ✅ Updated WP page ID 888 for city 'Winnipeg'
+2025-11-06 14:53:58,450 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C7
+2025-11-06 14:53:58,452 - INFO - Reading 'Mississauga' tab content...
+2025-11-06 14:54:04,097 - INFO - ✅ Updated WP page ID 890 for city 'Mississauga'
+2025-11-06 14:54:04,870 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C8
+2025-11-06 14:54:04,873 - INFO - Reading 'Vancouver' tab content...
+2025-11-06 14:54:07,568 - INFO - ✅ Updated WP page ID 893 for city 'Vancouver'
+2025-11-06 14:54:08,586 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C9
+2025-11-06 14:54:08,589 - INFO - Reading 'Brampton' tab content...
+2025-11-06 14:54:12,425 - INFO - ✅ Updated WP page ID 897 for city 'Brampton'
+2025-11-06 14:54:13,248 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C10
+2025-11-06 14:54:13,251 - INFO - Reading 'Hamilton' tab content...
+2025-11-06 14:54:16,753 - INFO - ✅ Updated WP page ID 927 for city 'Hamilton'
+2025-11-06 14:54:17,248 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C11
+2025-11-06 14:54:17,251 - INFO - Reading 'Surrey' tab content...
+2025-11-06 14:54:21,410 - INFO - ✅ Updated WP page ID 929 for city 'Surrey'
+2025-11-06 14:54:21,968 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C12
+2025-11-06 14:54:21,971 - INFO - Reading 'Quebec City' tab content...
+2025-11-06 14:54:23,870 - INFO - ✅ Updated WP page ID 931 for city 'Quebec City'
+2025-11-06 14:54:24,440 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C13
+2025-11-06 14:54:24,443 - INFO - Reading 'Halifax' tab content...
+2025-11-06 14:54:27,375 - INFO - ✅ Updated WP page ID 935 for city 'Halifax'
+2025-11-06 14:54:28,065 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C14
+2025-11-06 14:54:28,313 - INFO - Reading 'Laval' tab content...
+2025-11-06 14:54:32,463 - INFO - ✅ Updated WP page ID 938 for city 'Laval'
+2025-11-06 14:54:33,373 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C15
+2025-11-06 14:54:33,421 - INFO - Reading 'London' tab content...
+2025-11-06 14:54:37,385 - INFO - ✅ Updated WP page ID 940 for city 'London'
+2025-11-06 14:54:38,330 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C16
+2025-11-06 14:54:38,333 - INFO - Reading 'Markham' tab content...
+2025-11-06 14:54:42,388 - INFO - ✅ Updated WP page ID 943 for city 'Markham'
+2025-11-06 14:54:43,133 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C17
+2025-11-06 14:54:43,145 - INFO - Reading 'Vaughan' tab content...
+2025-11-06 14:54:46,262 - INFO - ✅ Updated WP page ID 945 for city 'Vaughan'
+2025-11-06 14:54:47,017 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C18
+2025-11-06 14:54:47,046 - INFO - Reading 'Gatineau' tab content...
+2025-11-06 14:54:49,735 - INFO - ✅ Updated WP page ID 948 for city 'Gatineau'
+2025-11-06 14:54:50,408 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C19
+2025-11-06 14:54:50,412 - INFO - Reading 'Saskatoon' tab content...
+2025-11-06 14:54:53,638 - INFO - ✅ Updated WP page ID 950 for city 'Saskatoon'
+2025-11-06 14:54:54,357 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C20
+2025-11-06 14:54:54,361 - INFO - Reading 'Kitchener' tab content...
+2025-11-06 14:54:57,537 - INFO - ✅ Updated WP page ID 953 for city 'Kitchener'
+2025-11-06 14:54:58,289 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C21
+2025-11-06 14:54:58,291 - INFO - Reading 'Longueuil' tab content...
+2025-11-06 14:55:01,677 - INFO - ✅ Updated WP page ID 955 for city 'Longueuil'
+2025-11-06 14:55:02,340 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C22
+2025-11-06 14:55:02,344 - INFO - Reading 'Burnaby' tab content...
+2025-11-06 14:55:06,056 - INFO - ✅ Updated WP page ID 957 for city 'Burnaby'
+2025-11-06 14:55:06,779 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C23
+2025-11-06 14:55:06,782 - INFO - Reading 'Windsor' tab content...
+2025-11-06 14:55:13,434 - INFO - ✅ Updated WP page ID 959 for city 'Windsor'
+2025-11-06 14:55:14,015 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C24
+2025-11-06 14:55:14,019 - INFO - Reading 'Regina' tab content...
+2025-11-06 14:55:15,984 - INFO - ✅ Updated WP page ID 961 for city 'Regina'
+2025-11-06 14:55:16,670 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C25
+2025-11-06 14:55:16,673 - INFO - Reading 'Oakville' tab content...
+2025-11-06 14:55:19,268 - INFO - ✅ Updated WP page ID 963 for city 'Oakville'
+2025-11-06 14:55:19,824 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C26
+2025-11-06 14:55:19,827 - INFO - Reading 'Richmond' tab content...
+2025-11-06 14:55:23,824 - INFO - ✅ Updated WP page ID 965 for city 'Richmond'
+2025-11-06 14:55:24,533 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C27
+2025-11-06 14:55:24,536 - INFO - Reading 'Richmond Hill' tab content...
+2025-11-06 14:55:28,202 - INFO - ✅ Updated WP page ID 967 for city 'Richmond Hill'
+2025-11-06 14:55:28,796 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C28
+2025-11-06 14:55:28,986 - INFO - Reading 'Burlington' tab content...
+2025-11-06 14:55:31,304 - INFO - ✅ Updated WP page ID 969 for city 'Burlington'
+2025-11-06 14:55:31,807 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C29
+2025-11-06 14:55:31,811 - INFO - Reading 'Oshawa' tab content...
+2025-11-06 14:55:31,817 - WARNING - 🚫 Skipping tab 'Oshawa' due to invalid internal link: https://www.satheesseo.com/about/. Check all the internal links.
+2025-11-06 14:55:31,818 - INFO - Reading 'Sherbrooke' tab content...
+2025-11-06 14:55:33,546 - INFO - ✅ Updated WP page ID 973 for city 'Sherbrooke'
+2025-11-06 14:55:34,189 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C31
+2025-11-06 14:55:34,217 - INFO - Reading 'Greater Sudbury' tab content...
+2025-11-06 14:55:36,143 - INFO - ✅ Updated WP page ID 21049 for city 'Greater Sudbury'
+2025-11-06 14:55:36,648 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C32
+2025-11-06 14:55:36,651 - INFO - Reading 'Abbotsford' tab content...
+2025-11-06 14:55:38,891 - INFO - ✅ Updated WP page ID 977 for city 'Abbotsford'
+2025-11-06 14:55:39,684 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C33
+2025-11-06 14:55:39,688 - INFO - Reading 'Lévis' tab content...
+2025-11-06 14:55:41,889 - INFO - ✅ Updated WP page ID 979 for city 'Lévis'
+2025-11-06 14:55:42,370 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C34
+2025-11-06 14:55:42,374 - INFO - Reading 'Coquitlam' tab content...
+2025-11-06 14:55:46,492 - INFO - ✅ Updated WP page ID 1036 for city 'Coquitlam'
+2025-11-06 14:55:47,033 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C35
+2025-11-06 14:55:47,037 - INFO - Reading 'Barrie' tab content...
+2025-11-06 14:55:50,145 - INFO - ✅ Updated WP page ID 1039 for city 'Barrie'
+2025-11-06 14:55:51,068 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C36
+2025-11-06 14:55:51,070 - INFO - Reading 'Saguenay' tab content...
+2025-11-06 14:55:56,959 - INFO - ✅ Updated WP page ID 1045 for city 'Saguenay'
+2025-11-06 14:55:57,647 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C37
+2025-11-06 14:55:57,649 - INFO - Reading 'Kelowna' tab content...
+2025-11-06 14:55:59,355 - INFO - ✅ Updated WP page ID 1047 for city 'Kelowna'
+2025-11-06 14:55:59,959 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C38
+2025-11-06 14:55:59,961 - INFO - Reading 'Guelph' tab content...
+2025-11-06 14:56:02,950 - INFO - ✅ Updated WP page ID 1049 for city 'Guelph'
+2025-11-06 14:56:03,652 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C39
+2025-11-06 14:56:03,655 - INFO - Reading 'Trois-Rivières' tab content...
+2025-11-06 14:56:03,656 - WARNING - 🚫 Skipping tab 'Trois-Rivières' due to invalid internal link: https://www.satheesseo.com/about/. Check all the internal links.
+2025-11-06 14:56:03,656 - INFO - Reading 'Whitby' tab content...
+2025-11-06 14:56:06,614 - INFO - ✅ Updated WP page ID 1058 for city 'Whitby'
+2025-11-06 14:56:07,221 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C41
+2025-11-06 14:56:07,224 - INFO - Reading 'Cambridge' tab content...
+2025-11-06 14:56:09,772 - INFO - ✅ Updated WP page ID 1063 for city 'Cambridge'
+2025-11-06 14:56:10,249 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C42
+2025-11-06 14:56:10,252 - INFO - Reading 'St. Catharines' tab content...
+2025-11-06 14:56:18,246 - INFO - ✅ Updated WP page ID 1066 for city 'St. Catharines'
+2025-11-06 14:56:22,145 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C43
+2025-11-06 14:56:22,160 - INFO - Reading 'Milton' tab content...
+2025-11-06 14:56:25,200 - INFO - ✅ Updated WP page ID 1071 for city 'Milton'
+2025-11-06 14:56:25,650 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C44
+2025-11-06 14:56:25,655 - INFO - Reading 'Langley' tab content...
+2025-11-06 14:56:32,157 - INFO - ✅ Updated WP page ID 1076 for city 'Langley'
+2025-11-06 14:56:32,985 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C45
+2025-11-06 14:56:33,028 - INFO - Reading 'Kingston' tab content...
+2025-11-06 14:56:35,312 - INFO - ✅ Updated WP page ID 1080 for city 'Kingston'
+2025-11-06 14:56:39,085 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C46
+2025-11-06 14:56:39,088 - INFO - Reading 'Ajax' tab content...
+2025-11-06 14:56:43,437 - INFO - ✅ Updated WP page ID 1083 for city 'Ajax'
+2025-11-06 14:56:44,346 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C47
+2025-11-06 14:56:44,349 - INFO - Reading 'Waterloo' tab content...
+2025-11-06 14:56:44,435 - WARNING - 🚫 Skipping tab 'Waterloo' due to invalid internal link: https://www.satheesseo.com/contact/. Check all the internal links.
+2025-11-06 14:56:44,435 - INFO - Reading 'Terrebonne' tab content...
+2025-11-06 14:56:48,711 - INFO - ✅ Updated WP page ID 1090 for city 'Terrebonne'
+2025-11-06 14:56:49,387 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C49
+2025-11-06 14:56:49,391 - INFO - Reading 'Saanich' tab content...
+2025-11-06 14:56:51,332 - INFO - ✅ Updated WP page ID 1094 for city 'Saanich'
+2025-11-06 14:56:51,935 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C50
+2025-11-06 14:56:51,937 - INFO - Reading 'St. John's' tab content...
+2025-11-06 14:56:53,912 - INFO - ✅ Updated WP page ID 1239 for city 'St. John's'
+2025-11-06 14:56:56,657 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C51
+2025-11-06 14:56:56,679 - INFO - Reading 'Thunder Bay' tab content...
+2025-11-06 14:56:59,368 - INFO - ✅ Updated WP page ID 1253 for city 'Thunder Bay'
+2025-11-06 14:57:00,031 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C52
+2025-11-06 14:57:00,033 - INFO - Reading 'Delta' tab content...
+2025-11-06 14:57:01,886 - INFO - ✅ Updated WP page ID 1243 for city 'Delta'
+2025-11-06 14:57:02,710 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C53
+2025-11-06 14:57:02,713 - INFO - Reading 'Brantford' tab content...
+2025-11-06 14:57:04,842 - INFO - ✅ Updated WP page ID 1240 for city 'Brantford'
+2025-11-06 14:57:05,395 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C54
+2025-11-06 14:57:05,397 - INFO - Reading 'Chatham-Kent' tab content...
+2025-11-06 14:57:08,998 - INFO - ✅ Updated WP page ID 3054 for city 'Chatham-Kent'
+2025-11-06 14:57:09,545 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C55
+2025-11-06 14:57:09,548 - INFO - Reading 'Clarington' tab content...
+2025-11-06 14:57:11,776 - INFO - ✅ Updated WP page ID 1248 for city 'Clarington'
+2025-11-06 14:57:12,498 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C56
+2025-11-06 14:57:12,519 - INFO - Reading 'Red Deer' tab content...
+2025-11-06 14:57:17,499 - INFO - ✅ Updated WP page ID 1249 for city 'Red Deer'
+2025-11-06 14:57:19,003 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C57
+2025-11-06 14:57:19,007 - INFO - Reading 'Nanaimo' tab content...
+2025-11-06 14:57:40,148 - INFO - ✅ Updated WP page ID 1261 for city 'Nanaimo'
+2025-11-06 14:57:40,832 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C58
+2025-11-06 14:57:40,840 - INFO - Reading 'Strathcona County' tab content...
+2025-11-06 14:57:43,886 - INFO - ✅ Updated WP page ID 1263 for city 'Strathcona County'
+2025-11-06 14:57:45,404 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C59
+2025-11-06 14:57:45,405 - INFO - Reading 'Pickering' tab content...
+2025-11-06 14:57:49,951 - INFO - ✅ Updated WP page ID 1268 for city 'Pickering'
+2025-11-06 14:57:50,947 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C60
+2025-11-06 14:57:50,952 - INFO - Reading 'Lethbridge' tab content...
+2025-11-06 14:57:54,211 - INFO - ✅ Updated WP page ID 1267 for city 'Lethbridge'
+2025-11-06 14:57:54,980 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C61
+2025-11-06 14:57:54,984 - INFO - Reading 'Kamloops' tab content...
+2025-11-06 14:57:58,375 - INFO - ✅ Updated WP page ID 1274 for city 'Kamloops'
+2025-11-06 14:57:58,856 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C62
+2025-11-06 14:57:58,861 - INFO - Reading 'Niagara Falls' tab content...
+2025-11-06 14:58:00,642 - INFO - ✅ Updated WP page ID 1278 for city 'Niagara Falls'
+2025-11-06 14:58:01,147 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C64
+2025-11-06 14:58:01,152 - INFO - Reading 'Cape Breton' tab content...
+2025-11-06 14:58:02,696 - INFO - ✅ Updated WP page ID 1279 for city 'Cape Breton'
+2025-11-06 14:58:03,432 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C65
+2025-11-06 14:58:03,438 - INFO - Reading 'Chilliwack' tab content...
+2025-11-06 14:58:03,439 - WARNING - 🚫 Skipping tab 'Chilliwack' due to invalid internal link: https://satheesseo.com/about/. Check all the internal links.
+2025-11-06 14:58:03,439 - INFO - Reading 'Victoria' tab content...
+2025-11-06 14:58:07,829 - INFO - ✅ Updated WP page ID 1286 for city 'Victoria'
+2025-11-06 14:58:08,520 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C67
+2025-11-06 14:58:08,524 - INFO - Reading 'Brossard' tab content...
+2025-11-06 14:58:11,160 - INFO - ✅ Updated WP page ID 1289 for city 'Brossard'
+2025-11-06 14:58:12,283 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C68
+2025-11-06 14:58:12,286 - INFO - Reading 'Maple Ridge' tab content...
+2025-11-06 14:58:15,700 - INFO - ✅ Updated WP page ID 1294 for city 'Maple Ridge'
+2025-11-06 14:58:16,566 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C69
+2025-11-06 14:58:16,619 - INFO - Reading 'North Vancouver' tab content...
+2025-11-06 14:58:20,246 - INFO - ✅ Updated WP page ID 1298 for city 'North Vancouver'
+2025-11-06 14:58:21,342 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C70
+2025-11-06 14:58:21,344 - INFO - Reading 'Newmarket' tab content...
+2025-11-06 14:58:24,832 - INFO - ✅ Updated WP page ID 1292 for city 'Newmarket'
+2025-11-06 14:58:25,450 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C71
+2025-11-06 14:58:25,453 - INFO - Reading 'Repentigny' tab content...
+2025-11-06 14:58:28,768 - INFO - ✅ Updated WP page ID 1293 for city 'Repentigny'
+2025-11-06 14:58:29,424 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C72
+2025-11-06 14:58:29,426 - INFO - Reading 'Peterborough' tab content...
+2025-11-06 14:58:31,105 - INFO - ✅ Updated WP page ID 1311 for city 'Peterborough'
+2025-11-06 14:58:31,758 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C73
+2025-11-06 14:58:32,263 - INFO - Reading 'Saint-Jérôme' tab content...
+2025-11-06 14:58:34,913 - INFO - ✅ Updated WP page ID 1306 for city 'Saint-Jérôme'
+2025-11-06 14:58:35,621 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C74
+2025-11-06 14:58:35,626 - INFO - Reading 'Moncton' tab content...
+2025-11-06 14:58:37,487 - INFO - ✅ Updated WP page ID 1314 for city 'Moncton'
+2025-11-06 14:58:38,277 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C75
+2025-11-06 14:58:38,282 - INFO - Reading 'Drummondville' tab content...
+2025-11-06 14:58:38,354 - WARNING - 🚫 Skipping tab 'Drummondville' due to invalid internal link: https://www.drummondeconomique.ca/en/invest/. Check all the internal links.
+2025-11-06 14:58:38,357 - INFO - Reading 'Kawartha Lakes' tab content...
+2025-11-06 14:58:43,173 - INFO - ✅ Updated WP page ID 1318 for city 'Kawartha Lakes'
+2025-11-06 14:58:43,980 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C77
+2025-11-06 14:58:43,982 - INFO - Reading 'New Westminster' tab content...
+2025-11-06 14:58:47,154 - INFO - ✅ Updated WP page ID 1309 for city 'New Westminster'
+2025-11-06 14:58:47,868 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C78
+2025-11-06 14:58:47,881 - INFO - Reading 'Prince George' tab content...
+2025-11-06 14:58:50,557 - INFO - ✅ Updated WP page ID 1310 for city 'Prince George'
+2025-11-06 14:58:51,264 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C79
+2025-11-06 14:58:51,295 - INFO - Reading 'Caledon' tab content...
+2025-11-06 14:58:54,563 - INFO - ✅ Updated WP page ID 1322 for city 'Caledon'
+2025-11-06 14:58:55,263 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C80
+2025-11-06 14:58:55,304 - INFO - Reading 'Airdrie' tab content...
+2025-11-06 14:58:58,921 - INFO - ✅ Updated WP page ID 1328 for city 'Airdrie'
+2025-11-06 14:58:59,740 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C81
+2025-11-06 14:58:59,742 - INFO - Reading 'Wood Buffalo' tab content...
+2025-11-06 14:59:02,360 - INFO - ✅ Updated WP page ID 1324 for city 'Wood Buffalo'
+2025-11-06 14:59:02,979 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C82
+2025-11-06 14:59:02,982 - INFO - Reading 'Sault Ste. Marie' tab content...
+2025-11-06 14:59:06,923 - INFO - ✅ Updated WP page ID 1325 for city 'Sault Ste. Marie'
+2025-11-06 14:59:07,712 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C83
+2025-11-06 14:59:07,721 - INFO - Reading 'Sarnia' tab content...
+2025-11-06 14:59:10,083 - INFO - ✅ Updated WP page ID 1330 for city 'Sarnia'
+2025-11-06 14:59:10,564 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C84
+2025-11-06 14:59:10,569 - INFO - Reading 'Saint John' tab content...
+2025-11-06 14:59:17,457 - INFO - ✅ Updated WP page ID 1331 for city 'Saint John'
+2025-11-06 14:59:18,039 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C85
+2025-11-06 14:59:18,123 - INFO - Reading 'Granby' tab content...
+2025-11-06 14:59:18,125 - WARNING - 🚫 Skipping tab 'Granby' due to invalid internal link: https://www.satheesseo.com/about/. Check all the internal links.
+2025-11-06 14:59:18,125 - INFO - Reading 'St. Albert' tab content...
+2025-11-06 14:59:21,638 - INFO - ✅ Updated WP page ID 1429 for city 'St. Albert'
+2025-11-06 14:59:22,322 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C87
+2025-11-06 14:59:22,431 - INFO - Reading 'Norfolk County' tab content...
+2025-11-06 14:59:24,380 - INFO - ✅ Updated WP page ID 1431 for city 'Norfolk County'
+2025-11-06 14:59:24,872 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C88
+2025-11-06 14:59:24,877 - INFO - Reading 'Grande Prairie' tab content...
+2025-11-06 14:59:27,044 - INFO - ✅ Updated WP page ID 1440 for city 'Grande Prairie'
+2025-11-06 14:59:27,573 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C89
+2025-11-06 14:59:27,576 - INFO - Reading 'Medicine Hat' tab content...
+2025-11-06 14:59:29,443 - INFO - ✅ Updated WP page ID 1443 for city 'Medicine Hat'
+2025-11-06 14:59:29,910 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C90
+2025-11-06 14:59:29,914 - INFO - Reading 'Fredericton' tab content...
+2025-11-06 14:59:33,655 - INFO - ✅ Updated WP page ID 1450 for city 'Fredericton'
+2025-11-06 14:59:34,291 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C91
+2025-11-06 14:59:34,296 - INFO - Reading 'Halton Hills' tab content...
+2025-11-06 14:59:40,047 - INFO - ✅ Updated WP page ID 1467 for city 'Halton Hills'
+2025-11-06 14:59:40,534 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C92
+2025-11-06 14:59:40,538 - INFO - Reading 'Aurora' tab content...
+2025-11-06 14:59:43,467 - INFO - ✅ Updated WP page ID 1471 for city 'Aurora'
+2025-11-06 14:59:44,101 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C93
+2025-11-06 14:59:44,114 - INFO - Reading 'Port Coquitlam' tab content...
+2025-11-06 14:59:46,330 - INFO - ✅ Updated WP page ID 1474 for city 'Port Coquitlam'
+2025-11-06 14:59:47,311 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C94
+2025-11-06 14:59:47,490 - INFO - Reading 'Mirabel' tab content...
+2025-11-06 14:59:54,628 - INFO - ✅ Updated WP page ID 1484 for city 'Mirabel'
+2025-11-06 14:59:55,669 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C95
+2025-11-06 14:59:55,672 - INFO - Reading 'Blainville' tab content...
+2025-11-06 14:59:59,836 - INFO - ✅ Updated WP page ID 14901 for city 'Blainville'
+2025-11-06 15:00:00,408 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C96
+2025-11-06 15:00:00,411 - INFO - Reading 'Saint-Hyacinthe' tab content...
+2025-11-06 15:00:02,265 - INFO - ✅ Updated WP page ID 1501 for city 'Saint-Hyacinthe'
+2025-11-06 15:00:02,776 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C97
+2025-11-06 15:00:02,779 - INFO - Reading 'Welland' tab content...
+2025-11-06 15:00:04,487 - INFO - ✅ Updated WP page ID 1504 for city 'Welland'
+2025-11-06 15:00:05,191 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C98
+2025-11-06 15:00:05,193 - INFO - Reading 'Belleville' tab content...
+2025-11-06 15:00:09,155 - INFO - ✅ Updated WP page ID 1509 for city 'Belleville'
+2025-11-06 15:00:09,731 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C99
+2025-11-06 15:00:09,735 - INFO - Reading 'North Bay' tab content...
+2025-11-06 15:00:11,726 - INFO - ✅ Updated WP page ID 1514 for city 'North Bay'
+2025-11-06 15:00:12,355 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C100
+2025-11-06 15:00:12,359 - INFO - Reading 'Scarborough' tab content...
+2025-11-06 15:00:14,221 - INFO - ✅ Updated WP page ID 43552 for city 'Scarborough'
+2025-11-06 15:00:14,803 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C101
+2025-11-06 15:00:14,807 - INFO - 📊 ===== Summary for Document: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c =====
+2025-11-06 15:00:14,808 - INFO - 📄 Total tabs: 99
+2025-11-06 15:00:14,808 - INFO - Processed Count: 93
+2025-11-06 15:00:14,808 - INFO - Skipped Count: 0
+2025-11-06 15:00:14,808 - INFO - Wrong City Name Count: 0
+2025-11-06 15:00:14,808 - INFO - Wrong Internal Link Content Count: 6
+2025-11-06 15:00:14,808 - INFO - Empty Tab Count: 0
+2025-11-06 15:00:14,808 - INFO - Subtab Count: 0
+2025-11-06 15:00:14,810 - INFO - *************************************************************************************************************
+2025-11-06 15:00:14,816 - INFO - *************************************************************************************************************
+2025-11-06 15:40:04,758 - INFO - ✅ Logging initialized successfully.
+2025-11-06 15:40:05,710 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 15:40:15,593 - INFO - ✅ Document ' SEO Consultant- canada-1 -jaivarman ' validated successfully.
+2025-11-06 15:40:17,347 - INFO - 📄 Document ID: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c has 100 tabs to process.
+2025-11-06 15:40:17,347 - INFO - ⏩ Skipping already processed tab: 'Toronto'
+2025-11-06 15:40:17,347 - INFO - ⏩ Skipping already processed tab: 'Montreal'
+2025-11-06 15:40:17,348 - INFO - ⏩ Skipping already processed tab: 'Calgary'
+2025-11-06 15:40:17,348 - INFO - ⏩ Skipping already processed tab: 'Ottawa'
+2025-11-06 15:40:17,349 - INFO - ⏩ Skipping already processed tab: 'Edmonton'
+2025-11-06 15:40:17,349 - INFO - ⏩ Skipping already processed tab: 'Winnipeg'
+2025-11-06 15:40:17,349 - INFO - ⏩ Skipping already processed tab: 'Mississauga'
+2025-11-06 15:40:17,349 - INFO - ⏩ Skipping already processed tab: 'Vancouver'
+2025-11-06 15:40:17,350 - INFO - ⏩ Skipping already processed tab: 'Brampton'
+2025-11-06 15:40:17,350 - INFO - ⏩ Skipping already processed tab: 'Hamilton'
+2025-11-06 15:40:17,350 - INFO - ⏩ Skipping already processed tab: 'Surrey'
+2025-11-06 15:40:17,350 - INFO - ⏩ Skipping already processed tab: 'Quebec City'
+2025-11-06 15:40:17,351 - INFO - ⏩ Skipping already processed tab: 'Halifax'
+2025-11-06 15:40:17,352 - INFO - ⏩ Skipping already processed tab: 'Laval'
+2025-11-06 15:40:17,352 - INFO - ⏩ Skipping already processed tab: 'London'
+2025-11-06 15:40:17,352 - INFO - ⏩ Skipping already processed tab: 'Markham'
+2025-11-06 15:40:17,353 - INFO - ⏩ Skipping already processed tab: 'Vaughan'
+2025-11-06 15:40:17,353 - INFO - ⏩ Skipping already processed tab: 'Gatineau'
+2025-11-06 15:40:17,353 - INFO - ⏩ Skipping already processed tab: 'Saskatoon'
+2025-11-06 15:40:17,353 - INFO - ⏩ Skipping already processed tab: 'Kitchener'
+2025-11-06 15:40:17,354 - INFO - ⏩ Skipping already processed tab: 'Longueuil'
+2025-11-06 15:40:17,354 - INFO - ⏩ Skipping already processed tab: 'Burnaby'
+2025-11-06 15:40:17,354 - INFO - ⏩ Skipping already processed tab: 'Windsor'
+2025-11-06 15:40:17,355 - INFO - ⏩ Skipping already processed tab: 'Regina'
+2025-11-06 15:40:17,355 - INFO - ⏩ Skipping already processed tab: 'Oakville'
+2025-11-06 15:40:17,355 - INFO - ⏩ Skipping already processed tab: 'Richmond'
+2025-11-06 15:40:17,355 - INFO - ⏩ Skipping already processed tab: 'Richmond Hill'
+2025-11-06 15:40:17,356 - INFO - ⏩ Skipping already processed tab: 'Burlington'
+2025-11-06 15:40:17,356 - INFO - Reading 'Oshawa' tab content...
+2025-11-06 15:40:17,365 - WARNING - 🚫 Skipping tab 'Oshawa' due to invalid internal link: https://www.satheesseo.com/blog/best-seo-strategies-for-local-businesses/. Check all the internal links.
+2025-11-06 15:40:17,365 - INFO - ⏩ Skipping already processed tab: 'Sherbrooke'
+2025-11-06 15:40:17,365 - INFO - ⏩ Skipping already processed tab: 'Greater Sudbury'
+2025-11-06 15:40:17,366 - INFO - ⏩ Skipping already processed tab: 'Abbotsford'
+2025-11-06 15:40:17,366 - INFO - ⏩ Skipping already processed tab: 'Lévis'
+2025-11-06 15:40:17,366 - INFO - ⏩ Skipping already processed tab: 'Coquitlam'
+2025-11-06 15:40:17,366 - INFO - ⏩ Skipping already processed tab: 'Barrie'
+2025-11-06 15:40:17,366 - INFO - ⏩ Skipping already processed tab: 'Saguenay'
+2025-11-06 15:40:17,366 - INFO - ⏩ Skipping already processed tab: 'Kelowna'
+2025-11-06 15:40:17,366 - INFO - ⏩ Skipping already processed tab: 'Guelph'
+2025-11-06 15:40:17,366 - INFO - Reading 'Trois-Rivières' tab content...
+2025-11-06 15:40:17,368 - WARNING - 🚫 Skipping tab 'Trois-Rivières' due to invalid internal link: https://www.satheesseo.com/blog/best-seo-strategies-for-local-businesses/. Check all the internal links.
+2025-11-06 15:40:17,369 - INFO - ⏩ Skipping already processed tab: 'Whitby'
+2025-11-06 15:40:17,369 - INFO - ⏩ Skipping already processed tab: 'Cambridge'
+2025-11-06 15:40:17,369 - INFO - ⏩ Skipping already processed tab: 'St. Catharines'
+2025-11-06 15:40:17,369 - INFO - ⏩ Skipping already processed tab: 'Milton'
+2025-11-06 15:40:17,369 - INFO - ⏩ Skipping already processed tab: 'Langley'
+2025-11-06 15:40:17,369 - INFO - ⏩ Skipping already processed tab: 'Kingston'
+2025-11-06 15:40:17,369 - INFO - ⏩ Skipping already processed tab: 'Ajax'
+2025-11-06 15:40:17,369 - INFO - Reading 'Waterloo' tab content...
+2025-11-06 15:40:17,372 - WARNING - 🚫 Skipping tab 'Waterloo' due to invalid internal link: https://www.satheesseo.com/contact/. Check all the internal links.
+2025-11-06 15:40:17,372 - INFO - ⏩ Skipping already processed tab: 'Terrebonne'
+2025-11-06 15:40:17,372 - INFO - ⏩ Skipping already processed tab: 'Saanich'
+2025-11-06 15:40:17,372 - INFO - ⏩ Skipping already processed tab: 'St. John's'
+2025-11-06 15:40:17,373 - INFO - ⏩ Skipping already processed tab: 'Thunder Bay'
+2025-11-06 15:40:17,373 - INFO - ⏩ Skipping already processed tab: 'Delta'
+2025-11-06 15:40:17,373 - INFO - ⏩ Skipping already processed tab: 'Brantford'
+2025-11-06 15:40:17,374 - INFO - ⏩ Skipping already processed tab: 'Chatham-Kent'
+2025-11-06 15:40:17,374 - INFO - ⏩ Skipping already processed tab: 'Clarington'
+2025-11-06 15:40:17,374 - INFO - ⏩ Skipping already processed tab: 'Red Deer'
+2025-11-06 15:40:17,375 - INFO - ⏩ Skipping already processed tab: 'Nanaimo'
+2025-11-06 15:40:17,375 - INFO - ⏩ Skipping already processed tab: 'Strathcona County'
+2025-11-06 15:40:17,375 - INFO - ⏩ Skipping already processed tab: 'Pickering'
+2025-11-06 15:40:17,375 - INFO - ⏩ Skipping already processed tab: 'Lethbridge'
+2025-11-06 15:40:17,376 - INFO - ⏩ Skipping already processed tab: 'Kamloops'
+2025-11-06 15:40:17,376 - INFO - ⏩ Skipping already processed tab: 'Niagara Falls'
+2025-11-06 15:40:17,376 - INFO - ⏩ Skipping already processed tab: 'Cape Breton'
+2025-11-06 15:40:17,377 - INFO - Reading 'Chilliwack' tab content...
+2025-11-06 15:40:17,377 - WARNING - 🚫 Skipping tab 'Chilliwack' due to invalid internal link: https://satheesseo.com/about/. Check all the internal links.
+2025-11-06 15:40:17,378 - INFO - ⏩ Skipping already processed tab: 'Victoria'
+2025-11-06 15:40:17,378 - INFO - ⏩ Skipping already processed tab: 'Brossard'
+2025-11-06 15:40:17,378 - INFO - ⏩ Skipping already processed tab: 'Maple Ridge'
+2025-11-06 15:40:17,378 - INFO - ⏩ Skipping already processed tab: 'North Vancouver'
+2025-11-06 15:40:17,379 - INFO - ⏩ Skipping already processed tab: 'Newmarket'
+2025-11-06 15:40:17,380 - INFO - ⏩ Skipping already processed tab: 'Repentigny'
+2025-11-06 15:40:17,380 - INFO - ⏩ Skipping already processed tab: 'Peterborough'
+2025-11-06 15:40:17,381 - INFO - ⏩ Skipping already processed tab: 'Saint-Jérôme'
+2025-11-06 15:40:17,381 - INFO - ⏩ Skipping already processed tab: 'Moncton'
+2025-11-06 15:40:17,382 - INFO - Reading 'Drummondville' tab content...
+2025-11-06 15:40:17,383 - WARNING - 🚫 Skipping tab 'Drummondville' due to invalid internal link: https://www.drummondeconomique.ca/en/invest/. Check all the internal links.
+2025-11-06 15:40:17,383 - INFO - ⏩ Skipping already processed tab: 'Kawartha Lakes'
+2025-11-06 15:40:17,383 - INFO - ⏩ Skipping already processed tab: 'New Westminster'
+2025-11-06 15:40:17,384 - INFO - ⏩ Skipping already processed tab: 'Prince George'
+2025-11-06 15:40:17,384 - INFO - ⏩ Skipping already processed tab: 'Caledon'
+2025-11-06 15:40:17,384 - INFO - ⏩ Skipping already processed tab: 'Airdrie'
+2025-11-06 15:40:17,385 - INFO - ⏩ Skipping already processed tab: 'Wood Buffalo'
+2025-11-06 15:40:17,385 - INFO - ⏩ Skipping already processed tab: 'Sault Ste. Marie'
+2025-11-06 15:40:17,385 - INFO - ⏩ Skipping already processed tab: 'Sarnia'
+2025-11-06 15:40:17,386 - INFO - ⏩ Skipping already processed tab: 'Saint John'
+2025-11-06 15:40:17,386 - INFO - Reading 'Granby' tab content...
+2025-11-06 15:40:19,550 - INFO - ✅ Updated WP page ID 1334 for city 'Granby'
+2025-11-06 15:40:20,497 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C86
+2025-11-06 15:40:20,575 - INFO - ⏩ Skipping already processed tab: 'St. Albert'
+2025-11-06 15:40:20,575 - INFO - ⏩ Skipping already processed tab: 'Norfolk County'
+2025-11-06 15:40:20,575 - INFO - ⏩ Skipping already processed tab: 'Grande Prairie'
+2025-11-06 15:40:20,576 - INFO - ⏩ Skipping already processed tab: 'Medicine Hat'
+2025-11-06 15:40:20,576 - INFO - ⏩ Skipping already processed tab: 'Fredericton'
+2025-11-06 15:40:20,576 - INFO - ⏩ Skipping already processed tab: 'Halton Hills'
+2025-11-06 15:40:20,576 - INFO - ⏩ Skipping already processed tab: 'Aurora'
+2025-11-06 15:40:20,576 - INFO - ⏩ Skipping already processed tab: 'Port Coquitlam'
+2025-11-06 15:40:20,577 - INFO - ⏩ Skipping already processed tab: 'Mirabel'
+2025-11-06 15:40:20,577 - INFO - ⏩ Skipping already processed tab: 'Blainville'
+2025-11-06 15:40:20,577 - INFO - ⏩ Skipping already processed tab: 'Saint-Hyacinthe'
+2025-11-06 15:40:20,577 - INFO - ⏩ Skipping already processed tab: 'Welland'
+2025-11-06 15:40:20,577 - INFO - ⏩ Skipping already processed tab: 'Belleville'
+2025-11-06 15:40:20,577 - INFO - ⏩ Skipping already processed tab: 'North Bay'
+2025-11-06 15:40:20,578 - INFO - ⏩ Skipping already processed tab: 'Scarborough'
+2025-11-06 15:40:20,578 - INFO - ⚠️ City 'Tab 100' not found in sheet. Skipping tab.
+2025-11-06 15:40:20,578 - INFO - 📊 ===== Summary for Document: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c =====
+2025-11-06 15:40:20,578 - INFO - 📄 Total tabs: 100
+2025-11-06 15:40:20,578 - INFO - Processed Count: 1
+2025-11-06 15:40:20,578 - INFO - Skipped Count: 93
+2025-11-06 15:40:20,578 - INFO - Wrong City Name Count: 1
+2025-11-06 15:40:20,578 - INFO - Wrong Internal Link Content Count: 5
+2025-11-06 15:40:20,578 - INFO - Empty Tab Count: 0
+2025-11-06 15:40:20,578 - INFO - Subtab Count: 0
+2025-11-06 15:40:20,578 - INFO - *************************************************************************************************************
+2025-11-06 15:40:20,579 - INFO - *************************************************************************************************************
+2025-11-06 16:03:45,712 - INFO - ✅ Logging initialized successfully.
+2025-11-06 16:03:46,316 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 16:03:49,246 - INFO - ✅ Document 'SEO Consultant-canada 2 -jaivarman ' validated successfully.
+2025-11-06 16:03:50,992 - INFO - 📄 Document ID: 1vb1LyXvZ2d7VR42st824qf9Z6JKVg6sJe-7fsWpQPzE has 2 tabs to process.
+2025-11-06 16:03:50,992 - INFO - Reading 'Etobicoke' tab content...
+2025-11-06 16:03:52,524 - INFO - ✅ Updated WP page ID 43568 for city 'Etobicoke'
+2025-11-06 16:03:53,357 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C102
+2025-11-06 16:03:53,370 - INFO - Reading 'Caledonia' tab content...
+2025-11-06 16:03:55,700 - INFO - ✅ Updated WP page ID 43582 for city 'Caledonia'
+2025-11-06 16:03:56,726 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C103
+2025-11-06 16:03:56,730 - INFO - 📊 ===== Summary for Document: 1vb1LyXvZ2d7VR42st824qf9Z6JKVg6sJe-7fsWpQPzE =====
+2025-11-06 16:03:56,730 - INFO - 📄 Total tabs: 2
+2025-11-06 16:03:56,731 - INFO - Processed Count: 2
+2025-11-06 16:03:56,731 - INFO - Skipped Count: 0
+2025-11-06 16:03:56,731 - INFO - Wrong City Name Count: 0
+2025-11-06 16:03:56,732 - INFO - Wrong Internal Link Content Count: 0
+2025-11-06 16:03:56,732 - INFO - Empty Tab Count: 0
+2025-11-06 16:03:56,732 - INFO - Subtab Count: 0
+2025-11-06 16:03:56,732 - INFO - *************************************************************************************************************
+2025-11-06 16:03:56,732 - INFO - *************************************************************************************************************
+2025-11-06 16:34:35,313 - INFO - ✅ Logging initialized successfully.
+2025-11-06 16:34:36,241 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 16:34:44,642 - INFO - ✅ Document ' SEO Consultant- canada-1 -jaivarman ' validated successfully.
+2025-11-06 16:34:46,865 - INFO - 📄 Document ID: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c has 99 tabs to process.
+2025-11-06 16:34:46,865 - INFO - ⏩ Skipping already processed tab: 'Toronto'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Montreal'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Calgary'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Ottawa'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Edmonton'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Winnipeg'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Mississauga'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Vancouver'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Brampton'
+2025-11-06 16:34:46,867 - INFO - ⏩ Skipping already processed tab: 'Hamilton'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Surrey'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Quebec City'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Halifax'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Laval'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'London'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Markham'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Vaughan'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Gatineau'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Saskatoon'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Kitchener'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Longueuil'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Burnaby'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Windsor'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Regina'
+2025-11-06 16:34:46,868 - INFO - ⏩ Skipping already processed tab: 'Oakville'
+2025-11-06 16:34:46,869 - INFO - ⏩ Skipping already processed tab: 'Richmond'
+2025-11-06 16:34:46,869 - INFO - ⏩ Skipping already processed tab: 'Richmond Hill'
+2025-11-06 16:34:46,869 - INFO - ⏩ Skipping already processed tab: 'Burlington'
+2025-11-06 16:34:46,869 - INFO - Reading 'Oshawa' tab content...
+2025-11-06 16:34:46,878 - WARNING - 🚫 Skipping tab 'Oshawa' due to invalid internal link: https://www.satheesseo.com/blog/hire-ai-seo-consultant/. Check all the internal links.
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Sherbrooke'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Greater Sudbury'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Abbotsford'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Lévis'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Coquitlam'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Barrie'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Saguenay'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Kelowna'
+2025-11-06 16:34:46,879 - INFO - ⏩ Skipping already processed tab: 'Guelph'
+2025-11-06 16:34:46,879 - INFO - Reading 'Trois-Rivières' tab content...
+2025-11-06 16:34:51,639 - INFO - ✅ Updated WP page ID 1052 for city 'Trois-Rivières'
+2025-11-06 16:34:52,560 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C40
+2025-11-06 16:34:52,598 - INFO - ⏩ Skipping already processed tab: 'Whitby'
+2025-11-06 16:34:52,598 - INFO - ⏩ Skipping already processed tab: 'Cambridge'
+2025-11-06 16:34:52,599 - INFO - ⏩ Skipping already processed tab: 'St. Catharines'
+2025-11-06 16:34:52,599 - INFO - ⏩ Skipping already processed tab: 'Milton'
+2025-11-06 16:34:52,599 - INFO - ⏩ Skipping already processed tab: 'Langley'
+2025-11-06 16:34:52,599 - INFO - ⏩ Skipping already processed tab: 'Kingston'
+2025-11-06 16:34:52,599 - INFO - ⏩ Skipping already processed tab: 'Ajax'
+2025-11-06 16:34:52,599 - INFO - Reading 'Waterloo' tab content...
+2025-11-06 16:34:54,638 - INFO - ✅ Updated WP page ID 1086 for city 'Waterloo'
+2025-11-06 16:34:55,423 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C48
+2025-11-06 16:34:55,442 - INFO - ⏩ Skipping already processed tab: 'Terrebonne'
+2025-11-06 16:34:55,443 - INFO - ⏩ Skipping already processed tab: 'Saanich'
+2025-11-06 16:34:55,443 - INFO - ⏩ Skipping already processed tab: 'St. John's'
+2025-11-06 16:34:55,443 - INFO - ⏩ Skipping already processed tab: 'Thunder Bay'
+2025-11-06 16:34:55,443 - INFO - ⏩ Skipping already processed tab: 'Delta'
+2025-11-06 16:34:55,443 - INFO - ⏩ Skipping already processed tab: 'Brantford'
+2025-11-06 16:34:55,443 - INFO - ⏩ Skipping already processed tab: 'Chatham-Kent'
+2025-11-06 16:34:55,443 - INFO - ⏩ Skipping already processed tab: 'Clarington'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Red Deer'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Nanaimo'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Strathcona County'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Pickering'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Lethbridge'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Kamloops'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Niagara Falls'
+2025-11-06 16:34:55,444 - INFO - ⏩ Skipping already processed tab: 'Cape Breton'
+2025-11-06 16:34:55,445 - INFO - Reading 'Chilliwack' tab content...
+2025-11-06 16:34:55,447 - WARNING - 🚫 Skipping tab 'Chilliwack' due to invalid internal link: https://satheesseo.com/best-seo-strategies-for-local-businesses/. Check all the internal links.
+2025-11-06 16:34:55,447 - INFO - ⏩ Skipping already processed tab: 'Victoria'
+2025-11-06 16:34:55,447 - INFO - ⏩ Skipping already processed tab: 'Brossard'
+2025-11-06 16:34:55,447 - INFO - ⏩ Skipping already processed tab: 'Maple Ridge'
+2025-11-06 16:34:55,447 - INFO - ⏩ Skipping already processed tab: 'North Vancouver'
+2025-11-06 16:34:55,447 - INFO - ⏩ Skipping already processed tab: 'Newmarket'
+2025-11-06 16:34:55,448 - INFO - ⏩ Skipping already processed tab: 'Repentigny'
+2025-11-06 16:34:55,448 - INFO - ⏩ Skipping already processed tab: 'Peterborough'
+2025-11-06 16:34:55,448 - INFO - ⏩ Skipping already processed tab: 'Saint-Jérôme'
+2025-11-06 16:34:55,448 - INFO - ⏩ Skipping already processed tab: 'Moncton'
+2025-11-06 16:34:55,448 - INFO - Reading 'Drummondville' tab content...
+2025-11-06 16:34:57,262 - INFO - ✅ Updated WP page ID 1316 for city 'Drummondville'
+2025-11-06 16:34:57,842 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C76
+2025-11-06 16:34:57,845 - INFO - ⏩ Skipping already processed tab: 'Kawartha Lakes'
+2025-11-06 16:34:57,846 - INFO - ⏩ Skipping already processed tab: 'New Westminster'
+2025-11-06 16:34:57,885 - INFO - ⏩ Skipping already processed tab: 'Prince George'
+2025-11-06 16:34:57,885 - INFO - ⏩ Skipping already processed tab: 'Caledon'
+2025-11-06 16:34:57,885 - INFO - ⏩ Skipping already processed tab: 'Airdrie'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Wood Buffalo'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Sault Ste. Marie'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Sarnia'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Saint John'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Granby'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'St. Albert'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Norfolk County'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Grande Prairie'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Medicine Hat'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Fredericton'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Halton Hills'
+2025-11-06 16:34:57,886 - INFO - ⏩ Skipping already processed tab: 'Aurora'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'Port Coquitlam'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'Mirabel'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'Blainville'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'Saint-Hyacinthe'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'Welland'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'Belleville'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'North Bay'
+2025-11-06 16:34:57,887 - INFO - ⏩ Skipping already processed tab: 'Scarborough'
+2025-11-06 16:34:57,887 - INFO - 📊 ===== Summary for Document: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c =====
+2025-11-06 16:34:57,887 - INFO - 📄 Total tabs: 99
+2025-11-06 16:34:57,888 - INFO - Processed Count: 3
+2025-11-06 16:34:57,888 - INFO - Skipped Count: 94
+2025-11-06 16:34:57,888 - INFO - Wrong City Name Count: 0
+2025-11-06 16:34:57,888 - INFO - Wrong Internal Link Content Count: 2
+2025-11-06 16:34:57,889 - INFO - Empty Tab Count: 0
+2025-11-06 16:34:57,889 - INFO - Subtab Count: 0
+2025-11-06 16:34:57,889 - INFO - *************************************************************************************************************
+2025-11-06 16:34:57,889 - INFO - *************************************************************************************************************
+2025-11-06 16:48:03,589 - INFO - ✅ Logging initialized successfully.
+2025-11-06 16:48:03,881 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 16:48:12,338 - INFO - ✅ Document ' SEO Consultant- canada-1 -jaivarman ' validated successfully.
+2025-11-06 16:48:13,875 - INFO - 📄 Document ID: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c has 100 tabs to process.
+2025-11-06 16:48:13,875 - INFO - ⏩ Skipping already processed tab: 'Toronto'
+2025-11-06 16:48:13,875 - INFO - ⏩ Skipping already processed tab: 'Montreal'
+2025-11-06 16:48:13,875 - INFO - ⏩ Skipping already processed tab: 'Calgary'
+2025-11-06 16:48:13,875 - INFO - ⏩ Skipping already processed tab: 'Ottawa'
+2025-11-06 16:48:13,875 - INFO - ⏩ Skipping already processed tab: 'Edmonton'
+2025-11-06 16:48:13,875 - INFO - ⏩ Skipping already processed tab: 'Winnipeg'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Mississauga'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Vancouver'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Brampton'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Hamilton'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Surrey'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Quebec City'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Halifax'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'Laval'
+2025-11-06 16:48:13,876 - INFO - ⏩ Skipping already processed tab: 'London'
+2025-11-06 16:48:13,877 - INFO - ⏩ Skipping already processed tab: 'Markham'
+2025-11-06 16:48:13,877 - INFO - ⏩ Skipping already processed tab: 'Vaughan'
+2025-11-06 16:48:13,877 - INFO - ⏩ Skipping already processed tab: 'Gatineau'
+2025-11-06 16:48:13,877 - INFO - ⏩ Skipping already processed tab: 'Saskatoon'
+2025-11-06 16:48:13,878 - INFO - ⏩ Skipping already processed tab: 'Kitchener'
+2025-11-06 16:48:13,878 - INFO - ⏩ Skipping already processed tab: 'Longueuil'
+2025-11-06 16:48:13,878 - INFO - ⏩ Skipping already processed tab: 'Burnaby'
+2025-11-06 16:48:13,879 - INFO - ⏩ Skipping already processed tab: 'Windsor'
+2025-11-06 16:48:13,879 - INFO - ⏩ Skipping already processed tab: 'Regina'
+2025-11-06 16:48:13,879 - INFO - ⏩ Skipping already processed tab: 'Oakville'
+2025-11-06 16:48:13,880 - INFO - ⏩ Skipping already processed tab: 'Richmond'
+2025-11-06 16:48:13,880 - INFO - ⏩ Skipping already processed tab: 'Richmond Hill'
+2025-11-06 16:48:13,884 - INFO - ⏩ Skipping already processed tab: 'Burlington'
+2025-11-06 16:48:13,885 - INFO - Reading 'Oshawa' tab content...
+2025-11-06 16:48:15,644 - INFO - ✅ Updated WP page ID 971 for city 'Oshawa'
+2025-11-06 16:48:16,654 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C30
+2025-11-06 16:48:16,657 - INFO - ⏩ Skipping already processed tab: 'Sherbrooke'
+2025-11-06 16:48:16,658 - INFO - ⏩ Skipping already processed tab: 'Greater Sudbury'
+2025-11-06 16:48:16,658 - INFO - ⏩ Skipping already processed tab: 'Abbotsford'
+2025-11-06 16:48:16,658 - INFO - ⏩ Skipping already processed tab: 'Lévis'
+2025-11-06 16:48:16,659 - INFO - ⏩ Skipping already processed tab: 'Coquitlam'
+2025-11-06 16:48:16,659 - INFO - ⏩ Skipping already processed tab: 'Barrie'
+2025-11-06 16:48:16,660 - INFO - ⏩ Skipping already processed tab: 'Saguenay'
+2025-11-06 16:48:16,660 - INFO - ⏩ Skipping already processed tab: 'Kelowna'
+2025-11-06 16:48:16,660 - INFO - ⏩ Skipping already processed tab: 'Guelph'
+2025-11-06 16:48:16,660 - INFO - ⏩ Skipping already processed tab: 'Trois-Rivières'
+2025-11-06 16:48:16,660 - INFO - ⏩ Skipping already processed tab: 'Whitby'
+2025-11-06 16:48:16,661 - INFO - ⏩ Skipping already processed tab: 'Cambridge'
+2025-11-06 16:48:16,661 - INFO - ⏩ Skipping already processed tab: 'St. Catharines'
+2025-11-06 16:48:16,663 - INFO - ⏩ Skipping already processed tab: 'Milton'
+2025-11-06 16:48:16,664 - INFO - ⏩ Skipping already processed tab: 'Langley'
+2025-11-06 16:48:16,664 - INFO - ⏩ Skipping already processed tab: 'Kingston'
+2025-11-06 16:48:16,665 - INFO - ⏩ Skipping already processed tab: 'Ajax'
+2025-11-06 16:48:16,665 - INFO - ⏩ Skipping already processed tab: 'Waterloo'
+2025-11-06 16:48:16,665 - INFO - ⏩ Skipping already processed tab: 'Terrebonne'
+2025-11-06 16:48:16,666 - INFO - ⏩ Skipping already processed tab: 'Saanich'
+2025-11-06 16:48:16,667 - INFO - ⏩ Skipping already processed tab: 'St. John's'
+2025-11-06 16:48:16,667 - INFO - ⏩ Skipping already processed tab: 'Thunder Bay'
+2025-11-06 16:48:16,667 - INFO - ⏩ Skipping already processed tab: 'Delta'
+2025-11-06 16:48:16,667 - INFO - ⏩ Skipping already processed tab: 'Brantford'
+2025-11-06 16:48:16,667 - INFO - ⏩ Skipping already processed tab: 'Chatham-Kent'
+2025-11-06 16:48:16,668 - INFO - ⏩ Skipping already processed tab: 'Clarington'
+2025-11-06 16:48:16,668 - INFO - ⏩ Skipping already processed tab: 'Red Deer'
+2025-11-06 16:48:16,668 - INFO - ⏩ Skipping already processed tab: 'Nanaimo'
+2025-11-06 16:48:16,668 - INFO - ⏩ Skipping already processed tab: 'Strathcona County'
+2025-11-06 16:48:16,668 - INFO - ⏩ Skipping already processed tab: 'Pickering'
+2025-11-06 16:48:16,668 - INFO - ⏩ Skipping already processed tab: 'Lethbridge'
+2025-11-06 16:48:16,668 - INFO - ⏩ Skipping already processed tab: 'Kamloops'
+2025-11-06 16:48:16,669 - INFO - ⏩ Skipping already processed tab: 'Niagara Falls'
+2025-11-06 16:48:16,669 - INFO - ⏩ Skipping already processed tab: 'Cape Breton'
+2025-11-06 16:48:16,669 - INFO - Reading 'Chilliwack' tab content...
+2025-11-06 16:48:16,670 - WARNING - 🚫 Skipping tab 'Chilliwack' due to invalid internal link: https://satheesseo.com/best-seo-strategies-for-local-businesses/. Check all the internal links.
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Victoria'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Brossard'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Maple Ridge'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'North Vancouver'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Newmarket'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Repentigny'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Peterborough'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Saint-Jérôme'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Moncton'
+2025-11-06 16:48:16,671 - INFO - ⏩ Skipping already processed tab: 'Drummondville'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Kawartha Lakes'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'New Westminster'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Prince George'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Caledon'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Airdrie'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Wood Buffalo'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Sault Ste. Marie'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Sarnia'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Saint John'
+2025-11-06 16:48:16,672 - INFO - ⏩ Skipping already processed tab: 'Granby'
+2025-11-06 16:48:16,673 - INFO - ⏩ Skipping already processed tab: 'St. Albert'
+2025-11-06 16:48:16,673 - INFO - ⏩ Skipping already processed tab: 'Norfolk County'
+2025-11-06 16:48:16,673 - INFO - ⏩ Skipping already processed tab: 'Grande Prairie'
+2025-11-06 16:48:16,673 - INFO - ⏩ Skipping already processed tab: 'Medicine Hat'
+2025-11-06 16:48:16,673 - INFO - ⏩ Skipping already processed tab: 'Fredericton'
+2025-11-06 16:48:16,673 - INFO - ⏩ Skipping already processed tab: 'Halton Hills'
+2025-11-06 16:48:16,673 - INFO - ⏩ Skipping already processed tab: 'Aurora'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'Port Coquitlam'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'Mirabel'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'Blainville'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'Saint-Hyacinthe'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'Welland'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'Belleville'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'North Bay'
+2025-11-06 16:48:16,674 - INFO - ⏩ Skipping already processed tab: 'Scarborough'
+2025-11-06 16:48:16,674 - INFO - Reading 'Saint-Jean-sur-Richelieu' tab content...
+2025-11-06 16:48:18,191 - INFO - ✅ Updated WP page ID 1275 for city 'Saint-Jean-sur-Richelieu'
+2025-11-06 16:48:18,954 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C63
+2025-11-06 16:48:18,962 - INFO - 📊 ===== Summary for Document: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c =====
+2025-11-06 16:48:18,962 - INFO - 📄 Total tabs: 100
+2025-11-06 16:48:18,971 - INFO - Processed Count: 2
+2025-11-06 16:48:18,971 - INFO - Skipped Count: 97
+2025-11-06 16:48:18,971 - INFO - Wrong City Name Count: 0
+2025-11-06 16:48:18,971 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 16:48:18,972 - INFO - Empty Tab Count: 0
+2025-11-06 16:48:18,972 - INFO - Subtab Count: 0
+2025-11-06 16:48:18,972 - INFO - *************************************************************************************************************
+2025-11-06 16:48:18,972 - INFO - *************************************************************************************************************
+2025-11-06 16:50:05,114 - INFO - ✅ Logging initialized successfully.
+2025-11-06 16:50:05,330 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 16:50:16,189 - INFO - ✅ Document ' SEO Consultant- canada-1 -jaivarman ' validated successfully.
+2025-11-06 16:50:17,974 - INFO - 📄 Document ID: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c has 100 tabs to process.
+2025-11-06 16:50:17,976 - INFO - ⏩ Skipping already processed tab: 'Toronto'
+2025-11-06 16:50:17,976 - INFO - ⏩ Skipping already processed tab: 'Montreal'
+2025-11-06 16:50:17,976 - INFO - ⏩ Skipping already processed tab: 'Calgary'
+2025-11-06 16:50:17,977 - INFO - ⏩ Skipping already processed tab: 'Ottawa'
+2025-11-06 16:50:17,977 - INFO - ⏩ Skipping already processed tab: 'Edmonton'
+2025-11-06 16:50:17,977 - INFO - ⏩ Skipping already processed tab: 'Winnipeg'
+2025-11-06 16:50:17,977 - INFO - ⏩ Skipping already processed tab: 'Mississauga'
+2025-11-06 16:50:17,977 - INFO - ⏩ Skipping already processed tab: 'Vancouver'
+2025-11-06 16:50:17,978 - INFO - ⏩ Skipping already processed tab: 'Brampton'
+2025-11-06 16:50:17,978 - INFO - ⏩ Skipping already processed tab: 'Hamilton'
+2025-11-06 16:50:17,978 - INFO - ⏩ Skipping already processed tab: 'Surrey'
+2025-11-06 16:50:17,978 - INFO - ⏩ Skipping already processed tab: 'Quebec City'
+2025-11-06 16:50:17,979 - INFO - ⏩ Skipping already processed tab: 'Halifax'
+2025-11-06 16:50:17,979 - INFO - ⏩ Skipping already processed tab: 'Laval'
+2025-11-06 16:50:17,979 - INFO - ⏩ Skipping already processed tab: 'London'
+2025-11-06 16:50:17,980 - INFO - ⏩ Skipping already processed tab: 'Markham'
+2025-11-06 16:50:17,980 - INFO - ⏩ Skipping already processed tab: 'Vaughan'
+2025-11-06 16:50:17,980 - INFO - ⏩ Skipping already processed tab: 'Gatineau'
+2025-11-06 16:50:17,980 - INFO - ⏩ Skipping already processed tab: 'Saskatoon'
+2025-11-06 16:50:17,980 - INFO - ⏩ Skipping already processed tab: 'Kitchener'
+2025-11-06 16:50:17,980 - INFO - ⏩ Skipping already processed tab: 'Longueuil'
+2025-11-06 16:50:17,980 - INFO - ⏩ Skipping already processed tab: 'Burnaby'
+2025-11-06 16:50:17,981 - INFO - ⏩ Skipping already processed tab: 'Windsor'
+2025-11-06 16:50:17,981 - INFO - ⏩ Skipping already processed tab: 'Regina'
+2025-11-06 16:50:17,981 - INFO - ⏩ Skipping already processed tab: 'Oakville'
+2025-11-06 16:50:17,981 - INFO - ⏩ Skipping already processed tab: 'Richmond'
+2025-11-06 16:50:17,981 - INFO - ⏩ Skipping already processed tab: 'Richmond Hill'
+2025-11-06 16:50:17,981 - INFO - ⏩ Skipping already processed tab: 'Burlington'
+2025-11-06 16:50:17,981 - INFO - ⏩ Skipping already processed tab: 'Oshawa'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Sherbrooke'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Greater Sudbury'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Abbotsford'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Lévis'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Coquitlam'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Barrie'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Saguenay'
+2025-11-06 16:50:17,982 - INFO - ⏩ Skipping already processed tab: 'Kelowna'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'Guelph'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'Trois-Rivières'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'Whitby'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'Cambridge'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'St. Catharines'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'Milton'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'Langley'
+2025-11-06 16:50:17,983 - INFO - ⏩ Skipping already processed tab: 'Kingston'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Ajax'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Waterloo'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Terrebonne'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Saanich'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'St. John's'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Thunder Bay'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Delta'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Brantford'
+2025-11-06 16:50:17,984 - INFO - ⏩ Skipping already processed tab: 'Chatham-Kent'
+2025-11-06 16:50:17,994 - INFO - ⏩ Skipping already processed tab: 'Clarington'
+2025-11-06 16:50:17,994 - INFO - ⏩ Skipping already processed tab: 'Red Deer'
+2025-11-06 16:50:17,994 - INFO - ⏩ Skipping already processed tab: 'Nanaimo'
+2025-11-06 16:50:17,995 - INFO - ⏩ Skipping already processed tab: 'Strathcona County'
+2025-11-06 16:50:17,995 - INFO - ⏩ Skipping already processed tab: 'Pickering'
+2025-11-06 16:50:17,996 - INFO - ⏩ Skipping already processed tab: 'Lethbridge'
+2025-11-06 16:50:17,997 - INFO - ⏩ Skipping already processed tab: 'Kamloops'
+2025-11-06 16:50:17,997 - INFO - ⏩ Skipping already processed tab: 'Niagara Falls'
+2025-11-06 16:50:17,997 - INFO - ⏩ Skipping already processed tab: 'Cape Breton'
+2025-11-06 16:50:17,998 - INFO - Reading 'Chilliwack' tab content...
+2025-11-06 16:50:20,452 - INFO - ✅ Updated WP page ID 1285 for city 'Chilliwack'
+2025-11-06 16:50:21,322 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C66
+2025-11-06 16:50:21,325 - INFO - ⏩ Skipping already processed tab: 'Victoria'
+2025-11-06 16:50:21,326 - INFO - ⏩ Skipping already processed tab: 'Brossard'
+2025-11-06 16:50:21,326 - INFO - ⏩ Skipping already processed tab: 'Maple Ridge'
+2025-11-06 16:50:21,326 - INFO - ⏩ Skipping already processed tab: 'North Vancouver'
+2025-11-06 16:50:21,326 - INFO - ⏩ Skipping already processed tab: 'Newmarket'
+2025-11-06 16:50:21,327 - INFO - ⏩ Skipping already processed tab: 'Repentigny'
+2025-11-06 16:50:21,356 - INFO - ⏩ Skipping already processed tab: 'Peterborough'
+2025-11-06 16:50:21,356 - INFO - ⏩ Skipping already processed tab: 'Saint-Jérôme'
+2025-11-06 16:50:21,356 - INFO - ⏩ Skipping already processed tab: 'Moncton'
+2025-11-06 16:50:21,356 - INFO - ⏩ Skipping already processed tab: 'Drummondville'
+2025-11-06 16:50:21,356 - INFO - ⏩ Skipping already processed tab: 'Kawartha Lakes'
+2025-11-06 16:50:21,356 - INFO - ⏩ Skipping already processed tab: 'New Westminster'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Prince George'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Caledon'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Airdrie'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Wood Buffalo'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Sault Ste. Marie'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Sarnia'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Saint John'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Granby'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'St. Albert'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Norfolk County'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Grande Prairie'
+2025-11-06 16:50:21,357 - INFO - ⏩ Skipping already processed tab: 'Medicine Hat'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Fredericton'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Halton Hills'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Aurora'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Port Coquitlam'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Mirabel'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Blainville'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Saint-Hyacinthe'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Welland'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'Belleville'
+2025-11-06 16:50:21,358 - INFO - ⏩ Skipping already processed tab: 'North Bay'
+2025-11-06 16:50:21,359 - INFO - ⏩ Skipping already processed tab: 'Scarborough'
+2025-11-06 16:50:21,359 - INFO - ⏩ Skipping already processed tab: 'Saint-Jean-sur-Richelieu'
+2025-11-06 16:50:21,359 - INFO - 📊 ===== Summary for Document: 1CQjiHUDfOCwlUrzJ_iGe7ek4OPPCiWIEGH-v9E-Gm7c =====
+2025-11-06 16:50:21,359 - INFO - 📄 Total tabs: 100
+2025-11-06 16:50:21,359 - INFO - Processed Count: 1
+2025-11-06 16:50:21,360 - INFO - Skipped Count: 99
+2025-11-06 16:50:21,360 - INFO - Wrong City Name Count: 0
+2025-11-06 16:50:21,360 - INFO - Wrong Internal Link Content Count: 0
+2025-11-06 16:50:21,360 - INFO - Empty Tab Count: 0
+2025-11-06 16:50:21,360 - INFO - Subtab Count: 0
+2025-11-06 16:50:21,360 - INFO - *************************************************************************************************************
+2025-11-06 16:50:21,360 - INFO - *************************************************************************************************************
+2025-11-06 16:55:52,993 - INFO - ✅ Logging initialized successfully.
+2025-11-06 16:55:54,265 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 16:56:03,997 - ERROR - ❌ Failed to read or validate document 'India-2-SEO CONSULTANT-HARISH': Meta validation failed — wrong doc, country, or category name.
+Traceback (most recent call last):
+  File "/home/bala/code/wp_page_builder/content_replacer.py", line 85, in read_document
+    raise ValueError("Meta validation failed — wrong doc, country, or category name.")
+ValueError: Meta validation failed — wrong doc, country, or category name.
+2025-11-06 16:57:35,797 - INFO - ✅ Logging initialized successfully.
+2025-11-06 16:57:36,258 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 16:57:41,653 - INFO - ✅ Document 'India-2-SEO CONSULTANT-HARISH' validated successfully.
+2025-11-06 16:57:49,206 - INFO - 📄 Document ID: 1k2DVZcTr-mYUkIzqISWXYuI4v4iGW9LNvXgrmBk4yj0 has 46 tabs to process.
+2025-11-06 16:57:49,206 - INFO - Reading 'Maheshtala' tab content...
+2025-11-06 16:57:49,218 - WARNING - 🚫 Skipping tab 'Maheshtala' due to invalid internal link: https://www.satheesseo.com/blog/best-seo-strategies/. Check all the internal links.
+2025-11-06 16:57:49,220 - INFO - Reading 'Davanagere' tab content...
+2025-11-06 16:57:51,826 - INFO - ✅ Updated WP page ID 651 for city 'Davanagere'
+2025-11-06 16:57:52,491 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C103
+2025-11-06 16:57:52,498 - INFO - Reading 'Kozhikode' tab content...
+2025-11-06 16:57:54,347 - INFO - ✅ Updated WP page ID 653 for city 'Kozhikode'
+2025-11-06 16:57:54,963 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C104
+2025-11-06 16:57:54,966 - INFO - Reading 'Kurnool' tab content...
+2025-11-06 16:57:56,346 - INFO - ✅ Updated WP page ID 655 for city 'Kurnool'
+2025-11-06 16:57:56,972 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C105
+2025-11-06 16:57:57,116 - INFO - Reading 'Akola' tab content...
+2025-11-06 16:57:59,165 - INFO - ✅ Updated WP page ID 657 for city 'Akola'
+2025-11-06 16:57:59,659 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C106
+2025-11-06 16:57:59,663 - INFO - Reading 'Rajpur Sonarpur' tab content...
+2025-11-06 16:58:01,019 - INFO - ✅ Updated WP page ID 659 for city 'Rajpur Sonarpur'
+2025-11-06 16:58:01,686 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C107
+2025-11-06 16:58:01,691 - INFO - Reading 'Rajahmundry' tab content...
+2025-11-06 16:58:03,720 - INFO - ✅ Updated WP page ID 661 for city 'Rajahmundry'
+2025-11-06 16:58:04,302 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C108
+2025-11-06 16:58:04,304 - INFO - Reading 'Bokaro' tab content...
+2025-11-06 16:58:06,030 - INFO - ✅ Updated WP page ID 663 for city 'Bokaro'
+2025-11-06 16:58:06,642 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C109
+2025-11-06 16:58:06,646 - INFO - Reading 'South Dumdum' tab content...
+2025-11-06 16:58:08,312 - INFO - ✅ Updated WP page ID 665 for city 'South Dumdum'
+2025-11-06 16:58:09,015 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C110
+2025-11-06 16:58:09,019 - INFO - Reading 'Bellary' tab content...
+2025-11-06 16:58:12,756 - INFO - ✅ Updated WP page ID 667 for city 'Bellary'
+2025-11-06 16:58:13,308 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C111
+2025-11-06 16:58:13,310 - INFO - Reading 'Patiala' tab content...
+2025-11-06 16:58:16,799 - INFO - ✅ Updated WP page ID 670 for city 'Patiala'
+2025-11-06 16:58:17,531 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C112
+2025-11-06 16:58:17,535 - INFO - Reading 'Gopalpur' tab content...
+2025-11-06 16:58:24,841 - INFO - ✅ Updated WP page ID 672 for city 'Gopalpur'
+2025-11-06 16:58:25,678 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C113
+2025-11-06 16:58:25,681 - INFO - Reading 'Agartala' tab content...
+2025-11-06 16:58:35,426 - INFO - ✅ Updated WP page ID 674 for city 'Agartala'
+2025-11-06 16:58:36,613 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C114
+2025-11-06 16:58:36,615 - INFO - Reading 'Bhagalpur' tab content...
+2025-11-06 16:58:36,619 - WARNING - 🚫 Skipping tab 'Bhagalpur' due to invalid internal link: https://www.satheesseo.com/blog/. Check all the internal links.
+2025-11-06 16:58:36,620 - INFO - Reading 'Muzaffarnagar' tab content...
+2025-11-06 16:58:39,891 - INFO - ✅ Updated WP page ID 678 for city 'Muzaffarnagar'
+2025-11-06 16:58:40,437 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C116
+2025-11-06 16:58:40,440 - INFO - Reading 'Bhatpara' tab content...
+2025-11-06 16:58:42,863 - INFO - ✅ Updated WP page ID 680 for city 'Bhatpara'
+2025-11-06 16:58:43,446 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C117
+2025-11-06 16:58:43,450 - INFO - Reading 'Panihati' tab content...
+2025-11-06 16:58:46,759 - INFO - ✅ Updated WP page ID 682 for city 'Panihati'
+2025-11-06 16:58:48,447 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C118
+2025-11-06 16:58:48,450 - INFO - Reading 'Latur' tab content...
+2025-11-06 16:58:52,106 - INFO - ✅ Updated WP page ID 684 for city 'Latur'
+2025-11-06 16:58:52,716 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C119
+2025-11-06 16:58:52,718 - INFO - Reading 'Dhule' tab content...
+2025-11-06 16:58:55,193 - INFO - ✅ Updated WP page ID 686 for city 'Dhule'
+2025-11-06 16:58:59,218 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C120
+2025-11-06 16:58:59,252 - INFO - Reading 'Tirupati' tab content...
+2025-11-06 16:59:01,603 - INFO - ✅ Updated WP page ID 688 for city 'Tirupati'
+2025-11-06 16:59:02,230 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C121
+2025-11-06 16:59:02,234 - INFO - Reading 'Rohtak' tab content...
+2025-11-06 16:59:04,752 - INFO - ✅ Updated WP page ID 690 for city 'Rohtak'
+2025-11-06 16:59:05,640 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C122
+2025-11-06 16:59:05,720 - INFO - Reading 'Korba' tab content...
+2025-11-06 16:59:17,622 - INFO - ✅ Updated WP page ID 695 for city 'Korba'
+2025-11-06 16:59:18,296 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C123
+2025-11-06 16:59:18,299 - INFO - Reading 'Bhilwara' tab content...
+2025-11-06 16:59:20,016 - INFO - ✅ Updated WP page ID 697 for city 'Bhilwara'
+2025-11-06 16:59:20,549 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C124
+2025-11-06 16:59:20,567 - INFO - Reading 'Berhampur' tab content...
+2025-11-06 16:59:22,439 - INFO - ✅ Updated WP page ID 699 for city 'Berhampur'
+2025-11-06 16:59:22,931 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C125
+2025-11-06 16:59:22,939 - INFO - Reading 'Muzaffarpur' tab content...
+2025-11-06 16:59:24,983 - INFO - ✅ Updated WP page ID 701 for city 'Muzaffarpur'
+2025-11-06 16:59:25,486 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C126
+2025-11-06 16:59:25,495 - INFO - Reading 'Ahmednagar' tab content...
+2025-11-06 16:59:27,008 - INFO - ✅ Updated WP page ID 708 for city 'Ahmednagar'
+2025-11-06 16:59:27,504 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C127
+2025-11-06 16:59:27,507 - INFO - Reading 'Mathura' tab content...
+2025-11-06 16:59:29,304 - INFO - ✅ Updated WP page ID 704 for city 'Mathura'
+2025-11-06 16:59:29,831 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C128
+2025-11-06 16:59:30,084 - INFO - Reading 'Kollam' tab content...
+2025-11-06 16:59:34,492 - INFO - ✅ Updated WP page ID 706 for city 'Kollam'
+2025-11-06 16:59:35,111 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C129
+2025-11-06 16:59:35,113 - INFO - Reading 'Avadi' tab content...
+2025-11-06 16:59:37,494 - INFO - ✅ Updated WP page ID 710 for city 'Avadi'
+2025-11-06 16:59:38,304 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C130
+2025-11-06 16:59:38,352 - INFO - Reading 'Kadapa' tab content...
+2025-11-06 16:59:41,223 - INFO - ✅ Updated WP page ID 712 for city 'Kadapa'
+2025-11-06 16:59:42,414 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C131
+2025-11-06 16:59:42,828 - INFO - Reading 'Kamarhati' tab content...
+2025-11-06 16:59:45,827 - INFO - ✅ Updated WP page ID 713 for city 'Kamarhati'
+2025-11-06 16:59:46,661 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C132
+2025-11-06 16:59:46,751 - INFO - Reading 'Bilaspur' tab content...
+2025-11-06 16:59:48,436 - INFO - ✅ Updated WP page ID 717 for city 'Bilaspur'
+2025-11-06 16:59:49,028 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C133
+2025-11-06 16:59:49,030 - INFO - Reading 'Shahjahanpur' tab content...
+2025-11-06 16:59:51,574 - INFO - ✅ Updated WP page ID 716 for city 'Shahjahanpur'
+2025-11-06 16:59:52,128 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C134
+2025-11-06 16:59:52,148 - INFO - Reading 'Bijapur' tab content...
+2025-11-06 16:59:54,038 - INFO - ✅ Updated WP page ID 720 for city 'Bijapur'
+2025-11-06 16:59:54,785 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C135
+2025-11-06 16:59:54,789 - INFO - Reading 'Rampur' tab content...
+2025-11-06 16:59:56,403 - INFO - ✅ Updated WP page ID 721 for city 'Rampur'
+2025-11-06 16:59:56,913 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C136
+2025-11-06 16:59:56,930 - INFO - Reading 'Shivamogga' tab content...
+2025-11-06 16:59:59,104 - INFO - ✅ Updated WP page ID 724 for city 'Shivamogga'
+2025-11-06 16:59:59,679 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C137
+2025-11-06 16:59:59,686 - INFO - Reading 'Chandrapur' tab content...
+2025-11-06 16:59:59,688 - WARNING - 🚫 Skipping tab 'Chandrapur' due to invalid internal link: https://www.satheesseo.com/about/. Check all the internal links.
+2025-11-06 16:59:59,689 - INFO - Reading 'Junagadh' tab content...
+2025-11-06 17:00:01,525 - INFO - ✅ Updated WP page ID 726 for city 'Junagadh'
+2025-11-06 17:00:02,021 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C139
+2025-11-06 17:00:02,052 - INFO - Reading 'Thrissur' tab content...
+2025-11-06 17:00:03,739 - INFO - ✅ Updated WP page ID 728 for city 'Thrissur'
+2025-11-06 17:00:04,219 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C140
+2025-11-06 17:00:04,223 - INFO - Reading 'Alwar' tab content...
+2025-11-06 17:00:05,928 - INFO - ✅ Updated WP page ID 732 for city 'Alwar'
+2025-11-06 17:00:09,106 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C141
+2025-11-06 17:00:09,119 - INFO - Reading 'Bardhaman' tab content...
+2025-11-06 17:00:10,612 - INFO - ✅ Updated WP page ID 733 for city 'Bardhaman'
+2025-11-06 17:00:11,180 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C142
+2025-11-06 17:00:11,346 - INFO - Reading 'Kulti' tab content...
+2025-11-06 17:00:13,167 - INFO - ✅ Updated WP page ID 737 for city 'Kulti'
+2025-11-06 17:00:13,660 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C143
+2025-11-06 17:00:13,680 - INFO - Reading 'Kakinada' tab content...
+2025-11-06 17:00:15,286 - INFO - ✅ Updated WP page ID 739 for city 'Kakinada'
+2025-11-06 17:00:15,758 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C144
+2025-11-06 17:00:15,761 - INFO - Reading 'Nizamabad' tab content...
+2025-11-06 17:00:17,629 - INFO - ✅ Updated WP page ID 740 for city 'Nizamabad'
+2025-11-06 17:00:18,149 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C145
+2025-11-06 17:00:18,160 - INFO - Reading 'Parbhani' tab content...
+2025-11-06 17:00:20,046 - INFO - ✅ Updated WP page ID 743 for city 'Parbhani'
+2025-11-06 17:00:20,595 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C146
+2025-11-06 17:00:20,607 - INFO - Reading 'Tumkur' tab content...
+2025-11-06 17:00:22,476 - INFO - ✅ Updated WP page ID 745 for city 'Tumkur'
+2025-11-06 17:00:22,968 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C147
+2025-11-06 17:00:22,988 - INFO - 📊 ===== Summary for Document: 1k2DVZcTr-mYUkIzqISWXYuI4v4iGW9LNvXgrmBk4yj0 =====
+2025-11-06 17:00:22,989 - INFO - 📄 Total tabs: 46
+2025-11-06 17:00:22,989 - INFO - Processed Count: 43
+2025-11-06 17:00:22,990 - INFO - Skipped Count: 0
+2025-11-06 17:00:22,990 - INFO - Wrong City Name Count: 0
+2025-11-06 17:00:22,990 - INFO - Wrong Internal Link Content Count: 3
+2025-11-06 17:00:22,991 - INFO - Empty Tab Count: 0
+2025-11-06 17:00:22,991 - INFO - Subtab Count: 0
+2025-11-06 17:00:22,991 - INFO - *************************************************************************************************************
+2025-11-06 17:00:22,992 - INFO - *************************************************************************************************************
+2025-11-06 17:09:46,610 - INFO - ✅ Logging initialized successfully.
+2025-11-06 17:09:47,007 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 17:09:53,403 - INFO - ✅ Document 'India-2-SEO CONSULTANT-HARISH' validated successfully.
+2025-11-06 17:09:55,051 - INFO - 📄 Document ID: 1k2DVZcTr-mYUkIzqISWXYuI4v4iGW9LNvXgrmBk4yj0 has 46 tabs to process.
+2025-11-06 17:09:55,052 - INFO - Reading 'Maheshtala' tab content...
+2025-11-06 17:09:56,713 - INFO - ✅ Updated WP page ID 649 for city 'Maheshtala'
+2025-11-06 17:09:57,218 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C102
+2025-11-06 17:09:57,221 - INFO - ⏩ Skipping already processed tab: 'Davanagere'
+2025-11-06 17:09:57,222 - INFO - ⏩ Skipping already processed tab: 'Kozhikode'
+2025-11-06 17:09:57,222 - INFO - ⏩ Skipping already processed tab: 'Kurnool'
+2025-11-06 17:09:57,222 - INFO - ⏩ Skipping already processed tab: 'Akola'
+2025-11-06 17:09:57,222 - INFO - ⏩ Skipping already processed tab: 'Rajpur Sonarpur'
+2025-11-06 17:09:57,222 - INFO - ⏩ Skipping already processed tab: 'Rajahmundry'
+2025-11-06 17:09:57,223 - INFO - ⏩ Skipping already processed tab: 'Bokaro'
+2025-11-06 17:09:57,223 - INFO - ⏩ Skipping already processed tab: 'South Dumdum'
+2025-11-06 17:09:57,223 - INFO - ⏩ Skipping already processed tab: 'Bellary'
+2025-11-06 17:09:57,223 - INFO - ⏩ Skipping already processed tab: 'Patiala'
+2025-11-06 17:09:57,223 - INFO - ⏩ Skipping already processed tab: 'Gopalpur'
+2025-11-06 17:09:57,223 - INFO - ⏩ Skipping already processed tab: 'Agartala'
+2025-11-06 17:09:57,223 - INFO - Reading 'Bhagalpur' tab content...
+2025-11-06 17:09:57,225 - WARNING - 🚫 Skipping tab 'Bhagalpur' due to invalid internal link: https://www.satheesseo.com/blog/. Check all the internal links.
+2025-11-06 17:09:57,226 - INFO - ⏩ Skipping already processed tab: 'Muzaffarnagar'
+2025-11-06 17:09:57,226 - INFO - ⏩ Skipping already processed tab: 'Bhatpara'
+2025-11-06 17:09:57,226 - INFO - ⏩ Skipping already processed tab: 'Panihati'
+2025-11-06 17:09:57,227 - INFO - ⏩ Skipping already processed tab: 'Latur'
+2025-11-06 17:09:57,227 - INFO - ⏩ Skipping already processed tab: 'Dhule'
+2025-11-06 17:09:57,227 - INFO - ⏩ Skipping already processed tab: 'Tirupati'
+2025-11-06 17:09:57,228 - INFO - ⏩ Skipping already processed tab: 'Rohtak'
+2025-11-06 17:09:57,229 - INFO - ⏩ Skipping already processed tab: 'Korba'
+2025-11-06 17:09:57,229 - INFO - ⏩ Skipping already processed tab: 'Bhilwara'
+2025-11-06 17:09:57,235 - INFO - ⏩ Skipping already processed tab: 'Berhampur'
+2025-11-06 17:09:57,235 - INFO - ⏩ Skipping already processed tab: 'Muzaffarpur'
+2025-11-06 17:09:57,235 - INFO - ⏩ Skipping already processed tab: 'Ahmednagar'
+2025-11-06 17:09:57,235 - INFO - ⏩ Skipping already processed tab: 'Mathura'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Kollam'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Avadi'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Kadapa'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Kamarhati'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Bilaspur'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Shahjahanpur'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Bijapur'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Rampur'
+2025-11-06 17:09:57,236 - INFO - ⏩ Skipping already processed tab: 'Shivamogga'
+2025-11-06 17:09:57,236 - INFO - Reading 'Chandrapur' tab content...
+2025-11-06 17:09:59,135 - INFO - ✅ Updated WP page ID 727 for city 'Chandrapur'
+2025-11-06 17:09:59,791 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C138
+2025-11-06 17:09:59,804 - INFO - ⏩ Skipping already processed tab: 'Junagadh'
+2025-11-06 17:09:59,805 - INFO - ⏩ Skipping already processed tab: 'Thrissur'
+2025-11-06 17:09:59,806 - INFO - ⏩ Skipping already processed tab: 'Alwar'
+2025-11-06 17:09:59,806 - INFO - ⏩ Skipping already processed tab: 'Bardhaman'
+2025-11-06 17:09:59,818 - INFO - ⏩ Skipping already processed tab: 'Kulti'
+2025-11-06 17:09:59,818 - INFO - ⏩ Skipping already processed tab: 'Kakinada'
+2025-11-06 17:09:59,819 - INFO - ⏩ Skipping already processed tab: 'Nizamabad'
+2025-11-06 17:09:59,820 - INFO - ⏩ Skipping already processed tab: 'Parbhani'
+2025-11-06 17:09:59,820 - INFO - ⏩ Skipping already processed tab: 'Tumkur'
+2025-11-06 17:09:59,821 - INFO - 📊 ===== Summary for Document: 1k2DVZcTr-mYUkIzqISWXYuI4v4iGW9LNvXgrmBk4yj0 =====
+2025-11-06 17:09:59,822 - INFO - 📄 Total tabs: 46
+2025-11-06 17:09:59,831 - INFO - Processed Count: 2
+2025-11-06 17:09:59,832 - INFO - Skipped Count: 43
+2025-11-06 17:09:59,832 - INFO - Wrong City Name Count: 0
+2025-11-06 17:09:59,833 - INFO - Wrong Internal Link Content Count: 1
+2025-11-06 17:09:59,833 - INFO - Empty Tab Count: 0
+2025-11-06 17:09:59,833 - INFO - Subtab Count: 0
+2025-11-06 17:09:59,834 - INFO - *************************************************************************************************************
+2025-11-06 17:09:59,834 - INFO - *************************************************************************************************************
+2025-11-06 17:11:07,798 - INFO - ✅ Logging initialized successfully.
+2025-11-06 17:11:08,292 - INFO - ****************** Starting Content Updation ******************
+2025-11-06 17:11:14,007 - INFO - ✅ Document 'India-2-SEO CONSULTANT-HARISH' validated successfully.
+2025-11-06 17:11:15,513 - INFO - 📄 Document ID: 1k2DVZcTr-mYUkIzqISWXYuI4v4iGW9LNvXgrmBk4yj0 has 46 tabs to process.
+2025-11-06 17:11:15,514 - INFO - ⏩ Skipping already processed tab: 'Maheshtala'
+2025-11-06 17:11:15,515 - INFO - ⏩ Skipping already processed tab: 'Davanagere'
+2025-11-06 17:11:15,515 - INFO - ⏩ Skipping already processed tab: 'Kozhikode'
+2025-11-06 17:11:15,515 - INFO - ⏩ Skipping already processed tab: 'Kurnool'
+2025-11-06 17:11:15,516 - INFO - ⏩ Skipping already processed tab: 'Akola'
+2025-11-06 17:11:15,516 - INFO - ⏩ Skipping already processed tab: 'Rajpur Sonarpur'
+2025-11-06 17:11:15,522 - INFO - ⏩ Skipping already processed tab: 'Rajahmundry'
+2025-11-06 17:11:15,522 - INFO - ⏩ Skipping already processed tab: 'Bokaro'
+2025-11-06 17:11:15,522 - INFO - ⏩ Skipping already processed tab: 'South Dumdum'
+2025-11-06 17:11:15,522 - INFO - ⏩ Skipping already processed tab: 'Bellary'
+2025-11-06 17:11:15,522 - INFO - ⏩ Skipping already processed tab: 'Patiala'
+2025-11-06 17:11:15,522 - INFO - ⏩ Skipping already processed tab: 'Gopalpur'
+2025-11-06 17:11:15,522 - INFO - ⏩ Skipping already processed tab: 'Agartala'
+2025-11-06 17:11:15,522 - INFO - Reading 'Bhagalpur' tab content...
+2025-11-06 17:11:19,900 - INFO - ✅ Updated WP page ID 676 for city 'Bhagalpur'
+2025-11-06 17:11:20,603 - INFO - ✅ Link updated in the sheet successfully in Sheet1!C115
+2025-11-06 17:11:20,607 - INFO - ⏩ Skipping already processed tab: 'Muzaffarnagar'
+2025-11-06 17:11:20,607 - INFO - ⏩ Skipping already processed tab: 'Bhatpara'
+2025-11-06 17:11:20,608 - INFO - ⏩ Skipping already processed tab: 'Panihati'
+2025-11-06 17:11:20,608 - INFO - ⏩ Skipping already processed tab: 'Latur'
+2025-11-06 17:11:20,608 - INFO - ⏩ Skipping already processed tab: 'Dhule'
+2025-11-06 17:11:20,609 - INFO - ⏩ Skipping already processed tab: 'Tirupati'
+2025-11-06 17:11:20,609 - INFO - ⏩ Skipping already processed tab: 'Rohtak'
+2025-11-06 17:11:20,610 - INFO - ⏩ Skipping already processed tab: 'Korba'
+2025-11-06 17:11:20,610 - INFO - ⏩ Skipping already processed tab: 'Bhilwara'
+2025-11-06 17:11:20,610 - INFO - ⏩ Skipping already processed tab: 'Berhampur'
+2025-11-06 17:11:20,611 - INFO - ⏩ Skipping already processed tab: 'Muzaffarpur'
+2025-11-06 17:11:20,611 - INFO - ⏩ Skipping already processed tab: 'Ahmednagar'
+2025-11-06 17:11:20,611 - INFO - ⏩ Skipping already processed tab: 'Mathura'
+2025-11-06 17:11:20,612 - INFO - ⏩ Skipping already processed tab: 'Kollam'
+2025-11-06 17:11:20,612 - INFO - ⏩ Skipping already processed tab: 'Avadi'
+2025-11-06 17:11:20,613 - INFO - ⏩ Skipping already processed tab: 'Kadapa'
+2025-11-06 17:11:20,613 - INFO - ⏩ Skipping already processed tab: 'Kamarhati'
+2025-11-06 17:11:20,614 - INFO - ⏩ Skipping already processed tab: 'Bilaspur'
+2025-11-06 17:11:20,614 - INFO - ⏩ Skipping already processed tab: 'Shahjahanpur'
+2025-11-06 17:11:20,614 - INFO - ⏩ Skipping already processed tab: 'Bijapur'
+2025-11-06 17:11:20,623 - INFO - ⏩ Skipping already processed tab: 'Rampur'
+2025-11-06 17:11:20,623 - INFO - ⏩ Skipping already processed tab: 'Shivamogga'
+2025-11-06 17:11:20,624 - INFO - ⏩ Skipping already processed tab: 'Chandrapur'
+2025-11-06 17:11:20,624 - INFO - ⏩ Skipping already processed tab: 'Junagadh'
+2025-11-06 17:11:20,624 - INFO - ⏩ Skipping already processed tab: 'Thrissur'
+2025-11-06 17:11:20,624 - INFO - ⏩ Skipping already processed tab: 'Alwar'
+2025-11-06 17:11:20,625 - INFO - ⏩ Skipping already processed tab: 'Bardhaman'
+2025-11-06 17:11:20,625 - INFO - ⏩ Skipping already processed tab: 'Kulti'
+2025-11-06 17:11:20,625 - INFO - ⏩ Skipping already processed tab: 'Kakinada'
+2025-11-06 17:11:20,625 - INFO - ⏩ Skipping already processed tab: 'Nizamabad'
+2025-11-06 17:11:20,625 - INFO - ⏩ Skipping already processed tab: 'Parbhani'
+2025-11-06 17:11:20,625 - INFO - ⏩ Skipping already processed tab: 'Tumkur'
+2025-11-06 17:11:20,625 - INFO - 📊 ===== Summary for Document: 1k2DVZcTr-mYUkIzqISWXYuI4v4iGW9LNvXgrmBk4yj0 =====
+2025-11-06 17:11:20,625 - INFO - 📄 Total tabs: 46
+2025-11-06 17:11:20,625 - INFO - Processed Count: 1
+2025-11-06 17:11:20,625 - INFO - Skipped Count: 45
+2025-11-06 17:11:20,625 - INFO - Wrong City Name Count: 0
+2025-11-06 17:11:20,626 - INFO - Wrong Internal Link Content Count: 0
+2025-11-06 17:11:20,626 - INFO - Empty Tab Count: 0
+2025-11-06 17:11:20,626 - INFO - Subtab Count: 0
+2025-11-06 17:11:20,626 - INFO - *************************************************************************************************************
+2025-11-06 17:11:20,626 - INFO - *************************************************************************************************************
