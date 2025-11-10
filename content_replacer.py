@@ -129,9 +129,12 @@ def read_city_urls(sheet_service, spreadsheet_id, sheet_name):
             raise ValueError("Sheet appears empty or missing data.")
         
         city_urls = dict(values)
-        city_urls = {city.strip(): url for city, url in city_urls.items()}
+        city_urls = {city.capitalize().strip(): url for city, url in city_urls.items()}
         return city_urls
 
+    except ValueError as ve:
+        logger.exception(f"❌ Sheet data error: {ve}")
+        exit(1) 
     except Exception as e:
         logger.exception(f"❌ Failed to read sheet data: {e}")
         exit(1)

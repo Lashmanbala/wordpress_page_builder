@@ -168,7 +168,7 @@ def process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_
    
     global skipped_count, wrong_city_name_count, empty_tab_count, wrong_internal_link_content_count
 
-    city_name = tab["tabProperties"]["title"]
+    city_name = tab["tabProperties"]["title"].capitalize().strip()
         
     if city_name in progress[doc_id]:
         logger.info(f"⏩ Skipping already processed tab: '{city_name}'")
