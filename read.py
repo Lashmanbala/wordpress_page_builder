@@ -54,13 +54,6 @@ def remove_emojis_and_symbols(text):
 def fix_url(url):
     """Normalize URLs to a standard https://www. format."""
     try:  
-#         url = re.sub(r"(https://)+", "https://", url)   # Remove all extra https:// and www.
-#         url = re.sub(r"(www\.)+", "www.", url)
-
-#         if not url.startswith("https://www."):      # Ensure it starts correctly
-#             url = re.sub(r"^(https://)?(www\.)?", "", url)   # Remove stray prefixes if present
-#             url = "https://www." + url
-
         if not url.endswith("/"):       # Ensure it ends with /
             url += "/"
 
@@ -168,7 +161,7 @@ def process_tab_and_child_tabs(tab, progress, flat_cities_list, valid_urls, doc_
    
     global skipped_count, wrong_city_name_count, empty_tab_count, wrong_internal_link_content_count
 
-    city_name = tab["tabProperties"]["title"].capitalize().strip()
+    city_name = tab["tabProperties"]["title"].strip()
         
     if city_name in progress[doc_id]:
         logger.info(f"⏩ Skipping already processed tab: '{city_name}'")
