@@ -62,7 +62,7 @@ def fix_url(url):
         logger.error(f"❌ Error in fix_url for '{url}': {e}")
 
 
-def text_to_html(paragraph, valid_urls):
+def text_to_html(paragraph, valid_urls, is_heading=False):
     """Convert paragraph elements into valid HTML."""
 
     text_parts = []
@@ -87,7 +87,9 @@ def text_to_html(paragraph, valid_urls):
                     txt = f' <a href="{url}">{txt.strip()}</a>'   # Prepended a space to keep normal text and the internal link seperated in a line.
 
                 # Apply bold/italic
-                if style.get("bold"):
+                # if style.get("bold"):
+                #     txt = f"<strong>{txt}</strong>"
+                if style.get("bold") and is_heading:
                     txt = f"<strong>{txt}</strong>"
                 if style.get("italic"):
                     txt = f"<em>{txt}</em>"
@@ -113,7 +115,11 @@ def read_tab(tab_content, valid_urls):
                 continue
 
             paragraph = content["paragraph"]
-            text = text_to_html(paragraph, valid_urls)
+            # text = text_to_html(paragraph, valid_urls)
+            style = paragraph.get("paragraphStyle", {}).get("namedStyleType", "")
+            is_heading = style.startswith("HEADING_")
+
+            text = text_to_html(paragraph, valid_urls, is_heading)
 
             if not text:
                 continue
@@ -124,7 +130,7 @@ def read_tab(tab_content, valid_urls):
             style = paragraph.get("paragraphStyle", {}).get("namedStyleType", "")
             if style.startswith("HEADING_"):
                 level = int(style.split("_")[1])
-                html_lines.append(f"<h{level}>{text}</h{level}>")
+                html_lines.append(f"<h{level}><strong>{text}</strong></h{level}>")
                 continue
 
             # Bullets / Numbered Lists
