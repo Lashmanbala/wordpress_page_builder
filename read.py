@@ -87,10 +87,10 @@ def text_to_html(paragraph, valid_urls, is_heading=False):
                     txt = f' <a href="{url}">{txt.strip()}</a> '   # Prepended and appended a space to keep normal text and the internal link separated in a line.
 
                 # Apply bold/italic
-                # if style.get("bold"):
-                #     txt = f"<strong>{txt}</strong>"
-                if style.get("bold") and is_heading:
+                if style.get("bold"):
                     txt = f"<strong>{txt}</strong>"
+                # if style.get("bold") and is_heading:
+                #     txt = f"<strong>{txt}</strong>"
                 if style.get("italic"):
                     txt = f"<em>{txt}</em>"
 
